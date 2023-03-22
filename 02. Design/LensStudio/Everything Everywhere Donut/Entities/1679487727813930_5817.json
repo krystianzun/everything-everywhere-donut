@@ -1,0 +1,22 @@
+{
+    "1679487727813930:5817": {
+        "IResourceController": {
+            "name": "Models",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1679487727814142:5818",
+            "resources": [
+                "1679487689004797:3041"
+            ]
+        }
+    },
+    "1679487727814142:5818": {
+        "IResourceController": {
+            "public": {
+                "path": "Models"
+            }
+        }
+    }
+}

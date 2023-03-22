@@ -1,0 +1,33 @@
+{
+    "1679487852604766:13454": {
+        "IFileManager": {
+            "path": "Files/File_1679487852604766_13454.js"
+        }
+    },
+    "1679487852609799:13455": {
+        "IResourceController": {
+            "name": "DrawPath script from template",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1679487852609844:13456",
+            "fileId": "1679487852604766:13454",
+            "publicId": "1679487852622077:13461",
+            "expected_hash": "7ec500713c5cd18267be2ac4d117d29c"
+        },
+        "IResourceManager": {
+            "uid": "1679487852609844:13456",
+            "name": "Files/File_1679487852604766_13454.js",
+            "flags": 1
+        }
+    },
+    "1679487852622077:13461": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/DrawPath script from template.js",
+                "hash": "7ec500713c5cd18267be2ac4d117d29c"
+            }
+        }
+    }
+}

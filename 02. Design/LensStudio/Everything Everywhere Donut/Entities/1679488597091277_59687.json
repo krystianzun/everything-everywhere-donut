@@ -1,0 +1,105 @@
+{
+    "1679488597071417:59684": {
+        "IFileManager": {
+            "path": "Files/File_1679488597071417_59684.mesh"
+        }
+    },
+    "1679488597091277:59687": {
+        "IResourceController": {
+            "name": "Particles Mesh",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1679488597132903:59691",
+            "fileId": "1679488597071417:59684",
+            "publicId": "1679488597150687:59700",
+            "expected_hash": "9cf6125d8ce9ba874fe0ff27b21b2323",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "0",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "2",
+                            "semantic": "color"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "2",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1679488597132903:59691",
+            "name": "Files/File_1679488597071417_59684.mesh",
+            "flags": 1
+        }
+    },
+    "1679488597132903:59691": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "59940",
+                "compressedSize": "19744",
+                "extension": "mesh",
+                "originalRAM": "59940",
+                "originalSize": "19744",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "0",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "2",
+                                "semantic": "color"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "2",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1679488597134712:59697"
+        }
+    },
+    "1679488597134712:59697": {
+        "IFileManager": {
+            "path": "Files/File_1679488597134712_59697.mesh"
+        }
+    },
+    "1679488597150687:59700": {
+        "IResourceController": {
+            "public": {
+                "path": "Particles Mesh.mesh",
+                "hash": "9cf6125d8ce9ba874fe0ff27b21b2323"
+            }
+        }
+    }
+}

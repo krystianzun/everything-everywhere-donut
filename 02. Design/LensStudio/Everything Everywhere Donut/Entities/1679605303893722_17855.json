@@ -1,0 +1,23 @@
+{
+    "1679605303893722:17855": {
+        "IResourceController": {
+            "name": "ScriptHelpers",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1679605303893917:17856",
+            "resources": [
+                "1679605320573253:21383",
+                "1679605320603618:21393"
+            ]
+        }
+    },
+    "1679605303893917:17856": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/ScriptHelpers"
+            }
+        }
+    }
+}

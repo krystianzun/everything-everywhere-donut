@@ -1,0 +1,25 @@
+{
+    "1679604435958539:367094": {
+        "IResourceController": {
+            "name": "Spectacles Depth Cloud",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1679604435958771:367095",
+            "resources": [
+                "1679558793609549:10203",
+                "1679558795024410:10319",
+                "1679558795476315:10628",
+                "1679558795827093:10746"
+            ]
+        }
+    },
+    "1679604435958771:367095": {
+        "IResourceController": {
+            "public": {
+                "path": "Spectacles Depth Cloud"
+            }
+        }
+    }
+}

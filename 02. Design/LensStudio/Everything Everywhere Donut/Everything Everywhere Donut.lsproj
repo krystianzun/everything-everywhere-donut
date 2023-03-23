@@ -58,13 +58,13 @@
             "preview_videos_project_config": {
                 "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
                 "back_preview_is_favorite": "false",
-                "front_preview_id": "local:C:\/Users\/kryst\/Documents\/GitHub\/everything-everywhere-donut\/01. Assets\/Previews\/Flat-walking.mp4",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
                 "front_preview_is_favorite": "false"
             },
             "preview_ie_project_config": {
                 "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
                 "back_preview_is_favorite": "false",
-                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Plane",
                 "front_preview_is_favorite": "false"
             }
         },

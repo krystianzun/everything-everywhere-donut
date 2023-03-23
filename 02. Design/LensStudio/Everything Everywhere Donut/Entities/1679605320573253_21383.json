@@ -1,0 +1,33 @@
+{
+    "1679605320568806:21374": {
+        "IFileManager": {
+            "path": "Files/File_1679605320568806_21374.js"
+        }
+    },
+    "1679605320573253:21383": {
+        "IResourceController": {
+            "name": "SetEnabledSceneObject",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1679605320573284:21384",
+            "fileId": "1679605320568806:21374",
+            "publicId": "1679605320578735:21389",
+            "expected_hash": "ac3dbe3568a5034bba947648e9c16e0b"
+        },
+        "IResourceManager": {
+            "uid": "1679605320573284:21384",
+            "name": "Files/File_1679605320568806_21374.js",
+            "flags": 1
+        }
+    },
+    "1679605320578735:21389": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/ScriptHelpers/SetEnabledSceneObject.js",
+                "hash": "ac3dbe3568a5034bba947648e9c16e0b"
+            }
+        }
+    }
+}

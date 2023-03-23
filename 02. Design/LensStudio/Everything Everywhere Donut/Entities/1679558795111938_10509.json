@@ -117,7 +117,7 @@
     "1679558795175586:10525": {
         "IResourceController": {
             "public": {
-                "path": "Assets/cloud [REMOVE_ME]/Meshes/cloud_mesh.mesh",
+                "path": "Spectacles Depth Cloud/Assets/cloud [REMOVE_ME]/Meshes/cloud_mesh.mesh",
                 "hash": "bae64bec7f9c5be904933439702ae5e9"
             }
         }

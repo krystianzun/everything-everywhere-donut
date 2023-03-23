@@ -1,0 +1,33 @@
+{
+    "1679558793403764:10091": {
+        "IFileManager": {
+            "path": "Files/File_1679558793403764_10091.js"
+        }
+    },
+    "1679558793407181:10092": {
+        "IResourceController": {
+            "name": "ObjectSpawner",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1679558793407205:10093",
+            "fileId": "1679558793403764:10091",
+            "publicId": "1679558793426546:10105",
+            "expected_hash": "fe7c710f776fb86feb41449fa734f316"
+        },
+        "IResourceManager": {
+            "uid": "1679558793407205:10093",
+            "name": "Files/File_1679558793403764_10091.js",
+            "flags": 1
+        }
+    },
+    "1679558793426546:10105": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/ObjectSpawner.js",
+                "hash": "fe7c710f776fb86feb41449fa734f316"
+            }
+        }
+    }
+}

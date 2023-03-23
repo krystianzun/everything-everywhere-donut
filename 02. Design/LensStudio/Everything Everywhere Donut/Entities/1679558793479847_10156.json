@@ -1,0 +1,33 @@
+{
+    "1679558793476402:10155": {
+        "IFileManager": {
+            "path": "Files/File_1679558793476402_10155.js"
+        }
+    },
+    "1679558793479847:10156": {
+        "IResourceController": {
+            "name": "PlayParticles",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1679558793479867:10157",
+            "fileId": "1679558793476402:10155",
+            "publicId": "1679558793488217:10169",
+            "expected_hash": "63f2bc81f9e900ae9d37a8cbc956c258"
+        },
+        "IResourceManager": {
+            "uid": "1679558793479867:10157",
+            "name": "Files/File_1679558793476402_10155.js",
+            "flags": 1
+        }
+    },
+    "1679558793488217:10169": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Object Spawner Helpers/PlayParticles.js",
+                "hash": "63f2bc81f9e900ae9d37a8cbc956c258"
+            }
+        }
+    }
+}

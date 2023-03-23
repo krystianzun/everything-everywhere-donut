@@ -1,0 +1,25 @@
+{
+    "1679558793437898:10121": {
+        "IResourceController": {
+            "name": "Object Spawner Helpers",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1679558793438076:10122",
+            "resources": [
+                "1679558793433027:10110",
+                "1679558793446590:10125",
+                "1679558793463275:10143",
+                "1679558793479847:10156"
+            ]
+        }
+    },
+    "1679558793438076:10122": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Object Spawner Helpers"
+            }
+        }
+    }
+}

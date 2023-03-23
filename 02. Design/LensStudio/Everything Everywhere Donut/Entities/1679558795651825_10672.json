@@ -1,0 +1,66 @@
+{
+    "1679558795648141:10671": {
+        "IFileManager": {
+            "path": "Files/File_1679558795648141_10671.jpg"
+        }
+    },
+    "1679558795651825:10672": {
+        "IResourceController": {
+            "name": "cloud_diffuse",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1679558795651984:10673",
+            "fileId": "1679558795648141:10671",
+            "originalId": "1679558795652368:10678",
+            "publicId": "1679558795685663:10687",
+            "expected_hash": "460763fd6878b6c75c6d06989c2cf4c7",
+            "additional": {
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1679558795651984:10673",
+            "name": "Files/File_1679558795648141_10671.jpg",
+            "flags": 1
+        }
+    },
+    "1679558795651984:10673": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "4194304",
+                "compressedSize": "26894",
+                "extension": "jpg",
+                "originalRAM": "4194304",
+                "originalSize": "26894",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1679558795670899:10686"
+        }
+    },
+    "1679558795652368:10678": {
+        "IFileManager": {
+            "path": "Files/File_1679558795652368_10678.jpg"
+        }
+    },
+    "1679558795670899:10686": {
+        "IFileManager": {
+            "path": "Files/File_1679558795670899_10686.jpg"
+        }
+    },
+    "1679558795685663:10687": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/cloud_diffuse.jpg",
+                "hash": "460763fd6878b6c75c6d06989c2cf4c7"
+            }
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1679558794480287:10269": {
+        "IFileManager": {
+            "path": "Files/File_1679558794480287_10269"
+        }
+    },
+    "1679558794482358:10270": {
+        "IResourceController": {
+            "name": "cloud_face_sad_diffuse",
+            "type": 2,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1679558794482363:10271",
+            "fileId": "1679558794480287:10269",
+            "originalId": "1679558794713369:10284",
+            "publicId": "1679558794720648:10285",
+            "expected_hash": "c83ea7cdce42c092aa02d76746c426f6"
+        },
+        "IResourceManager": {
+            "uid": "1679558794482363:10271",
+            "name": "Files/File_1679558794480287_10269",
+            "flags": 1
+        }
+    },
+    "1679558794713369:10284": {
+        "IFileManager": {
+            "path": "Files/File_1679558794713369_10284.lsmat"
+        }
+    },
+    "1679558794720648:10285": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/cloud_face_sad_diffuse.lsmat",
+                "hash": "e66fce74cb465b3ba9a0ae2421ef826c"
+            }
+        }
+    }
+}

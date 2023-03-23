@@ -1,0 +1,39 @@
+{
+    "1679558793504756:10187": {
+        "IFileManager": {
+            "path": "Files/File_1679558793504756_10187"
+        }
+    },
+    "1679558793506740:10188": {
+        "IResourceController": {
+            "name": "Spectacles Depth",
+            "type": 2,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1679558793506752:10189",
+            "fileId": "1679558793504756:10187",
+            "originalId": "1679558793606509:10202",
+            "publicId": "1679558793611378:10205",
+            "expected_hash": "bcecec8a90cee3e8d59a61a74234d34b"
+        },
+        "IResourceManager": {
+            "uid": "1679558793506752:10189",
+            "name": "Files/File_1679558793504756_10187",
+            "flags": 1
+        }
+    },
+    "1679558793606509:10202": {
+        "IFileManager": {
+            "path": "Files/File_1679558793606509_10202.lsmat"
+        }
+    },
+    "1679558793611378:10205": {
+        "IResourceController": {
+            "public": {
+                "path": "Default/Spectacles Depth.lsmat",
+                "hash": "46374726b99fe5d9bd683ee4760e18aa"
+            }
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "1679558795496493:10634": {
+        "IFileManager": {
+            "path": "Files/File_1679558795496493_10634"
+        }
+    },
+    "1679558795517160:10637": {
+        "IResourceController": {
+            "name": "cloud_puff 2",
+            "type": 1,
+            "subtype": 5,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1679558795518950:10640",
+            "fileId": "1679558795496493:10634",
+            "originalId": "1679558795536464:10647",
+            "publicId": "1679558795620287:10658",
+            "expected_hash": "b8a043348b5ca269732c47f1a198b0aa",
+            "additional": {
+                "subtype": "5"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1679558795518950:10640",
+            "name": "Files/File_1679558795496493_10634",
+            "flags": 1
+        }
+    },
+    "1679558795518950:10640": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "16777216",
+                "compressedSize": "37093",
+                "extension": "t3d",
+                "originalRAM": "16777216",
+                "originalSize": "37093",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "5",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1679558795598880:10657"
+        }
+    },
+    "1679558795536464:10647": {
+        "IFileManager": {
+            "path": "Files/File_1679558795536464_10647"
+        }
+    },
+    "1679558795598880:10657": {
+        "IFileManager": {
+            "path": "Files/File_1679558795598880_10657"
+        }
+    },
+    "1679558795620287:10658": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Animated Textures/cloud_puff 2",
+                "hash": "b8a043348b5ca269732c47f1a198b0aa",
+                "complexResourceHash": "752bfa6324b544de0874bec89279a22c"
+            }
+        }
+    }
+}

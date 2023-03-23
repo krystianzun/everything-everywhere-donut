@@ -1,0 +1,17 @@
+{
+    "1679558795038702:10401": {
+        "IResourceController": {
+            "name": "joint5 3",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1679558795038701:10400"
+        },
+        "IResourceManager": {
+            "uid": "1679558795038701:10400",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

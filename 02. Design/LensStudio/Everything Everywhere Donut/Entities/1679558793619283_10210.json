@@ -1,0 +1,39 @@
+{
+    "1679558793616875:10209": {
+        "IFileManager": {
+            "path": "Files/File_1679558793616875_10209"
+        }
+    },
+    "1679558793619283:10210": {
+        "IResourceController": {
+            "name": "animated_texture_unlit",
+            "type": 2,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1679558793619295:10211",
+            "fileId": "1679558793616875:10209",
+            "originalId": "1679558793882795:10224",
+            "publicId": "1679558793890914:10225",
+            "expected_hash": "c83ea7cdce42c092aa02d76746c426f6"
+        },
+        "IResourceManager": {
+            "uid": "1679558793619295:10211",
+            "name": "Files/File_1679558793616875_10209",
+            "flags": 1
+        }
+    },
+    "1679558793882795:10224": {
+        "IFileManager": {
+            "path": "Files/File_1679558793882795_10224.lsmat"
+        }
+    },
+    "1679558793890914:10225": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/animated_texture_unlit.lsmat",
+                "hash": "3abfd76b84f5a136b24690c0a4a6b1ee"
+            }
+        }
+    }
+}

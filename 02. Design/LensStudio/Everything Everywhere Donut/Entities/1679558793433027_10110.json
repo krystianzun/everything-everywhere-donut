@@ -1,0 +1,33 @@
+{
+    "1679558793429632:10109": {
+        "IFileManager": {
+            "path": "Files/File_1679558793429632_10109.js"
+        }
+    },
+    "1679558793433027:10110": {
+        "IResourceController": {
+            "name": "Play2DAnimation",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1679558793433042:10111",
+            "fileId": "1679558793429632:10109",
+            "publicId": "1679558793441189:10123",
+            "expected_hash": "f2846e73bb06d8b5a3a3c39b60ed4347"
+        },
+        "IResourceManager": {
+            "uid": "1679558793433042:10111",
+            "name": "Files/File_1679558793429632_10109.js",
+            "flags": 1
+        }
+    },
+    "1679558793441189:10123": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Object Spawner Helpers/Play2DAnimation.js",
+                "hash": "f2846e73bb06d8b5a3a3c39b60ed4347"
+            }
+        }
+    }
+}

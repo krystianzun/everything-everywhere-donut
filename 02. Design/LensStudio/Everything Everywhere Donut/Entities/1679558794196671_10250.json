@@ -1,0 +1,39 @@
+{
+    "1679558794194659:10249": {
+        "IFileManager": {
+            "path": "Files/File_1679558794194659_10249"
+        }
+    },
+    "1679558794196671:10250": {
+        "IResourceController": {
+            "name": "cloud_face_happy_diffuse",
+            "type": 2,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1679558794196676:10251",
+            "fileId": "1679558794194659:10249",
+            "originalId": "1679558794456874:10264",
+            "publicId": "1679558794465206:10265",
+            "expected_hash": "c83ea7cdce42c092aa02d76746c426f6"
+        },
+        "IResourceManager": {
+            "uid": "1679558794196676:10251",
+            "name": "Files/File_1679558794194659_10249",
+            "flags": 1
+        }
+    },
+    "1679558794456874:10264": {
+        "IFileManager": {
+            "path": "Files/File_1679558794456874_10264.lsmat"
+        }
+    },
+    "1679558794465206:10265": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/cloud_face_happy_diffuse.lsmat",
+                "hash": "f7ca74429030126c95f489c28b4c9b91"
+            }
+        }
+    }
+}

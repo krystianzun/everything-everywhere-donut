@@ -1,0 +1,22 @@
+{
+    "1679558795024410:10319": {
+        "IResourceController": {
+            "name": "Assets",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1679558795024626:10320",
+            "resources": [
+                "1679558795025875:10321"
+            ]
+        }
+    },
+    "1679558795024626:10320": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets"
+            }
+        }
+    }
+}

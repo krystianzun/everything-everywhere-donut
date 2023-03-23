@@ -1,0 +1,39 @@
+{
+    "1679558794739369:10294": {
+        "IFileManager": {
+            "path": "Files/File_1679558794739369_10294"
+        }
+    },
+    "1679558794741413:10295": {
+        "IResourceController": {
+            "name": "lightning_diffuse",
+            "type": 2,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1679558794741418:10296",
+            "fileId": "1679558794739369:10294",
+            "originalId": "1679558795011144:10309",
+            "publicId": "1679558795018180:10310",
+            "expected_hash": "c83ea7cdce42c092aa02d76746c426f6"
+        },
+        "IResourceManager": {
+            "uid": "1679558794741418:10296",
+            "name": "Files/File_1679558794739369_10294",
+            "flags": 1
+        }
+    },
+    "1679558795011144:10309": {
+        "IFileManager": {
+            "path": "Files/File_1679558795011144_10309.lsmat"
+        }
+    },
+    "1679558795018180:10310": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/lightning_diffuse.lsmat",
+                "hash": "bfe934a25f6f7cd176f8a5b8ec80a9ec"
+            }
+        }
+    }
+}

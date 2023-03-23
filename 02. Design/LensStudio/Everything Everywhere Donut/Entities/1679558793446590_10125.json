@@ -1,0 +1,33 @@
+{
+    "1679558793443904:10124": {
+        "IFileManager": {
+            "path": "Files/File_1679558793443904_10124.js"
+        }
+    },
+    "1679558793446590:10125": {
+        "IResourceController": {
+            "name": "PlayStop3DAnimation",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1679558793446609:10126",
+            "fileId": "1679558793443904:10124",
+            "publicId": "1679558793456475:10138",
+            "expected_hash": "de2d2b214b8523c06455399dd5a73a0c"
+        },
+        "IResourceManager": {
+            "uid": "1679558793446609:10126",
+            "name": "Files/File_1679558793443904_10124.js",
+            "flags": 1
+        }
+    },
+    "1679558793456475:10138": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Object Spawner Helpers/PlayStop3DAnimation.js",
+                "hash": "de2d2b214b8523c06455399dd5a73a0c"
+            }
+        }
+    }
+}

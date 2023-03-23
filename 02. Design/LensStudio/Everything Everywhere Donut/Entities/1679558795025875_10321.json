@@ -1,0 +1,23 @@
+{
+    "1679558795025875:10321": {
+        "IResourceController": {
+            "name": "cloud [REMOVE_ME]",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1679558795025992:10322",
+            "resources": [
+                "1679558795026907:10323",
+                "1679558795091235:10500"
+            ]
+        }
+    },
+    "1679558795025992:10322": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/cloud [REMOVE_ME]"
+            }
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "1679558793390141:10085": {
+        "IResourceController": {
+            "name": "Duplication Utilities",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1679558793390374:10086",
+            "resources": [
+                "1679558793383437:10074"
+            ]
+        }
+    },
+    "1679558793390374:10086": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Duplication Utilities"
+            }
+        }
+    }
+}

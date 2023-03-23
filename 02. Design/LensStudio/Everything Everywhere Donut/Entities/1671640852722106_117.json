@@ -6,7 +6,10 @@
             "subtype": 1,
             "dependency": 0,
             "hidden": false,
-            "uid": "1:1"
+            "uid": "1:1",
+            "additional": {
+                "RenderTargetRole": "1"
+            }
         },
         "IResourceManager": {
             "uid": "1:1",

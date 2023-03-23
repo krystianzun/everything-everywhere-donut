@@ -21,8 +21,8 @@
         "lastSavedWith": {
             "type": "Public",
             "major": "4",
-            "minor": "40",
-            "patch": "1",
+            "minor": "43",
+            "patch": "0",
             "build": "0"
         }
     },
@@ -38,6 +38,7 @@
             "applicability": "3",
             "lens_descriptors": "",
             "sg": "false",
+            "git_friendly": "true",
             "Spectacles2021UseAllowed": "false"
         },
         "ObjectTracking3DUIComponent": "",

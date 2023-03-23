@@ -1,0 +1,33 @@
+{
+    "1679558793374026:10071": {
+        "IFileManager": {
+            "path": "Files/File_1679558793374026_10071.js"
+        }
+    },
+    "1679558793383437:10074": {
+        "IResourceController": {
+            "name": "AnimatedTextureMaterialDuplicationHelper",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1679558793383541:10075",
+            "fileId": "1679558793374026:10071",
+            "publicId": "1679558793392217:10087",
+            "expected_hash": "352b6f1449ac17a0f2cbddf50acbf282"
+        },
+        "IResourceManager": {
+            "uid": "1679558793383541:10075",
+            "name": "Files/File_1679558793374026_10071.js",
+            "flags": 1
+        }
+    },
+    "1679558793392217:10087": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Duplication Utilities/AnimatedTextureMaterialDuplicationHelper.js",
+                "hash": "352b6f1449ac17a0f2cbddf50acbf282"
+            }
+        }
+    }
+}

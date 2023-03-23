@@ -1,0 +1,66 @@
+{
+    "1679558796016755:10779": {
+        "IFileManager": {
+            "path": "Files/File_1679558796016755_10779.png"
+        }
+    },
+    "1679558796020541:10780": {
+        "IResourceController": {
+            "name": "clouds_texture_sheet",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1679558796020755:10781",
+            "fileId": "1679558796016755:10779",
+            "originalId": "1679558796021195:10786",
+            "publicId": "1679558796051265:10795",
+            "expected_hash": "36137a1396811f0baa8c6bb0e893782a",
+            "additional": {
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1679558796020755:10781",
+            "name": "Files/File_1679558796016755_10779.jpg",
+            "flags": 1
+        }
+    },
+    "1679558796020755:10781": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "4194304",
+                "compressedSize": "28549",
+                "extension": "png",
+                "originalRAM": "4194304",
+                "originalSize": "28549",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1679558796037179:10794"
+        }
+    },
+    "1679558796021195:10786": {
+        "IFileManager": {
+            "path": "Files/File_1679558796021195_10786.png"
+        }
+    },
+    "1679558796037179:10794": {
+        "IFileManager": {
+            "path": "Files/File_1679558796037179_10794.png"
+        }
+    },
+    "1679558796051265:10795": {
+        "IResourceController": {
+            "public": {
+                "path": "Particles/clouds_texture_sheet.png",
+                "hash": "36137a1396811f0baa8c6bb0e893782a"
+            }
+        }
+    }
+}

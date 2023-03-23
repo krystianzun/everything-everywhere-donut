@@ -1,0 +1,33 @@
+{
+    "1679558793492335:10173": {
+        "IFileManager": {
+            "path": "Files/File_1679558793492335_10173.js"
+        }
+    },
+    "1679558793495333:10174": {
+        "IResourceController": {
+            "name": "SpectaclesTimeLoopHelper",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1679558793495351:10175",
+            "fileId": "1679558793492335:10173",
+            "publicId": "1679558793502881:10185",
+            "expected_hash": "9fba1326638c3b1202054a4ac7ca7231"
+        },
+        "IResourceManager": {
+            "uid": "1679558793495351:10175",
+            "name": "Files/File_1679558793492335_10173.js",
+            "flags": 1
+        }
+    },
+    "1679558793502881:10185": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/SpectaclesTimeLoopHelper.js",
+                "hash": "9fba1326638c3b1202054a4ac7ca7231"
+            }
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "1679558795597325:10655": {
+        "IResourceController": {
+            "name": "Animated Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1679558795597571:10656",
+            "resources": [
+                "1679558795517160:10637"
+            ]
+        }
+    },
+    "1679558795597571:10656": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Animated Textures"
+            }
+        }
+    }
+}

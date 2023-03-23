@@ -1,0 +1,17 @@
+{
+    "1679558795031994:10366": {
+        "IResourceController": {
+            "name": "joint4",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1679558795031992:10365"
+        },
+        "IResourceManager": {
+            "uid": "1679558795031992:10365",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "1679558795776271:10731": {
+        "IFileManager": {
+            "path": "Files/File_1679558795776271_10731.mesh"
+        }
+    },
+    "1679558795779882:10732": {
+        "IResourceController": {
+            "name": "emitter_1000",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1679558795814660:10736",
+            "fileId": "1679558795776271:10731",
+            "publicId": "1679558795843936:10750",
+            "expected_hash": "adc36fff2957674601d705ed729586cf",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "3",
+                            "semantic": "color"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1679558795814660:10736",
+            "name": "Files/File_1679558795776271_10731.mesh",
+            "flags": 1
+        }
+    },
+    "1679558795814660:10736": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "155844",
+                "compressedSize": "46882",
+                "extension": "mesh",
+                "originalRAM": "155844",
+                "originalSize": "46882",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "3",
+                                "semantic": "color"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1679558795828817:10749"
+        }
+    },
+    "1679558795828817:10749": {
+        "IFileManager": {
+            "path": "Files/File_1679558795828817_10749.mesh"
+        }
+    },
+    "1679558795843936:10750": {
+        "IResourceController": {
+            "public": {
+                "path": "Particles/emitter_1000.mesh",
+                "hash": "adc36fff2957674601d705ed729586cf"
+            }
+        }
+    }
+}

@@ -1,0 +1,5490 @@
+{
+    "1517446348227994:84813": {
+        "RenderOrderComponent": true
+    },
+    "1517446348228144:84822": {
+        "RenderOrderComponent": true
+    },
+    "1528843813151434:5126": {
+        "RenderOrderComponent": true
+    },
+    "1569531557362662:336285": {
+        "RenderOrderComponent": true
+    },
+    "1569531557381354:336418": {
+        "RenderOrderComponent": true
+    },
+    "1569952964938695:92936": {
+        "RenderOrderComponent": true
+    },
+    "1569975485664613:258605": {
+        "RenderOrderComponent": true
+    },
+    "1569976155984755:332007": {
+        "RenderOrderComponent": true
+    },
+    "1569976738595709:28711": {
+        "RenderOrderComponent": true
+    },
+    "1570123732902473:6715": {
+        "RenderOrderComponent": true
+    },
+    "1570125899418551:27107": {
+        "RenderOrderComponent": true
+    },
+    "1570482171453571:17690": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "70ffc83473dc980e2d9ee1f8ddea5b3e"
+                    },
+                    "v": "1686607108618725:22134"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "131072",
+                "compressedSize": "38087",
+                "extension": "png",
+                "originalRAM": "1048576",
+                "originalSize": "52277",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1686607094569447:15074"
+        }
+    },
+    "1686607091283745:6357": {
+        "IResourceController": {
+            "name": "fox",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1570482171453571:17690",
+            "fileId": "1686607091283818:6472",
+            "publicId": "1686607091284055:6626",
+            "expected_hash": "168988fe6bc0743c2cd5676e16ce1aad",
+            "additional": {
+                "originHash": "168988fe6bc0743c2cd5676e16ce1aad"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1570482171453571:17690",
+            "name": "Files/File191.jpg",
+            "flags": 1
+        }
+    },
+    "1686607091283818:6472": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283818_6472.pvr"
+        }
+    },
+    "1686607091284055:6626": {
+        "IResourceController": {
+            "public": {
+                "path": "Path Template Resources/Textures/fox.pvr",
+                "hash": "168988fe6bc0743c2cd5676e16ce1aad"
+            }
+        }
+    },
+    "1686607094569447:15074": {
+        "IFileManager": {
+            "path": "Files/File_1686607094569447_15074.png"
+        }
+    },
+    "1686607108618725:22134": {
+        "IFileManager": {
+            "path": "Files/File_1686607108618725_22134.pvr"
+        }
+    },
+    "1570482171614204:17702": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "3072",
+                        "uncompressed_hash": "f456252a6ee478664f5bbfdbee789bfb"
+                    },
+                    "v": "1686607108722000:22174"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "1048576",
+                "compressedSize": "35724",
+                "extension": "jpg",
+                "originalRAM": "1048576",
+                "originalSize": "35724",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "3",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1686607094574222:15075"
+        }
+    },
+    "1686607091283745:6358": {
+        "IResourceController": {
+            "name": "ufo",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1570482171614204:17702",
+            "fileId": "1686607091283821:6474",
+            "publicId": "1686607091284057:6627",
+            "expected_hash": "f456252a6ee478664f5bbfdbee789bfb",
+            "additional": {
+                "originHash": "f456252a6ee478664f5bbfdbee789bfb"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1570482171614204:17702",
+            "name": "Files/File_1686607091283821_6474.jpg",
+            "flags": 1
+        }
+    },
+    "1686607091283821:6474": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283821_6474.jpg"
+        }
+    },
+    "1686607091284057:6627": {
+        "IResourceController": {
+            "public": {
+                "path": "Path Template Resources/Textures/ufo.jpg",
+                "hash": "f456252a6ee478664f5bbfdbee789bfb"
+            }
+        }
+    },
+    "1686607094574222:15075": {
+        "IFileManager": {
+            "path": "Files/File_1686607094574222_15075.jpg"
+        }
+    },
+    "1686607108722000:22174": {
+        "IFileManager": {
+            "path": "Files/File_1686607108722000_22174.jpg"
+        }
+    },
+    "1570482171860320:17717": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "60876",
+                "compressedSize": "52836",
+                "extension": "mesh",
+                "originalRAM": "60876",
+                "originalSize": "52836",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1686607094628055:15086"
+        }
+    },
+    "1686607091283745:6359": {
+        "IResourceController": {
+            "name": "fox",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1570482171860320:17717",
+            "fileId": "1686607091283823:6476",
+            "publicId": "1686607091284059:6631",
+            "expected_hash": "1d2bc1cc1d7b9c43550fce3c43da968f"
+        },
+        "IResourceManager": {
+            "uid": "1570482171860320:17717",
+            "name": "Files/File_1686607091283823_6476.mesh",
+            "flags": 1
+        }
+    },
+    "1686607091283823:6476": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283823_6476.mesh"
+        }
+    },
+    "1686607091284059:6631": {
+        "IResourceController": {
+            "public": {
+                "path": "Path Template Resources/Models/fox/Meshes/fox.mesh",
+                "hash": "1d2bc1cc1d7b9c43550fce3c43da968f"
+            }
+        }
+    },
+    "1686607094628055:15086": {
+        "IFileManager": {
+            "path": "Files/File_1686607094628055_15086.mesh"
+        }
+    },
+    "1570482171949377:17732": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "130752",
+                "compressedSize": "54678",
+                "extension": "mesh",
+                "originalRAM": "130752",
+                "originalSize": "54678",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1686607094632964:15088"
+        }
+    },
+    "1686607091283745:6360": {
+        "IResourceController": {
+            "name": "ufo",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1570482171949377:17732",
+            "fileId": "1686607091283825:6477",
+            "publicId": "1686607091284060:6632",
+            "expected_hash": "f3be8757367659261235d83467770fd9"
+        },
+        "IResourceManager": {
+            "uid": "1570482171949377:17732",
+            "name": "Files/File_1686607091283825_6477.mesh",
+            "flags": 1
+        }
+    },
+    "1686607091283825:6477": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283825_6477.mesh"
+        }
+    },
+    "1686607091284060:6632": {
+        "IResourceController": {
+            "public": {
+                "path": "Path Template Resources/Models/fox/Meshes/ufo.mesh",
+                "hash": "f3be8757367659261235d83467770fd9"
+            }
+        }
+    },
+    "1686607094632964:15088": {
+        "IFileManager": {
+            "path": "Files/File_1686607094632964_15088.mesh"
+        }
+    },
+    "1570482173135709:17880": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "b9f03b28cb0f586d70f325b1112d1625"
+                    },
+                    "v": "1686607109221370:23602"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "32768",
+                "compressedSize": "18628",
+                "extension": "png",
+                "originalRAM": "262144",
+                "originalSize": "36694",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1686607094577787:15076"
+        }
+    },
+    "1686607091283746:6367": {
+        "IResourceController": {
+            "name": "ring",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1570482173135709:17880",
+            "fileId": "1686607091283832:6482",
+            "publicId": "1686607091284062:6637",
+            "expected_hash": "6115262290cc3943302fbeb6436f9a4b",
+            "additional": {
+                "originHash": "6115262290cc3943302fbeb6436f9a4b"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1570482173135709:17880",
+            "name": "Files/File201.jpg",
+            "flags": 1
+        }
+    },
+    "1686607091283832:6482": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283832_6482.pvr"
+        }
+    },
+    "1686607091284062:6637": {
+        "IResourceController": {
+            "public": {
+                "path": "Path Template Resources/Textures/ring.pvr",
+                "hash": "6115262290cc3943302fbeb6436f9a4b"
+            }
+        }
+    },
+    "1686607094577787:15076": {
+        "IFileManager": {
+            "path": "Files/File_1686607094577787_15076.png"
+        }
+    },
+    "1686607109221370:23602": {
+        "IFileManager": {
+            "path": "Files/File_1686607109221370_23602.pvr"
+        }
+    },
+    "1570482173299821:17892": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "d11cd5e20b4c44fdd8849b256363cb7d"
+                    },
+                    "v": "1686607113912805:26350"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "131072",
+                "compressedSize": "29209",
+                "extension": "png",
+                "originalRAM": "1048576",
+                "originalSize": "56644",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1686607094583727:15077"
+        }
+    },
+    "1686607091283746:6368": {
+        "IResourceController": {
+            "name": "bear",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1570482173299821:17892",
+            "fileId": "1686607091283835:6484",
+            "publicId": "1686607091284062:6638",
+            "expected_hash": "1cd72b24fbc92b32c2ca27944cfdb19b",
+            "additional": {
+                "originHash": "1cd72b24fbc92b32c2ca27944cfdb19b"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1570482173299821:17892",
+            "name": "Files/File203.jpg",
+            "flags": 1
+        }
+    },
+    "1686607091283835:6484": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283835_6484.pvr"
+        }
+    },
+    "1686607091284062:6638": {
+        "IResourceController": {
+            "public": {
+                "path": "Path Template Resources/Textures/bear.pvr",
+                "hash": "1cd72b24fbc92b32c2ca27944cfdb19b"
+            }
+        }
+    },
+    "1686607094583727:15077": {
+        "IFileManager": {
+            "path": "Files/File_1686607094583727_15077.png"
+        }
+    },
+    "1686607113912805:26350": {
+        "IFileManager": {
+            "path": "Files/File_1686607113912805_26350.pvr"
+        }
+    },
+    "1570482173485396:17907": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "3024",
+                "compressedSize": "2142",
+                "extension": "mesh",
+                "originalRAM": "3024",
+                "originalSize": "2142",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1686607094638886:15090"
+        }
+    },
+    "1686607091283746:6369": {
+        "IResourceController": {
+            "name": "ring",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1570482173485396:17907",
+            "fileId": "1686607091283838:6486",
+            "publicId": "1686607091284063:6641",
+            "expected_hash": "986804fe153d8e7034525a0866a725c3"
+        },
+        "IResourceManager": {
+            "uid": "1570482173485396:17907",
+            "name": "Files/File_1686607091283838_6486.mesh",
+            "flags": 1
+        }
+    },
+    "1686607091283838:6486": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283838_6486.mesh"
+        }
+    },
+    "1686607091284063:6641": {
+        "IResourceController": {
+            "public": {
+                "path": "Path Template Resources/Models/bear/Meshes/ring.mesh",
+                "hash": "986804fe153d8e7034525a0866a725c3"
+            }
+        }
+    },
+    "1686607094638886:15090": {
+        "IFileManager": {
+            "path": "Files/File_1686607094638886_15090.mesh"
+        }
+    },
+    "1570482173580300:17922": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "22080",
+                "compressedSize": "18940",
+                "extension": "mesh",
+                "originalRAM": "22080",
+                "originalSize": "18940",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1686607094643116:15092"
+        }
+    },
+    "1686607091283747:6370": {
+        "IResourceController": {
+            "name": "bear",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1570482173580300:17922",
+            "fileId": "1686607091283840:6487",
+            "publicId": "1686607091284063:6642",
+            "expected_hash": "0326ff64e68d58176b18f8ac3c6cbf72"
+        },
+        "IResourceManager": {
+            "uid": "1570482173580300:17922",
+            "name": "Files/File_1686607091283840_6487.mesh",
+            "flags": 1
+        }
+    },
+    "1686607091283840:6487": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283840_6487.mesh"
+        }
+    },
+    "1686607091284063:6642": {
+        "IResourceController": {
+            "public": {
+                "path": "Path Template Resources/Models/bear/Meshes/bear.mesh",
+                "hash": "0326ff64e68d58176b18f8ac3c6cbf72"
+            }
+        }
+    },
+    "1686607094643116:15092": {
+        "IFileManager": {
+            "path": "Files/File_1686607094643116_15092.mesh"
+        }
+    },
+    "1570482174321608:18029": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "3072",
+                        "uncompressed_hash": "56570c18115b3debfe57b2ebc8991b28"
+                    },
+                    "v": "1686607114027449:27666"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "1048576",
+                "compressedSize": "26149",
+                "extension": "jpg",
+                "originalRAM": "1048576",
+                "originalSize": "26149",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "3",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1686607094587295:15078"
+        }
+    },
+    "1686607091283747:6376": {
+        "IResourceController": {
+            "name": "planet",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1570482174321608:18029",
+            "fileId": "1686607091283848:6492",
+            "publicId": "1686607091284065:6647",
+            "expected_hash": "56570c18115b3debfe57b2ebc8991b28",
+            "additional": {
+                "originHash": "56570c18115b3debfe57b2ebc8991b28"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1570482174321608:18029",
+            "name": "Files/File_1686607091283848_6492.jpg",
+            "flags": 1
+        }
+    },
+    "1686607091283848:6492": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283848_6492.jpg"
+        }
+    },
+    "1686607091284065:6647": {
+        "IResourceController": {
+            "public": {
+                "path": "Path Template Resources/Textures/planet.jpg",
+                "hash": "56570c18115b3debfe57b2ebc8991b28"
+            }
+        }
+    },
+    "1686607094587295:15078": {
+        "IFileManager": {
+            "path": "Files/File_1686607094587295_15078.jpg"
+        }
+    },
+    "1686607114027449:27666": {
+        "IFileManager": {
+            "path": "Files/File_1686607114027449_27666.jpg"
+        }
+    },
+    "1570482174486732:18041": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "d8c37da880f2ea499164354047e54862"
+                    },
+                    "v": "1686607118014007:30207"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "131072",
+                "compressedSize": "34353",
+                "extension": "png",
+                "originalRAM": "1048576",
+                "originalSize": "52980",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1686607094590501:15079"
+        }
+    },
+    "1686607091283747:6377": {
+        "IResourceController": {
+            "name": "cat",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1570482174486732:18041",
+            "fileId": "1686607091283851:6494",
+            "publicId": "1686607091284065:6648",
+            "expected_hash": "839eec662f0eb674ec08329732b78fa2",
+            "additional": {
+                "originHash": "839eec662f0eb674ec08329732b78fa2"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1570482174486732:18041",
+            "name": "Files/File213.jpg",
+            "flags": 1
+        }
+    },
+    "1686607091283851:6494": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283851_6494.pvr"
+        }
+    },
+    "1686607091284065:6648": {
+        "IResourceController": {
+            "public": {
+                "path": "Path Template Resources/Textures/cat.pvr",
+                "hash": "839eec662f0eb674ec08329732b78fa2"
+            }
+        }
+    },
+    "1686607094590501:15079": {
+        "IFileManager": {
+            "path": "Files/File_1686607094590501_15079.png"
+        }
+    },
+    "1686607118014007:30207": {
+        "IFileManager": {
+            "path": "Files/File_1686607118014007_30207.pvr"
+        }
+    },
+    "1570482174661027:18056": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "11856",
+                "compressedSize": "8243",
+                "extension": "mesh",
+                "originalRAM": "11856",
+                "originalSize": "8243",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1686607094646594:15094"
+        }
+    },
+    "1686607091283747:6378": {
+        "IResourceController": {
+            "name": "planets",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1570482174661027:18056",
+            "fileId": "1686607091283854:6496",
+            "publicId": "1686607091284066:6651",
+            "expected_hash": "57cede1670976ea12aed8c7090c229fe"
+        },
+        "IResourceManager": {
+            "uid": "1570482174661027:18056",
+            "name": "Files/File_1686607091283854_6496.mesh",
+            "flags": 1
+        }
+    },
+    "1686607091283854:6496": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283854_6496.mesh"
+        }
+    },
+    "1686607091284066:6651": {
+        "IResourceController": {
+            "public": {
+                "path": "Path Template Resources/Models/cat/Meshes/planets.mesh",
+                "hash": "57cede1670976ea12aed8c7090c229fe"
+            }
+        }
+    },
+    "1686607094646594:15094": {
+        "IFileManager": {
+            "path": "Files/File_1686607094646594_15094.mesh"
+        }
+    },
+    "1570482174759032:18071": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "11856",
+                "compressedSize": "8306",
+                "extension": "mesh",
+                "originalRAM": "11856",
+                "originalSize": "8306",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1686607094649728:15096"
+        }
+    },
+    "1686607091283748:6379": {
+        "IResourceController": {
+            "name": "planets_2",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1570482174759032:18071",
+            "fileId": "1686607091283855:6497",
+            "publicId": "1686607091284066:6652",
+            "expected_hash": "6b43b209bcf6ea4f787c87a13f7ae13a"
+        },
+        "IResourceManager": {
+            "uid": "1570482174759032:18071",
+            "name": "Files/File_1686607091283855_6497.mesh",
+            "flags": 1
+        }
+    },
+    "1686607091283855:6497": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283855_6497.mesh"
+        }
+    },
+    "1686607091284066:6652": {
+        "IResourceController": {
+            "public": {
+                "path": "Path Template Resources/Models/cat/Meshes/planets_2.mesh",
+                "hash": "6b43b209bcf6ea4f787c87a13f7ae13a"
+            }
+        }
+    },
+    "1686607094649728:15096": {
+        "IFileManager": {
+            "path": "Files/File_1686607094649728_15096.mesh"
+        }
+    },
+    "1570482174844942:18086": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "58488",
+                "compressedSize": "50778",
+                "extension": "mesh",
+                "originalRAM": "58488",
+                "originalSize": "50778",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1686607094652392:15098"
+        }
+    },
+    "1686607091283748:6380": {
+        "IResourceController": {
+            "name": "cat",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1570482174844942:18086",
+            "fileId": "1686607091283857:6498",
+            "publicId": "1686607091284067:6653",
+            "expected_hash": "b54010738e538ab07096470f6afbed5b"
+        },
+        "IResourceManager": {
+            "uid": "1570482174844942:18086",
+            "name": "Files/File_1686607091283857_6498.mesh",
+            "flags": 1
+        }
+    },
+    "1686607091283857:6498": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283857_6498.mesh"
+        }
+    },
+    "1686607091284067:6653": {
+        "IResourceController": {
+            "public": {
+                "path": "Path Template Resources/Models/cat/Meshes/cat.mesh",
+                "hash": "b54010738e538ab07096470f6afbed5b"
+            }
+        }
+    },
+    "1686607094652392:15098": {
+        "IFileManager": {
+            "path": "Files/File_1686607094652392_15098.mesh"
+        }
+    },
+    "1570482175879890:18282": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "20a0f8b7545ffcd9794140903e91168f"
+                    },
+                    "v": "1686607122228657:32790"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "131072",
+                "compressedSize": "45331",
+                "extension": "png",
+                "originalRAM": "1048576",
+                "originalSize": "70612",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1686607094594649:15080"
+        }
+    },
+    "1686607091283749:6388": {
+        "IResourceController": {
+            "name": "dog",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1570482175879890:18282",
+            "fileId": "1686607091283865:6503",
+            "publicId": "1686607091284068:6658",
+            "expected_hash": "36260e3f68ada50d43909f37a206fae1",
+            "additional": {
+                "originHash": "36260e3f68ada50d43909f37a206fae1"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1570482175879890:18282",
+            "name": "Files/File224.jpg",
+            "flags": 1
+        }
+    },
+    "1686607091283865:6503": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283865_6503.pvr"
+        }
+    },
+    "1686607091284068:6658": {
+        "IResourceController": {
+            "public": {
+                "path": "Path Template Resources/Textures/dog.pvr",
+                "hash": "36260e3f68ada50d43909f37a206fae1"
+            }
+        }
+    },
+    "1686607094594649:15080": {
+        "IFileManager": {
+            "path": "Files/File_1686607094594649_15080.png"
+        }
+    },
+    "1686607122228657:32790": {
+        "IFileManager": {
+            "path": "Files/File_1686607122228657_32790.pvr"
+        }
+    },
+    "1570482176069993:18297": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "64332",
+                "compressedSize": "55094",
+                "extension": "mesh",
+                "originalRAM": "64332",
+                "originalSize": "55094",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1686607094657753:15100"
+        }
+    },
+    "1686607091283750:6389": {
+        "IResourceController": {
+            "name": "dog",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1570482176069993:18297",
+            "fileId": "1686607091283868:6505",
+            "publicId": "1686607091284069:6661",
+            "expected_hash": "a373035b297631afd560b87c3d2705d1"
+        },
+        "IResourceManager": {
+            "uid": "1570482176069993:18297",
+            "name": "Files/File_1686607091283868_6505.mesh",
+            "flags": 1
+        }
+    },
+    "1686607091283868:6505": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283868_6505.mesh"
+        }
+    },
+    "1686607091284069:6661": {
+        "IResourceController": {
+            "public": {
+                "path": "Path Template Resources/Models/dog/Meshes/dog.mesh",
+                "hash": "a373035b297631afd560b87c3d2705d1"
+            }
+        }
+    },
+    "1686607094657753:15100": {
+        "IFileManager": {
+            "path": "Files/File_1686607094657753_15100.mesh"
+        }
+    },
+    "1570482176936892:18405": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "185d3f3d9a42e620991f4b02609eb93e"
+                    },
+                    "v": "1686607124521326:34768"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "131072",
+                "compressedSize": "66870",
+                "extension": "png",
+                "originalRAM": "1048576",
+                "originalSize": "21572",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1686607094600704:15081"
+        }
+    },
+    "1686607091283751:6395": {
+        "IResourceController": {
+            "name": "meteor",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1570482176936892:18405",
+            "fileId": "1686607091283876:6510",
+            "publicId": "1686607091284072:6666",
+            "expected_hash": "604383ca81784a71fc51bedb08c8c979",
+            "additional": {
+                "originHash": "604383ca81784a71fc51bedb08c8c979"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1570482176936892:18405",
+            "name": "Files/File231.jpg",
+            "flags": 1
+        }
+    },
+    "1686607091283876:6510": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283876_6510.pvr"
+        }
+    },
+    "1686607091284072:6666": {
+        "IResourceController": {
+            "public": {
+                "path": "Path Template Resources/Textures/meteor.pvr",
+                "hash": "604383ca81784a71fc51bedb08c8c979"
+            }
+        }
+    },
+    "1686607094600704:15081": {
+        "IFileManager": {
+            "path": "Files/File_1686607094600704_15081.png"
+        }
+    },
+    "1686607124521326:34768": {
+        "IFileManager": {
+            "path": "Files/File_1686607124521326_34768.pvr"
+        }
+    },
+    "1570482177099867:18417": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "e30c8ca896026b20226f6c722edf1a6c"
+                    },
+                    "v": "1686607128802059:37351"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "131072",
+                "compressedSize": "44567",
+                "extension": "png",
+                "originalRAM": "1048576",
+                "originalSize": "62458",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1686607094603787:15082"
+        }
+    },
+    "1686607091283751:6396": {
+        "IResourceController": {
+            "name": "owl",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1570482177099867:18417",
+            "fileId": "1686607091283879:6512",
+            "publicId": "1686607091284072:6667",
+            "expected_hash": "8ed1286244e2ffc69f421952a401d7e1",
+            "additional": {
+                "originHash": "8ed1286244e2ffc69f421952a401d7e1"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1570482177099867:18417",
+            "name": "Files/File233.jpg",
+            "flags": 1
+        }
+    },
+    "1686607091283879:6512": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283879_6512.pvr"
+        }
+    },
+    "1686607091284072:6667": {
+        "IResourceController": {
+            "public": {
+                "path": "Path Template Resources/Textures/owl.pvr",
+                "hash": "8ed1286244e2ffc69f421952a401d7e1"
+            }
+        }
+    },
+    "1686607094603787:15082": {
+        "IFileManager": {
+            "path": "Files/File_1686607094603787_15082.png"
+        }
+    },
+    "1686607128802059:37351": {
+        "IFileManager": {
+            "path": "Files/File_1686607128802059_37351.pvr"
+        }
+    },
+    "1570482177312233:18432": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "4416",
+                "compressedSize": "2121",
+                "extension": "mesh",
+                "originalRAM": "4416",
+                "originalSize": "2121",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1686607094663112:15102"
+        }
+    },
+    "1686607091283752:6397": {
+        "IResourceController": {
+            "name": "meteor",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1570482177312233:18432",
+            "fileId": "1686607091283882:6514",
+            "publicId": "1686607091284073:6670",
+            "expected_hash": "c4f195105913b3ad8ac0f63aaa799d48"
+        },
+        "IResourceManager": {
+            "uid": "1570482177312233:18432",
+            "name": "Files/File_1686607091283882_6514.mesh",
+            "flags": 1
+        }
+    },
+    "1686607091283882:6514": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283882_6514.mesh"
+        }
+    },
+    "1686607091284073:6670": {
+        "IResourceController": {
+            "public": {
+                "path": "Path Template Resources/Models/owl/Meshes/meteor.mesh",
+                "hash": "c4f195105913b3ad8ac0f63aaa799d48"
+            }
+        }
+    },
+    "1686607094663112:15102": {
+        "IFileManager": {
+            "path": "Files/File_1686607094663112_15102.mesh"
+        }
+    },
+    "1570482177447558:18450": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "177348",
+                "compressedSize": "152473",
+                "extension": "mesh",
+                "originalRAM": "177348",
+                "originalSize": "152473",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1686607094665983:15104"
+        }
+    },
+    "1686607091283752:6398": {
+        "IResourceController": {
+            "name": "owl",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1570482177447558:18450",
+            "fileId": "1686607091283884:6515",
+            "publicId": "1686607091284074:6671",
+            "expected_hash": "63b50b056e3152f524a8c5f8c0bd3e97"
+        },
+        "IResourceManager": {
+            "uid": "1570482177447558:18450",
+            "name": "Files/File_1686607091283884_6515.mesh",
+            "flags": 1
+        }
+    },
+    "1686607091283884:6515": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283884_6515.mesh"
+        }
+    },
+    "1686607091284074:6671": {
+        "IResourceController": {
+            "public": {
+                "path": "Path Template Resources/Models/owl/Meshes/owl.mesh",
+                "hash": "63b50b056e3152f524a8c5f8c0bd3e97"
+            }
+        }
+    },
+    "1686607094665983:15104": {
+        "IFileManager": {
+            "path": "Files/File_1686607094665983_15104.mesh"
+        }
+    },
+    "1570482178148739:18668": {
+        "RenderOrderComponent": true
+    },
+    "1570482178149174:18670": {
+        "RenderOrderComponent": true
+    },
+    "1570482178149561:18672": {
+        "RenderOrderComponent": true
+    },
+    "1570482178149941:18674": {
+        "RenderOrderComponent": true
+    },
+    "1570482178318578:18736": {
+        "RenderOrderComponent": true
+    },
+    "1570482178318860:18738": {
+        "RenderOrderComponent": true
+    },
+    "1570482178319112:18740": {
+        "RenderOrderComponent": true
+    },
+    "1570482178321044:18760": {
+        "RenderOrderComponent": true
+    },
+    "1570482178321381:18762": {
+        "RenderOrderComponent": true
+    },
+    "1570482178321791:18764": {
+        "RenderOrderComponent": true
+    },
+    "1570482178322206:18766": {
+        "RenderOrderComponent": true
+    },
+    "1570482178322582:18768": {
+        "RenderOrderComponent": true
+    },
+    "1570482178324024:18784": {
+        "RenderOrderComponent": true
+    },
+    "1570482178324457:18786": {
+        "RenderOrderComponent": true
+    },
+    "1570482178326498:18806": {
+        "RenderOrderComponent": true
+    },
+    "1570482178326850:18808": {
+        "RenderOrderComponent": true
+    },
+    "1570482178327185:18810": {
+        "RenderOrderComponent": true
+    },
+    "1570482178327755:18812": {
+        "RenderOrderComponent": true
+    },
+    "1570482178329819:18828": {
+        "RenderOrderComponent": true
+    },
+    "1570482178330203:18830": {
+        "RenderOrderComponent": true
+    },
+    "1570482178332362:18848": {
+        "RenderOrderComponent": true
+    },
+    "1570482178332743:18850": {
+        "RenderOrderComponent": true
+    },
+    "1570482178335831:18870": {
+        "RenderOrderComponent": true
+    },
+    "1570482178336143:18872": {
+        "RenderOrderComponent": true
+    },
+    "1570482178336420:18874": {
+        "RenderOrderComponent": true
+    },
+    "1570482178336828:18876": {
+        "RenderOrderComponent": true
+    },
+    "1570482178338632:18894": {
+        "RenderOrderComponent": true
+    },
+    "1570482178338930:18896": {
+        "RenderOrderComponent": true
+    },
+    "1570482178339217:18898": {
+        "RenderOrderComponent": true
+    },
+    "1570482178341525:18916": {
+        "RenderOrderComponent": true
+    },
+    "1570482178341918:18918": {
+        "RenderOrderComponent": true
+    },
+    "1570482178342387:18920": {
+        "RenderOrderComponent": true
+    },
+    "1570482178342911:18922": {
+        "RenderOrderComponent": true
+    },
+    "1570482178343718:18924": {
+        "RenderOrderComponent": true
+    },
+    "1570482178345669:18940": {
+        "RenderOrderComponent": true
+    },
+    "1570482178345983:18942": {
+        "RenderOrderComponent": true
+    },
+    "1570482178347298:18958": {
+        "RenderOrderComponent": true
+    },
+    "1570482178347644:18960": {
+        "RenderOrderComponent": true
+    },
+    "1570482178349249:18976": {
+        "RenderOrderComponent": true
+    },
+    "1570482178350618:18992": {
+        "RenderOrderComponent": true
+    },
+    "1570482178351112:18994": {
+        "RenderOrderComponent": true
+    },
+    "1570482890749870:93587": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "15900",
+                "compressedSize": "13644",
+                "extension": "mesh",
+                "originalRAM": "15900",
+                "originalSize": "13644",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1686607094676285:15106"
+        }
+    },
+    "1686607091283754:6407": {
+        "IResourceController": {
+            "name": "asteroid0",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1570482890749870:93587",
+            "fileId": "1686607091283892:6520",
+            "publicId": "1686607091284077:6678",
+            "expected_hash": "a901d1742d5247d07717bad48a177374"
+        },
+        "IResourceManager": {
+            "uid": "1570482890749870:93587",
+            "name": "Files/File_1686607091283892_6520.mesh",
+            "flags": 1
+        }
+    },
+    "1686607091283892:6520": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283892_6520.mesh"
+        }
+    },
+    "1686607091284077:6678": {
+        "IResourceController": {
+            "public": {
+                "path": "Path Template Resources/Models/Asteroid/Meshes/asteroid0.mesh",
+                "hash": "a901d1742d5247d07717bad48a177374"
+            }
+        }
+    },
+    "1686607094676285:15106": {
+        "IFileManager": {
+            "path": "Files/File_1686607094676285_15106.mesh"
+        }
+    },
+    "1570482891414155:93627": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "3072",
+                        "uncompressed_hash": "6b6e01a640b440ee7161ce468b581e67"
+                    },
+                    "v": "1686607129008505:38691"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "1394606",
+                "compressedSize": "35746",
+                "extension": "jpg",
+                "originalRAM": "1048576",
+                "originalSize": "35746",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "3",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1686607094607448:15083"
+        }
+    },
+    "1686607091283754:6408": {
+        "IResourceController": {
+            "name": "asteroid",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1570482891414155:93627",
+            "fileId": "1686607091283894:6521",
+            "publicId": "1686607091284077:6679",
+            "expected_hash": "6b6e01a640b440ee7161ce468b581e67",
+            "additional": {
+                "originHash": "6b6e01a640b440ee7161ce468b581e67"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1570482891414155:93627",
+            "name": "Files/File_1686607091283894_6521.jpg",
+            "flags": 1
+        }
+    },
+    "1686607091283894:6521": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283894_6521.jpg"
+        }
+    },
+    "1686607091284077:6679": {
+        "IResourceController": {
+            "public": {
+                "path": "Path Template Resources/Textures/asteroid.jpg",
+                "hash": "6b6e01a640b440ee7161ce468b581e67"
+            }
+        }
+    },
+    "1686607094607448:15083": {
+        "IFileManager": {
+            "path": "Files/File_1686607094607448_15083.jpg"
+        }
+    },
+    "1686607129008505:38691": {
+        "IFileManager": {
+            "path": "Files/File_1686607129008505_38691.jpg"
+        }
+    },
+    "1570483092814767:147469": {
+        "RenderOrderComponent": true
+    },
+    "1570483092817794:147493": {
+        "RenderOrderComponent": true
+    },
+    "1570483092818092:147495": {
+        "RenderOrderComponent": true
+    },
+    "1570483092818350:147497": {
+        "RenderOrderComponent": true
+    },
+    "1570488427984151:172849": {
+        "RenderOrderComponent": true
+    },
+    "1570488427984479:172851": {
+        "RenderOrderComponent": true
+    },
+    "1570560226437471:888935": {
+        "RenderOrderComponent": true
+    },
+    "1570567789826400:1226678": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "2ff3c20d46db58fe83af30d979d08129"
+                    },
+                    "v": "1686607130964000:40603"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "15576912",
+                "compressedSize": "587481",
+                "extension": "t3d",
+                "originalRAM": "15576912",
+                "originalSize": "616027",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "5",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1686607094610971:15084"
+        }
+    },
+    "1686607091283755:6410": {
+        "IResourceController": {
+            "name": "star_path",
+            "type": 1,
+            "subtype": 5,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1570567789826400:1226678",
+            "fileId": "1686607091283937:6549",
+            "originalId": "1686607094791759:15115",
+            "publicId": "1686607091284079:6682",
+            "expected_hash": "1f8c915c5826aa547441a3c0a12ea431"
+        },
+        "IResourceManager": {
+            "uid": "1570567789826400:1226678",
+            "name": "Files/File_1686607091283937_6549",
+            "flags": 1
+        }
+    },
+    "1686607091283937:6549": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283937_6549"
+        }
+    },
+    "1686607091284079:6682": {
+        "IResourceController": {
+            "public": {
+                "path": "Path Template Resources/Textures/star_path",
+                "hash": "74d15664920ecf6dfa88dac0eb600b66",
+                "complexResourceHash": "c35c11d4472f48e49fb629ead51404f7"
+            }
+        }
+    },
+    "1686607094610971:15084": {
+        "IFileManager": {
+            "path": "Files/File_1686607094610971_15084"
+        }
+    },
+    "1686607094791759:15115": {
+        "IFileManager": {
+            "path": "Files/File_1686607094791759_15115"
+        }
+    },
+    "1686607130964000:40603": {
+        "IFileManager": {
+            "path": "Files/File_1686607130964000_40603"
+        }
+    },
+    "1570568809699960:1314398": {
+        "RenderOrderComponent": true
+    },
+    "1570568846352039:1325281": {
+        "RenderOrderComponent": true
+    },
+    "1570568858068010:1331786": {
+        "RenderOrderComponent": true
+    },
+    "1570568871411558:1337674": {
+        "RenderOrderComponent": true
+    },
+    "1570568884564877:1343562": {
+        "RenderOrderComponent": true
+    },
+    "1571881074152553:197696": {
+        "RenderOrderComponent": true
+    },
+    "1601435133173884:386863": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "29144",
+                "compressedSize": "16722",
+                "extension": "mesh",
+                "originalRAM": "29144",
+                "originalSize": "16722",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "bitangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1686607094679308:15108"
+        }
+    },
+    "1686607091283756:6415": {
+        "IResourceController": {
+            "name": "Caustics Sphere",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1601435133173884:386863",
+            "fileId": "1686607091283970:6570",
+            "originalId": "1686607091283972:6571",
+            "publicId": "1686607091284081:6688",
+            "expected_hash": "0484abd87ee78b2745eb9563b19fd6a2"
+        },
+        "IResourceManager": {
+            "uid": "1601435133173884:386863",
+            "name": "Files/File_1686607091283970_6570.mesh",
+            "flags": 1
+        }
+    },
+    "1686607091283970:6570": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283970_6570.mesh"
+        }
+    },
+    "1686607091283972:6571": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283972_6571.mesh"
+        }
+    },
+    "1686607091284081:6688": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/Caustics Sphere.mesh",
+                "hash": "0484abd87ee78b2745eb9563b19fd6a2"
+            }
+        }
+    },
+    "1686607094679308:15108": {
+        "IFileManager": {
+            "path": "Files/File_1686607094679308_15108.mesh"
+        }
+    },
+    "1601435134197479:387076": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "37f810e364af92be90c086502307cc90"
+                    },
+                    "v": "1686607132467496:42288"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "32768",
+                "compressedSize": "29106",
+                "extension": "png",
+                "originalRAM": "262144",
+                "originalSize": "102219",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1686607094545450:15073"
+        }
+    },
+    "1686607091283758:6424": {
+        "IResourceController": {
+            "name": "caustics",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1601435134197479:387076",
+            "fileId": "1686607091283992:6584",
+            "originalId": "1686607091283993:6585",
+            "publicId": "1686607091284084:6697",
+            "expected_hash": "b91123131b71b5c9f73e4045486f1f02",
+            "additional": {
+                "originHash": "37f810e364af92be90c086502307cc90"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1601435134197479:387076",
+            "name": "Files/File331.jpg",
+            "flags": 1
+        }
+    },
+    "1686607091283992:6584": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283992_6584.pvr"
+        }
+    },
+    "1686607091283993:6585": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283993_6585.png"
+        }
+    },
+    "1686607091284084:6697": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/caustics.png",
+                "hash": "37f810e364af92be90c086502307cc90"
+            }
+        }
+    },
+    "1686607094545450:15073": {
+        "IFileManager": {
+            "path": "Files/File_1686607094545450_15073.png"
+        }
+    },
+    "1686607132467496:42288": {
+        "IFileManager": {
+            "path": "Files/File_1686607132467496_42288.pvr"
+        }
+    },
+    "1601435134978552:387329": {
+        "RenderOrderComponent": true
+    },
+    "1601435134979042:387331": {
+        "RenderOrderComponent": true
+    },
+    "1601435134992813:387461": {
+        "RenderOrderComponent": true
+    },
+    "1601435135052658:387524": {
+        "RenderOrderComponent": true
+    },
+    "1601440054282475:979975": {
+        "RenderOrderComponent": true
+    },
+    "1601440054294067:980041": {
+        "RenderOrderComponent": true
+    },
+    "1601440054332055:980176": {
+        "RenderOrderComponent": true
+    },
+    "1601440054332185:980177": {
+        "InspectorComponent": {
+            "Component.ScreenTransform": {
+                "basicModeSetup": {
+                    "attachBottom": "false",
+                    "attachLeft": "false",
+                    "attachRight": "false",
+                    "attachTop": "false",
+                    "fixHeight": "false",
+                    "fixWidth": "false"
+                },
+                "isBasicMode": "true"
+            }
+        }
+    },
+    "1601441972824032:1230490": {
+        "RenderOrderComponent": true
+    },
+    "1601444152440595:1515466": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "59940",
+                "compressedSize": "19744",
+                "extension": "mesh",
+                "originalRAM": "59940",
+                "originalSize": "19744",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "0",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "2",
+                                "semantic": "color"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "2",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1686607094683158:15110"
+        }
+    },
+    "1686607091283759:6431": {
+        "IResourceController": {
+            "name": "Particles Mesh",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1601444152440595:1515466",
+            "fileId": "1686607091284019:6596",
+            "originalId": "1686607091284020:6597",
+            "publicId": "1686607091284090:6706",
+            "expected_hash": "9cf6125d8ce9ba874fe0ff27b21b2323",
+            "additional": {
+                "originalAttribs": {
+                    "vertexAttribs": [
+                        {
+                            "format": "0",
+                            "index": "0",
+                            "semantic": "position"
+                        },
+                        {
+                            "format": "2",
+                            "index": "1",
+                            "semantic": "color"
+                        },
+                        {
+                            "format": "2",
+                            "index": "2",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1601444152440595:1515466",
+            "name": "Files/File_1686607091284019_6596.mesh",
+            "flags": 1
+        }
+    },
+    "1686607091284019:6596": {
+        "IFileManager": {
+            "path": "Files/File_1686607091284019_6596.mesh"
+        }
+    },
+    "1686607091284020:6597": {
+        "IFileManager": {
+            "path": "Files/File_1686607091284020_6597.mesh"
+        }
+    },
+    "1686607091284090:6706": {
+        "IResourceController": {
+            "public": {
+                "path": "Particles/Particles Mesh.mesh",
+                "hash": "9cf6125d8ce9ba874fe0ff27b21b2323"
+            }
+        }
+    },
+    "1686607094683158:15110": {
+        "IFileManager": {
+            "path": "Files/File_1686607094683158_15110.mesh"
+        }
+    },
+    "1601444152527708:1515482": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "d4b7ffaff75713b8b8cfaf2a7875e1e5"
+                    },
+                    "v": "1686607137279923:45091"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "131072",
+                "compressedSize": "7949",
+                "extension": "png",
+                "originalRAM": "1048576",
+                "originalSize": "7859",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1686607094688412:15111"
+        }
+    },
+    "1686607091283759:6432": {
+        "IResourceController": {
+            "name": "Flower",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1601444152527708:1515482",
+            "fileId": "1686607091284022:6598",
+            "originalId": "1686607091284024:6599",
+            "publicId": "1686607091284090:6707",
+            "expected_hash": "8964c2143726bad0d66a93ad86de1b8b",
+            "additional": {
+                "originHash": "d4b7ffaff75713b8b8cfaf2a7875e1e5"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1601444152527708:1515482",
+            "name": "Files/File345.jpg",
+            "flags": 1
+        }
+    },
+    "1686607091284022:6598": {
+        "IFileManager": {
+            "path": "Files/File_1686607091284022_6598.pvr"
+        }
+    },
+    "1686607091284024:6599": {
+        "IFileManager": {
+            "path": "Files/File_1686607091284024_6599.png"
+        }
+    },
+    "1686607091284090:6707": {
+        "IResourceController": {
+            "public": {
+                "path": "Flower.png",
+                "hash": "d4b7ffaff75713b8b8cfaf2a7875e1e5"
+            }
+        }
+    },
+    "1686607094688412:15111": {
+        "IFileManager": {
+            "path": "Files/File_1686607094688412_15111.png"
+        }
+    },
+    "1686607137279923:45091": {
+        "IFileManager": {
+            "path": "Files/File_1686607137279923_45091.pvr"
+        }
+    },
+    "1601444152587449:1515498": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "388d36c9c7f2a59ed64571c08736f3bd"
+                    },
+                    "v": "1686607137454306:46409"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "131072",
+                "compressedSize": "2599",
+                "extension": "png",
+                "originalRAM": "1048576",
+                "originalSize": "3160",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1686607094690748:15112"
+        }
+    },
+    "1686607091283759:6433": {
+        "IResourceController": {
+            "name": "Star",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1601444152587449:1515498",
+            "fileId": "1686607091284025:6600",
+            "originalId": "1686607091284026:6601",
+            "publicId": "1686607091284090:6708",
+            "expected_hash": "03ea08c77befb9c571840d8965efff66",
+            "additional": {
+                "originHash": "388d36c9c7f2a59ed64571c08736f3bd"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1601444152587449:1515498",
+            "name": "Files/File347.jpg",
+            "flags": 1
+        }
+    },
+    "1686607091284025:6600": {
+        "IFileManager": {
+            "path": "Files/File_1686607091284025_6600.pvr"
+        }
+    },
+    "1686607091284026:6601": {
+        "IFileManager": {
+            "path": "Files/File_1686607091284026_6601.png"
+        }
+    },
+    "1686607091284090:6708": {
+        "IResourceController": {
+            "public": {
+                "path": "Star.png",
+                "hash": "388d36c9c7f2a59ed64571c08736f3bd"
+            }
+        }
+    },
+    "1686607094690748:15112": {
+        "IFileManager": {
+            "path": "Files/File_1686607094690748_15112.png"
+        }
+    },
+    "1686607137454306:46409": {
+        "IFileManager": {
+            "path": "Files/File_1686607137454306_46409.pvr"
+        }
+    },
+    "1601444152696913:1515529": {
+        "RenderOrderComponent": true
+    },
+    "1601444152698282:1515543": {
+        "RenderOrderComponent": true
+    },
+    "1686607091283743:6340": {
+        "IResourceController": {
+            "name": "Render Target",
+            "type": 1,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1:1",
+            "additional": {
+                "RenderTargetRole": "1"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1:1",
+            "name": "Camera Output",
+            "flags": 0
+        }
+    },
+    "1686607091283743:6341": {
+        "IResourceController": {
+            "name": "Device Camera Texture",
+            "type": 1,
+            "subtype": 3,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "2:2"
+        },
+        "IResourceManager": {
+            "uid": "2:2",
+            "name": "Camera Input",
+            "flags": 0
+        }
+    },
+    "1686607091283743:6342": {
+        "IResourceController": {
+            "name": "PathDataManager",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1569531423082839:335351",
+            "fileId": "1686607091283760:6436",
+            "publicId": "1686607091284049:6607",
+            "expected_hash": "bc00192a38a5eca300cff7a2caec2e1f"
+        },
+        "IResourceManager": {
+            "uid": "1569531423082839:335351",
+            "name": "Files/File_1686607091283760_6436.js",
+            "flags": 1
+        }
+    },
+    "1686607091283760:6436": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283760_6436.js"
+        }
+    },
+    "1686607091284049:6607": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/PathDataManager.js",
+                "hash": "bc00192a38a5eca300cff7a2caec2e1f"
+            }
+        }
+    },
+    "1686607091283744:6343": {
+        "IResourceController": {
+            "name": "ObjectsLayout",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1569950713774616:80326",
+            "fileId": "1686607091283767:6437",
+            "publicId": "1686607091284050:6609",
+            "expected_hash": "f2412efb07b228883a8510776ab5848a"
+        },
+        "IResourceManager": {
+            "uid": "1569950713774616:80326",
+            "name": "Files/File_1686607091283767_6437.js",
+            "flags": 1
+        }
+    },
+    "1686607091283767:6437": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283767_6437.js"
+        }
+    },
+    "1686607091284050:6609": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/ObjectsLayout.js",
+                "hash": "f2412efb07b228883a8510776ab5848a"
+            }
+        }
+    },
+    "1686607091283744:6344": {
+        "IResourceController": {
+            "name": "PlaceObjectsOnPath",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1569951424902454:88707",
+            "fileId": "1686607091283769:6438",
+            "publicId": "1686607091284050:6608",
+            "expected_hash": "36188057a4d99c2154a2a2a99011fc9d"
+        },
+        "IResourceManager": {
+            "uid": "1569951424902454:88707",
+            "name": "Files/File_1686607091283769_6438.js",
+            "flags": 1
+        }
+    },
+    "1686607091283769:6438": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283769_6438.js"
+        }
+    },
+    "1686607091284050:6608": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/PlaceObjectsOnPath.js",
+                "hash": "36188057a4d99c2154a2a2a99011fc9d"
+            }
+        }
+    },
+    "1686607091283744:6345": {
+        "IResourceController": {
+            "name": "Tween",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1569975482584530:258333",
+            "fileId": "1686607091283770:6439",
+            "publicId": "1686607091284052:6615",
+            "expected_hash": "c8f7c33fbce8a4b5604131cd4f7dde29"
+        },
+        "IResourceManager": {
+            "uid": "1569975482584530:258333",
+            "name": "Files/File_1686607091283770_6439.js",
+            "flags": 1
+        }
+    },
+    "1686607091283770:6439": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283770_6439.js"
+        }
+    },
+    "1686607091284052:6615": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/Tween.js",
+                "hash": "c8f7c33fbce8a4b5604131cd4f7dde29"
+            }
+        }
+    },
+    "1686607091283744:6346": {
+        "IResourceController": {
+            "name": "TweenTransform",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1569975482670640:258345",
+            "fileId": "1686607091283772:6440",
+            "publicId": "1686607091284052:6617",
+            "expected_hash": "6926a574b348e59464006607f434676f"
+        },
+        "IResourceManager": {
+            "uid": "1569975482670640:258345",
+            "name": "Files/File_1686607091283772_6440.js",
+            "flags": 1
+        }
+    },
+    "1686607091283772:6440": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283772_6440.js"
+        }
+    },
+    "1686607091284052:6617": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/TweenTypes/TweenTransform.js",
+                "hash": "6926a574b348e59464006607f434676f"
+            }
+        }
+    },
+    "1686607091283744:6347": {
+        "IResourceController": {
+            "name": "TweenManager",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1569975482756276:258357",
+            "fileId": "1686607091283773:6441",
+            "publicId": "1686607091284054:6623",
+            "expected_hash": "b89e3f7e5bb9e99c64ac1d2ce692bf29"
+        },
+        "IResourceManager": {
+            "uid": "1569975482756276:258357",
+            "name": "Files/File_1686607091283773_6441.js",
+            "flags": 1
+        }
+    },
+    "1686607091283773:6441": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283773_6441.js"
+        }
+    },
+    "1686607091284054:6623": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/TweenManager.js",
+                "hash": "b89e3f7e5bb9e99c64ac1d2ce692bf29"
+            }
+        }
+    },
+    "1686607091283744:6348": {
+        "IResourceController": {
+            "name": "TweenColor",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1569975483801048:258420",
+            "fileId": "1686607091283774:6442",
+            "publicId": "1686607091284053:6618",
+            "expected_hash": "706c1b28f33e5930f8548cd4cdd1443c"
+        },
+        "IResourceManager": {
+            "uid": "1569975483801048:258420",
+            "name": "Files/File_1686607091283774_6442.js",
+            "flags": 1
+        }
+    },
+    "1686607091283774:6442": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283774_6442.js"
+        }
+    },
+    "1686607091284053:6618": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/TweenTypes/TweenColor.js",
+                "hash": "706c1b28f33e5930f8548cd4cdd1443c"
+            }
+        }
+    },
+    "1686607091283744:6349": {
+        "IResourceController": {
+            "name": "TweenAlpha",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1569975484410385:258446",
+            "fileId": "1686607091283776:6443",
+            "publicId": "1686607091284053:6619",
+            "expected_hash": "fc4f82cb8c520a6d8041455797d09de0"
+        },
+        "IResourceManager": {
+            "uid": "1569975484410385:258446",
+            "name": "Files/File_1686607091283776_6443.js",
+            "flags": 1
+        }
+    },
+    "1686607091283776:6443": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283776_6443.js"
+        }
+    },
+    "1686607091284053:6619": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/TweenTypes/TweenAlpha.js",
+                "hash": "fc4f82cb8c520a6d8041455797d09de0"
+            }
+        }
+    },
+    "1686607091283744:6350": {
+        "IResourceController": {
+            "name": "TweenValue",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1569975484582009:258470",
+            "fileId": "1686607091283777:6444",
+            "publicId": "1686607091284053:6620",
+            "expected_hash": "9ec8ac52efbf69e5e12b58ca5666e98a"
+        },
+        "IResourceManager": {
+            "uid": "1569975484582009:258470",
+            "name": "Files/File_1686607091283777_6444.js",
+            "flags": 1
+        }
+    },
+    "1686607091283777:6444": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283777_6444.js"
+        }
+    },
+    "1686607091284053:6620": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/TweenTypes/TweenValue.js",
+                "hash": "9ec8ac52efbf69e5e12b58ca5666e98a"
+            }
+        }
+    },
+    "1686607091283745:6351": {
+        "IResourceController": {
+            "name": "TweenChain",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1569975484666941:258482",
+            "fileId": "1686607091283778:6445",
+            "publicId": "1686607091284054:6621",
+            "expected_hash": "4c94fe9a543a43e8aa2f10efc3c31867"
+        },
+        "IResourceManager": {
+            "uid": "1569975484666941:258482",
+            "name": "Files/File_1686607091283778_6445.js",
+            "flags": 1
+        }
+    },
+    "1686607091283778:6445": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283778_6445.js"
+        }
+    },
+    "1686607091284054:6621": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/TweenTypes/TweenChain.js",
+                "hash": "4c94fe9a543a43e8aa2f10efc3c31867"
+            }
+        }
+    },
+    "1686607091283745:6352": {
+        "IResourceController": {
+            "name": "TweenScreenTransform",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1569975485418362:258548",
+            "fileId": "1686607091283780:6446",
+            "publicId": "1686607091284054:6622",
+            "expected_hash": "dfe0555b9a847470f72cc98a65c6ae1b"
+        },
+        "IResourceManager": {
+            "uid": "1569975485418362:258548",
+            "name": "Files/File_1686607091283780_6446.js",
+            "flags": 1
+        }
+    },
+    "1686607091283780:6446": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283780_6446.js"
+        }
+    },
+    "1686607091284054:6622": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/TweenTypes/TweenScreenTransform.js",
+                "hash": "dfe0555b9a847470f72cc98a65c6ae1b"
+            }
+        }
+    },
+    "1686607091283745:6353": {
+        "IResourceController": {
+            "name": "draw_path_material [DUPLICATE_ME]",
+            "type": 2,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1569976956058987:97292",
+            "fileId": "1686607091283786:6450",
+            "originalId": "1686607091283943:6553",
+            "publicId": "1686607091284051:6613",
+            "expected_hash": "219f12b49a5f29e7ea7ecd06c09c022b"
+        },
+        "IResourceManager": {
+            "uid": "1569976956058987:97292",
+            "name": "Files/File_1686607091283786_6450",
+            "flags": 1
+        }
+    },
+    "1686607091283786:6450": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283786_6450"
+        }
+    },
+    "1686607091283943:6553": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283943_6553.lsmat"
+        }
+    },
+    "1686607091284051:6613": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/draw_path_material [DUPLICATE_ME].lsmat",
+                "hash": "c267877901ab31409da609922a3892c0"
+            }
+        }
+    },
+    "1686607091283745:6354": {
+        "IResourceController": {
+            "name": "MoveAlongPath",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1570122629455861:1969",
+            "fileId": "1686607091283791:6454",
+            "publicId": "1686607091284050:6610",
+            "expected_hash": "f8b4658b3b469d183e0e4c7dd65dcf32"
+        },
+        "IResourceManager": {
+            "uid": "1570122629455861:1969",
+            "name": "Files/File_1686607091283791_6454.js",
+            "flags": 1
+        }
+    },
+    "1686607091283791:6454": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283791_6454.js"
+        }
+    },
+    "1686607091284050:6610": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/MoveAlongPath.js",
+                "hash": "f8b4658b3b469d183e0e4c7dd65dcf32"
+            }
+        }
+    },
+    "1686607091283745:6355": {
+        "IResourceController": {
+            "name": "DrawPath",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1570122629540809:1976",
+            "fileId": "1686607091283793:6455",
+            "publicId": "1686607091284051:6611",
+            "expected_hash": "f9e2169b05f03833d67a4fc81b575d22"
+        },
+        "IResourceManager": {
+            "uid": "1570122629540809:1976",
+            "name": "Files/File_1686607091283793_6455.js",
+            "flags": 1
+        }
+    },
+    "1686607091283793:6455": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283793_6455.js"
+        }
+    },
+    "1686607091284051:6611": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/DrawPath.js",
+                "hash": "f9e2169b05f03833d67a4fc81b575d22"
+            }
+        }
+    },
+    "1686607091283745:6356": {
+        "IResourceController": {
+            "name": "Base",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1570228623006582:261822",
+            "fileId": "1686607091283814:6470",
+            "publicId": "1686607091284049:6605",
+            "expected_hash": "d65ae0f6f49017f894bcb0d1ffa6df49",
+            "additional": {
+                "originHash": "d65ae0f6f49017f894bcb0d1ffa6df49"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1570228623006582:261822",
+            "name": "Files/File189.jpg",
+            "flags": 1
+        }
+    },
+    "1686607091283814:6470": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283814_6470.png"
+        }
+    },
+    "1686607091284049:6605": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Base.png",
+                "hash": "d65ae0f6f49017f894bcb0d1ffa6df49"
+            }
+        }
+    },
+    "1686607091283746:6361": {
+        "IResourceController": {
+            "name": "Fox_2 _ Pivot",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1570482172012346:17744"
+        },
+        "IResourceManager": {
+            "uid": "1570482172012346:17744",
+            "name": "",
+            "flags": 0
+        }
+    },
+    "1686607091283746:6362": {
+        "IResourceController": {
+            "name": "Fox_2",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1570482172013571:17771"
+        },
+        "IResourceManager": {
+            "uid": "1570482172013571:17771",
+            "name": "",
+            "flags": 0
+        }
+    },
+    "1686607091283746:6363": {
+        "IResourceController": {
+            "name": "UFO",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1570482172013775:17784"
+        },
+        "IResourceManager": {
+            "uid": "1570482172013775:17784",
+            "name": "",
+            "flags": 0
+        }
+    },
+    "1686607091283746:6364": {
+        "IResourceController": {
+            "name": "UFO_2",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1570482172014118:17818"
+        },
+        "IResourceManager": {
+            "uid": "1570482172014118:17818",
+            "name": "",
+            "flags": 0
+        }
+    },
+    "1686607091283746:6365": {
+        "IResourceController": {
+            "name": "fox",
+            "type": 2,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1570482172016165:17852",
+            "fileId": "1686607091283826:6478",
+            "originalId": "1686607091283945:6554",
+            "publicId": "1686607091284061:6635",
+            "expected_hash": "219f12b49a5f29e7ea7ecd06c09c022b"
+        },
+        "IResourceManager": {
+            "uid": "1570482172016165:17852",
+            "name": "Files/File_1686607091283826_6478",
+            "flags": 1
+        }
+    },
+    "1686607091283826:6478": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283826_6478"
+        }
+    },
+    "1686607091283945:6554": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283945_6554.lsmat"
+        }
+    },
+    "1686607091284061:6635": {
+        "IResourceController": {
+            "public": {
+                "path": "Path Template Resources/Models/fox/Materials/fox.lsmat",
+                "hash": "dab88062e2a1877f8c2e5927ebf746a7"
+            }
+        }
+    },
+    "1686607091283746:6366": {
+        "IResourceController": {
+            "name": "ufo",
+            "type": 2,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1570482172380477:17866",
+            "fileId": "1686607091283829:6480",
+            "originalId": "1686607091283946:6555",
+            "publicId": "1686607091284061:6636",
+            "expected_hash": "219f12b49a5f29e7ea7ecd06c09c022b"
+        },
+        "IResourceManager": {
+            "uid": "1570482172380477:17866",
+            "name": "Files/File_1686607091283829_6480",
+            "flags": 1
+        }
+    },
+    "1686607091283829:6480": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283829_6480"
+        }
+    },
+    "1686607091283946:6555": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283946_6555.lsmat"
+        }
+    },
+    "1686607091284061:6636": {
+        "IResourceController": {
+            "public": {
+                "path": "Path Template Resources/Models/fox/Materials/ufo.lsmat",
+                "hash": "81313a5fdaec6ff63fb7464b6c287b0d"
+            }
+        }
+    },
+    "1686607091283747:6371": {
+        "IResourceController": {
+            "name": "Ring _ Pivot",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1570482173638069:17934"
+        },
+        "IResourceManager": {
+            "uid": "1570482173638069:17934",
+            "name": "",
+            "flags": 0
+        }
+    },
+    "1686607091283747:6372": {
+        "IResourceController": {
+            "name": "Bear_2 _ Pivot",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1570482173639442:17961"
+        },
+        "IResourceManager": {
+            "uid": "1570482173639442:17961",
+            "name": "",
+            "flags": 0
+        }
+    },
+    "1686607091283747:6373": {
+        "IResourceController": {
+            "name": "Bear_2",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1570482173639925:17988"
+        },
+        "IResourceManager": {
+            "uid": "1570482173639925:17988",
+            "name": "",
+            "flags": 0
+        }
+    },
+    "1686607091283747:6374": {
+        "IResourceController": {
+            "name": "ring",
+            "type": 2,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1570482173641804:18001",
+            "fileId": "1686607091283841:6488",
+            "originalId": "1686607091283948:6556",
+            "publicId": "1686607091284064:6645",
+            "expected_hash": "219f12b49a5f29e7ea7ecd06c09c022b"
+        },
+        "IResourceManager": {
+            "uid": "1570482173641804:18001",
+            "name": "Files/File_1686607091283841_6488",
+            "flags": 1
+        }
+    },
+    "1686607091283841:6488": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283841_6488"
+        }
+    },
+    "1686607091283948:6556": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283948_6556.lsmat"
+        }
+    },
+    "1686607091284064:6645": {
+        "IResourceController": {
+            "public": {
+                "path": "Path Template Resources/Models/bear/Materials/ring.lsmat",
+                "hash": "4b114eca7f06a4aba8555f0fa6413667"
+            }
+        }
+    },
+    "1686607091283747:6375": {
+        "IResourceController": {
+            "name": "bear",
+            "type": 2,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1570482173916813:18015",
+            "fileId": "1686607091283844:6490",
+            "originalId": "1686607091283949:6557",
+            "publicId": "1686607091284065:6646",
+            "expected_hash": "219f12b49a5f29e7ea7ecd06c09c022b"
+        },
+        "IResourceManager": {
+            "uid": "1570482173916813:18015",
+            "name": "Files/File_1686607091283844_6490",
+            "flags": 1
+        }
+    },
+    "1686607091283844:6490": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283844_6490"
+        }
+    },
+    "1686607091283949:6557": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283949_6557.lsmat"
+        }
+    },
+    "1686607091284065:6646": {
+        "IResourceController": {
+            "public": {
+                "path": "Path Template Resources/Models/bear/Materials/bear.lsmat",
+                "hash": "1130dea428a679e98367ca8c937ccde6"
+            }
+        }
+    },
+    "1686607091283748:6381": {
+        "IResourceController": {
+            "name": "planets",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1570482174903813:18098"
+        },
+        "IResourceManager": {
+            "uid": "1570482174903813:18098",
+            "name": "",
+            "flags": 0
+        }
+    },
+    "1686607091283748:6382": {
+        "IResourceController": {
+            "name": "planets1",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1570482174905099:18132"
+        },
+        "IResourceManager": {
+            "uid": "1570482174905099:18132",
+            "name": "",
+            "flags": 0
+        }
+    },
+    "1686607091283748:6383": {
+        "IResourceController": {
+            "name": "planets_2",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1570482174905775:18166"
+        },
+        "IResourceManager": {
+            "uid": "1570482174905775:18166",
+            "name": "",
+            "flags": 0
+        }
+    },
+    "1686607091283748:6384": {
+        "IResourceController": {
+            "name": "Cat_2 _ Pivot",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1570482174906456:18200"
+        },
+        "IResourceManager": {
+            "uid": "1570482174906456:18200",
+            "name": "",
+            "flags": 0
+        }
+    },
+    "1686607091283748:6385": {
+        "IResourceController": {
+            "name": "Cat_2",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1570482174907000:18227"
+        },
+        "IResourceManager": {
+            "uid": "1570482174907000:18227",
+            "name": "",
+            "flags": 0
+        }
+    },
+    "1686607091283748:6386": {
+        "IResourceController": {
+            "name": "cat_planet",
+            "type": 2,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1570482174908752:18240",
+            "fileId": "1686607091283859:6499",
+            "originalId": "1686607091283951:6558",
+            "publicId": "1686607091284068:6656",
+            "expected_hash": "219f12b49a5f29e7ea7ecd06c09c022b"
+        },
+        "IResourceManager": {
+            "uid": "1570482174908752:18240",
+            "name": "Files/File_1686607091283859_6499",
+            "flags": 1
+        }
+    },
+    "1686607091283859:6499": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283859_6499"
+        }
+    },
+    "1686607091283951:6558": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283951_6558.lsmat"
+        }
+    },
+    "1686607091284068:6656": {
+        "IResourceController": {
+            "public": {
+                "path": "Path Template Resources/Models/cat/Materials/cat_planet.lsmat",
+                "hash": "d0b2c72f7c0e2b453038831bda6e97d1"
+            }
+        }
+    },
+    "1686607091283749:6387": {
+        "IResourceController": {
+            "name": "cat",
+            "type": 2,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1570482175535541:18268",
+            "fileId": "1686607091283862:6501",
+            "originalId": "1686607091283953:6559",
+            "publicId": "1686607091284068:6657",
+            "expected_hash": "219f12b49a5f29e7ea7ecd06c09c022b"
+        },
+        "IResourceManager": {
+            "uid": "1570482175535541:18268",
+            "name": "Files/File_1686607091283862_6501",
+            "flags": 1
+        }
+    },
+    "1686607091283862:6501": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283862_6501"
+        }
+    },
+    "1686607091283953:6559": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283953_6559.lsmat"
+        }
+    },
+    "1686607091284068:6657": {
+        "IResourceController": {
+            "public": {
+                "path": "Path Template Resources/Models/cat/Materials/cat.lsmat",
+                "hash": "1c0f410ac85d4e797a225408637ffd2f"
+            }
+        }
+    },
+    "1686607091283750:6390": {
+        "IResourceController": {
+            "name": "Dog_2 _ Pivot",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1570482176145339:18310"
+        },
+        "IResourceManager": {
+            "uid": "1570482176145339:18310",
+            "name": "",
+            "flags": 0
+        }
+    },
+    "1686607091283750:6391": {
+        "IResourceController": {
+            "name": "Dog_2",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1570482176146544:18337"
+        },
+        "IResourceManager": {
+            "uid": "1570482176146544:18337",
+            "name": "",
+            "flags": 0
+        }
+    },
+    "1686607091283750:6392": {
+        "IResourceController": {
+            "name": "Ring _ Pivot",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1570482176146876:18350"
+        },
+        "IResourceManager": {
+            "uid": "1570482176146876:18350",
+            "name": "",
+            "flags": 0
+        }
+    },
+    "1686607091283751:6393": {
+        "IResourceController": {
+            "name": "dog",
+            "type": 2,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1570482176148708:18377",
+            "fileId": "1686607091283870:6506",
+            "originalId": "1686607091283954:6560",
+            "publicId": "1686607091284071:6664",
+            "expected_hash": "219f12b49a5f29e7ea7ecd06c09c022b"
+        },
+        "IResourceManager": {
+            "uid": "1570482176148708:18377",
+            "name": "Files/File_1686607091283870_6506",
+            "flags": 1
+        }
+    },
+    "1686607091283870:6506": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283870_6506"
+        }
+    },
+    "1686607091283954:6560": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283954_6560.lsmat"
+        }
+    },
+    "1686607091284071:6664": {
+        "IResourceController": {
+            "public": {
+                "path": "Path Template Resources/Models/dog/Materials/dog.lsmat",
+                "hash": "4ec014e561b0b561dffffa7abffa9827"
+            }
+        }
+    },
+    "1686607091283751:6394": {
+        "IResourceController": {
+            "name": "ring",
+            "type": 2,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1570482176493528:18391",
+            "fileId": "1686607091283873:6508",
+            "originalId": "1686607091283956:6561",
+            "publicId": "1686607091284071:6665",
+            "expected_hash": "219f12b49a5f29e7ea7ecd06c09c022b"
+        },
+        "IResourceManager": {
+            "uid": "1570482176493528:18391",
+            "name": "Files/File_1686607091283873_6508",
+            "flags": 1
+        }
+    },
+    "1686607091283873:6508": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283873_6508"
+        }
+    },
+    "1686607091283956:6561": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283956_6561.lsmat"
+        }
+    },
+    "1686607091284071:6665": {
+        "IResourceController": {
+            "public": {
+                "path": "Path Template Resources/Models/dog/Materials/ring.lsmat",
+                "hash": "c9d4cc4ea3ed8d1bbcb4ec89eba2f40e"
+            }
+        }
+    },
+    "1686607091283753:6399": {
+        "IResourceController": {
+            "name": "meteor",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1570482177510095:18462"
+        },
+        "IResourceManager": {
+            "uid": "1570482177510095:18462",
+            "name": "",
+            "flags": 0
+        }
+    },
+    "1686607091283753:6400": {
+        "IResourceController": {
+            "name": "meteor_2",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1570482177511640:18496"
+        },
+        "IResourceManager": {
+            "uid": "1570482177511640:18496",
+            "name": "",
+            "flags": 0
+        }
+    },
+    "1686607091283753:6401": {
+        "IResourceController": {
+            "name": "meteor_3",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1570482177512296:18530"
+        },
+        "IResourceManager": {
+            "uid": "1570482177512296:18530",
+            "name": "",
+            "flags": 0
+        }
+    },
+    "1686607091283754:6402": {
+        "IResourceController": {
+            "name": "meteor_4",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1570482177512886:18564"
+        },
+        "IResourceManager": {
+            "uid": "1570482177512886:18564",
+            "name": "",
+            "flags": 0
+        }
+    },
+    "1686607091283754:6403": {
+        "IResourceController": {
+            "name": "Owl_2 _ Pivot",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1570482177513474:18598"
+        },
+        "IResourceManager": {
+            "uid": "1570482177513474:18598",
+            "name": "",
+            "flags": 0
+        }
+    },
+    "1686607091283754:6404": {
+        "IResourceController": {
+            "name": "Owl_2",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1570482177514063:18625"
+        },
+        "IResourceManager": {
+            "uid": "1570482177514063:18625",
+            "name": "",
+            "flags": 0
+        }
+    },
+    "1686607091283754:6405": {
+        "IResourceController": {
+            "name": "meteor",
+            "type": 2,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1570482177515868:18638",
+            "fileId": "1686607091283887:6516",
+            "originalId": "1686607091283957:6562",
+            "publicId": "1686607091284075:6674",
+            "expected_hash": "219f12b49a5f29e7ea7ecd06c09c022b"
+        },
+        "IResourceManager": {
+            "uid": "1570482177515868:18638",
+            "name": "Files/File_1686607091283887_6516",
+            "flags": 1
+        }
+    },
+    "1686607091283887:6516": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283887_6516"
+        }
+    },
+    "1686607091283957:6562": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283957_6562.lsmat"
+        }
+    },
+    "1686607091284075:6674": {
+        "IResourceController": {
+            "public": {
+                "path": "Path Template Resources/Models/owl/Materials/meteor.lsmat",
+                "hash": "641212ca5dc0ee46d9c4c69a692ca5cb"
+            }
+        }
+    },
+    "1686607091283754:6406": {
+        "IResourceController": {
+            "name": "owl",
+            "type": 2,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1570482177874534:18652",
+            "fileId": "1686607091283889:6518",
+            "originalId": "1686607091283959:6563",
+            "publicId": "1686607091284075:6675",
+            "expected_hash": "219f12b49a5f29e7ea7ecd06c09c022b"
+        },
+        "IResourceManager": {
+            "uid": "1570482177874534:18652",
+            "name": "Files/File_1686607091283889_6518",
+            "flags": 1
+        }
+    },
+    "1686607091283889:6518": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283889_6518"
+        }
+    },
+    "1686607091283959:6563": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283959_6563.lsmat"
+        }
+    },
+    "1686607091284075:6675": {
+        "IResourceController": {
+            "public": {
+                "path": "Path Template Resources/Models/owl/Materials/owl.lsmat",
+                "hash": "a4fc9aee1662e9328fd64df494ffacd1"
+            }
+        }
+    },
+    "1686607091283754:6409": {
+        "IResourceController": {
+            "name": "asteroid",
+            "type": 2,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1570490109890722:1103018",
+            "fileId": "1686607091283896:6523",
+            "originalId": "1686607091283960:6564",
+            "publicId": "1686607091284078:6680",
+            "expected_hash": "219f12b49a5f29e7ea7ecd06c09c022b"
+        },
+        "IResourceManager": {
+            "uid": "1570490109890722:1103018",
+            "name": "Files/File_1686607091283896_6523",
+            "flags": 1
+        }
+    },
+    "1686607091283896:6523": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283896_6523"
+        }
+    },
+    "1686607091283960:6564": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283960_6564.lsmat"
+        }
+    },
+    "1686607091284078:6680": {
+        "IResourceController": {
+            "public": {
+                "path": "Path Template Resources/Models/Asteroid/Materials/asteroid.lsmat",
+                "hash": "a815ad75cae4a5e053d0ebab3824c2cb"
+            }
+        }
+    },
+    "1686607091283755:6411": {
+        "IResourceController": {
+            "name": "TweenBillboard [DEPRECATED]",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1571881053550827:186202",
+            "fileId": "1686607091283940:6551",
+            "publicId": "1686607091284080:6684",
+            "expected_hash": "cb227cae25f08b1eb6956339486b5f7b"
+        },
+        "IResourceManager": {
+            "uid": "1571881053550827:186202",
+            "name": "Files/File_1686607091283940_6551.js",
+            "flags": 1
+        }
+    },
+    "1686607091283940:6551": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283940_6551.js"
+        }
+    },
+    "1686607091284080:6684": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/TweenTypes/Legacy/TweenBillboard [DEPRECATED].js",
+                "hash": "cb227cae25f08b1eb6956339486b5f7b"
+            }
+        }
+    },
+    "1686607091283755:6412": {
+        "IResourceController": {
+            "name": "SpectaclesTimeLoopHelper",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1571881070917937:194421",
+            "fileId": "1686607091283942:6552",
+            "publicId": "1686607091284080:6685",
+            "expected_hash": "9fba1326638c3b1202054a4ac7ca7231"
+        },
+        "IResourceManager": {
+            "uid": "1571881070917937:194421",
+            "name": "Files/File_1686607091283942_6552.js",
+            "flags": 1
+        }
+    },
+    "1686607091283942:6552": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283942_6552.js"
+        }
+    },
+    "1686607091284080:6685": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/SpectaclesTimeLoopHelper.js",
+                "hash": "9fba1326638c3b1202054a4ac7ca7231"
+            }
+        }
+    },
+    "1686607091283756:6413": {
+        "IResourceController": {
+            "name": "Diff",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1588130236222944:21660",
+            "fileId": "1686607091283962:6565",
+            "originalId": "1686607091283963:6566",
+            "expected_hash": "0febd5bc9be04ba2e49753f22e5c565d"
+        },
+        "IResourceManager": {
+            "uid": "1588130236222944:21660",
+            "name": "Files/File_1686607091283962_6565.jpeg",
+            "flags": 1
+        }
+    },
+    "1686607091283962:6565": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283962_6565.jpeg"
+        }
+    },
+    "1686607091283963:6566": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283963_6566.jpeg"
+        }
+    },
+    "1686607091283756:6414": {
+        "IResourceController": {
+            "name": "Specular",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1588130236238211:21667",
+            "fileId": "1686607091283965:6567",
+            "originalId": "1686607091283967:6568",
+            "expected_hash": "0ab1187ca732ed723d2e302f88f072f0"
+        },
+        "IResourceManager": {
+            "uid": "1588130236238211:21667",
+            "name": "Files/File_1686607091283965_6567.jpeg",
+            "flags": 1
+        }
+    },
+    "1686607091283965:6567": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283965_6567.jpeg"
+        }
+    },
+    "1686607091283967:6568": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283967_6568.jpeg"
+        }
+    },
+    "1686607091283758:6416": {
+        "IResourceController": {
+            "name": "Projection Output",
+            "type": 1,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1601435133224932:386875",
+            "additional": {
+                "RenderTargetRole": "2"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1601435133224932:386875",
+            "name": "Render Target",
+            "flags": 0
+        }
+    },
+    "1686607091283758:6417": {
+        "IResourceController": {
+            "name": "Depth Texture",
+            "type": 1,
+            "subtype": 15,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1601435133225948:386885"
+        },
+        "IResourceManager": {
+            "uid": "1601435133225948:386885",
+            "name": "Depth Texture",
+            "flags": 0
+        }
+    },
+    "1686607091283758:6418": {
+        "IResourceController": {
+            "name": "LUT",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1601435133264545:386903",
+            "fileId": "1686607091283973:6572",
+            "originalId": "1686607091283975:6573",
+            "publicId": "1686607091284081:6689",
+            "expected_hash": "1a718d6bb4b5e046041885f36265bcf2",
+            "additional": {
+                "originHash": "1a718d6bb4b5e046041885f36265bcf2"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1601435133264545:386903",
+            "name": "Files/File319.jpg",
+            "flags": 1
+        }
+    },
+    "1686607091283973:6572": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283973_6572.png"
+        }
+    },
+    "1686607091283975:6573": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283975_6573.png"
+        }
+    },
+    "1686607091284081:6689": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/LUT.png",
+                "hash": "1a718d6bb4b5e046041885f36265bcf2"
+            }
+        }
+    },
+    "1686607091283758:6419": {
+        "IResourceController": {
+            "name": "PlaceholderTexture",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1601435133316490:386915",
+            "fileId": "1686607091283976:6574",
+            "originalId": "1686607091283978:6575",
+            "publicId": "1686607091284082:6690",
+            "expected_hash": "8344248d2f92080ab5a8f0940e832dc7",
+            "additional": {
+                "originHash": "8344248d2f92080ab5a8f0940e832dc7"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1601435133316490:386915",
+            "name": "Files/File321.jpg",
+            "flags": 1
+        }
+    },
+    "1686607091283976:6574": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283976_6574.png"
+        }
+    },
+    "1686607091283978:6575": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283978_6575.png"
+        }
+    },
+    "1686607091284082:6690": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/PlaceholderTexture.png",
+                "hash": "8344248d2f92080ab5a8f0940e832dc7"
+            }
+        }
+    },
+    "1686607091283758:6420": {
+        "IResourceController": {
+            "name": "Fog",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1601435133363126:386931",
+            "fileId": "1686607091283980:6576",
+            "originalId": "1686607091283981:6577",
+            "publicId": "1686607091284082:6692",
+            "expected_hash": "65856167f724938774ac51955d4113dd"
+        },
+        "IResourceManager": {
+            "uid": "1601435133363126:386931",
+            "name": "Files/File_1686607091283980_6576",
+            "flags": 1
+        }
+    },
+    "1686607091283980:6576": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283980_6576"
+        }
+    },
+    "1686607091283981:6577": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283981_6577.lsmat"
+        }
+    },
+    "1686607091284082:6692": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Depth/Fog.lsmat",
+                "hash": "c12582aafc066c3163e5c80cf4375a0d"
+            }
+        }
+    },
+    "1686607091283758:6421": {
+        "IResourceController": {
+            "name": "SoftLightUnlit",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1601435133572766:386981",
+            "fileId": "1686607091283983:6578",
+            "originalId": "1686607091283984:6579",
+            "publicId": "1686607091284083:6694",
+            "expected_hash": "eebf3cead7501e9c24bf55f38f5f3994"
+        },
+        "IResourceManager": {
+            "uid": "1601435133572766:386981",
+            "name": "Files/File_1686607091283983_6578",
+            "flags": 1
+        }
+    },
+    "1686607091283983:6578": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283983_6578"
+        }
+    },
+    "1686607091283984:6579": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283984_6579.lsmat"
+        }
+    },
+    "1686607091284083:6694": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Color Correction/SoftLightUnlit.lsmat",
+                "hash": "6925ebb73cc7de61ac37d7548a06b1d5"
+            }
+        }
+    },
+    "1686607091283758:6422": {
+        "IResourceController": {
+            "name": "HardLightUnlit",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1601435133783718:387011",
+            "fileId": "1686607091283986:6580",
+            "originalId": "1686607091283987:6581",
+            "publicId": "1686607091284083:6695",
+            "expected_hash": "40bfd55e8aaab892c371336c82d37df5"
+        },
+        "IResourceManager": {
+            "uid": "1601435133783718:387011",
+            "name": "Files/File_1686607091283986_6580",
+            "flags": 1
+        }
+    },
+    "1686607091283986:6580": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283986_6580"
+        }
+    },
+    "1686607091283987:6581": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283987_6581.lsmat"
+        }
+    },
+    "1686607091284083:6695": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Color Correction/HardLightUnlit.lsmat",
+                "hash": "6755ffad94b4b4c9d572d8a58caf17ba"
+            }
+        }
+    },
+    "1686607091283758:6423": {
+        "IResourceController": {
+            "name": "Lookup",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1601435133984474:387041",
+            "fileId": "1686607091283989:6582",
+            "originalId": "1686607091283990:6583",
+            "publicId": "1686607091284084:6696",
+            "expected_hash": "79c415f0c70fa98ef6b7144941c544b3"
+        },
+        "IResourceManager": {
+            "uid": "1601435133984474:387041",
+            "name": "Files/File_1686607091283989_6582",
+            "flags": 1
+        }
+    },
+    "1686607091283989:6582": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283989_6582"
+        }
+    },
+    "1686607091283990:6583": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283990_6583.lsmat"
+        }
+    },
+    "1686607091284084:6696": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Color Correction/Lookup.lsmat",
+                "hash": "69502ee7a4374da345d7866bbd354350"
+            }
+        }
+    },
+    "1686607091283758:6425": {
+        "IResourceController": {
+            "name": "Displacement",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1601435134244359:387092",
+            "fileId": "1686607091283995:6586",
+            "originalId": "1686607091283999:6587",
+            "publicId": "1686607091284084:6699",
+            "expected_hash": "e3b2c079216557de828ac45e42e00ff6"
+        },
+        "IResourceManager": {
+            "uid": "1601435134244359:387092",
+            "name": "Files/File_1686607091283995_6586",
+            "flags": 1
+        }
+    },
+    "1686607091283995:6586": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283995_6586"
+        }
+    },
+    "1686607091283999:6587": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283999_6587.lsmat"
+        }
+    },
+    "1686607091284084:6699": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Underwater/Displacement.lsmat",
+                "hash": "4cbc0aef03f42e3c8d66a7c492ae8810"
+            }
+        }
+    },
+    "1686607091283759:6426": {
+        "IResourceController": {
+            "name": "DepthEffectController",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1601435134473853:387167",
+            "fileId": "1686607091284003:6588",
+            "publicId": "1686607091284085:6700",
+            "expected_hash": "56870802959f262e1961136cabf4a852"
+        },
+        "IResourceManager": {
+            "uid": "1601435134473853:387167",
+            "name": "Files/File_1686607091284003_6588.js",
+            "flags": 1
+        }
+    },
+    "1686607091284003:6588": {
+        "IFileManager": {
+            "path": "Files/File_1686607091284003_6588.js"
+        }
+    },
+    "1686607091284085:6700": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/DepthEffectController.js",
+                "hash": "56870802959f262e1961136cabf4a852"
+            }
+        }
+    },
+    "1686607091283759:6427": {
+        "IResourceController": {
+            "name": "Depth Displacement",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1601435134506879:387181",
+            "fileId": "1686607091284005:6589",
+            "originalId": "1686607091284009:6590",
+            "publicId": "1686607091284085:6701",
+            "expected_hash": "75065edb520e50013a9aae491c39609a"
+        },
+        "IResourceManager": {
+            "uid": "1601435134506879:387181",
+            "name": "Files/File_1686607091284005_6589",
+            "flags": 1
+        }
+    },
+    "1686607091284005:6589": {
+        "IFileManager": {
+            "path": "Files/File_1686607091284005_6589"
+        }
+    },
+    "1686607091284009:6590": {
+        "IFileManager": {
+            "path": "Files/File_1686607091284009_6590.lsmat"
+        }
+    },
+    "1686607091284085:6701": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Depth/Depth Displacement.lsmat",
+                "hash": "5c8b0286b1cd717bc4e95055c520d27a"
+            }
+        }
+    },
+    "1686607091283759:6428": {
+        "IResourceController": {
+            "name": "Caustics Sphere",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1601435134731146:387301",
+            "fileId": "1686607091284011:6591",
+            "originalId": "1686607091284012:6592",
+            "publicId": "1686607091284086:6702",
+            "expected_hash": "7db72b0cae5b17fb3720735a6f6011a3"
+        },
+        "IResourceManager": {
+            "uid": "1601435134731146:387301",
+            "name": "Files/File_1686607091284011_6591",
+            "flags": 1
+        }
+    },
+    "1686607091284011:6591": {
+        "IFileManager": {
+            "path": "Files/File_1686607091284011_6591"
+        }
+    },
+    "1686607091284012:6592": {
+        "IFileManager": {
+            "path": "Files/File_1686607091284012_6592.lsmat"
+        }
+    },
+    "1686607091284086:6702": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Underwater/Caustics Sphere.lsmat",
+                "hash": "99d1a1374ac48fe49527c3b02fe497e5"
+            }
+        }
+    },
+    "1686607091283759:6429": {
+        "IResourceController": {
+            "name": "RotationBasedMovement",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1601442345051354:1279579",
+            "fileId": "1686607091284014:6593",
+            "publicId": "1686607091284086:6703",
+            "expected_hash": "80d81d402c490682f239aa7c491965a9"
+        },
+        "IResourceManager": {
+            "uid": "1601442345051354:1279579",
+            "name": "Files/File_1686607091284014_6593.js",
+            "flags": 1
+        }
+    },
+    "1686607091284014:6593": {
+        "IFileManager": {
+            "path": "Files/File_1686607091284014_6593.js"
+        }
+    },
+    "1686607091284086:6703": {
+        "IResourceController": {
+            "public": {
+                "path": "RotationBasedMovement.js",
+                "hash": "80d81d402c490682f239aa7c491965a9"
+            }
+        }
+    },
+    "1686607091283759:6430": {
+        "IResourceController": {
+            "name": "FlowerParticles",
+            "type": 2,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1601444152309371:1515443",
+            "fileId": "1686607091284016:6594",
+            "originalId": "1686607091284017:6595",
+            "publicId": "1686607091284087:6705",
+            "expected_hash": "ccca45fc5030b1228966c1573794bb48"
+        },
+        "IResourceManager": {
+            "uid": "1601444152309371:1515443",
+            "name": "Files/File_1686607091284016_6594",
+            "flags": 1
+        }
+    },
+    "1686607091284016:6594": {
+        "IFileManager": {
+            "path": "Files/File_1686607091284016_6594"
+        }
+    },
+    "1686607091284017:6595": {
+        "IFileManager": {
+            "path": "Files/File_1686607091284017_6595.lsmat"
+        }
+    },
+    "1686607091284087:6705": {
+        "IResourceController": {
+            "public": {
+                "path": "Particles/FlowerParticles.lsmat",
+                "hash": "fe48390f7c1dd4a58e45853350b62a47"
+            }
+        }
+    },
+    "1686607091283759:6434": {
+        "IResourceController": {
+            "name": "StarParticles",
+            "type": 2,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1601444152636544:1515510",
+            "fileId": "1686607091284028:6602",
+            "originalId": "1686607091284029:6603",
+            "publicId": "1686607091284091:6709",
+            "expected_hash": "ccca45fc5030b1228966c1573794bb48"
+        },
+        "IResourceManager": {
+            "uid": "1601444152636544:1515510",
+            "name": "Files/File_1686607091284028_6602",
+            "flags": 1
+        }
+    },
+    "1686607091284028:6602": {
+        "IFileManager": {
+            "path": "Files/File_1686607091284028_6602"
+        }
+    },
+    "1686607091284029:6603": {
+        "IFileManager": {
+            "path": "Files/File_1686607091284029_6603.lsmat"
+        }
+    },
+    "1686607091284091:6709": {
+        "IResourceController": {
+            "public": {
+                "path": "Particles/StarParticles.lsmat",
+                "hash": "095cf98cb42f3b2b2da955689267e2a2"
+            }
+        }
+    },
+    "1686607091283760:6435": {
+        "IResourceController": {
+            "name": "Physics Root World Settings",
+            "type": 36,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "8675309:9035768"
+        },
+        "IResourceManager": {
+            "uid": "8675309:9035768",
+            "name": "Physics Root World Settings Asset",
+            "flags": 0
+        }
+    },
+    "1686607091283781:6447": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283781_6447.lsmat"
+        }
+    },
+    "1686607091283783:6448": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283783_6448.oprfb"
+        }
+    },
+    "1686607091283784:6449": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283784_6449.gif"
+        }
+    },
+    "1686607091283787:6451": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283787_6451.lsmat"
+        }
+    },
+    "1686607091283789:6452": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283789_6452.gif"
+        }
+    },
+    "1686607091283790:6453": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283790_6453.gif"
+        }
+    },
+    "1686607091283794:6456": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283794_6456.lsmat"
+        }
+    },
+    "1686607091283795:6457": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283795_6457.lsmat"
+        }
+    },
+    "1686607091283797:6458": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283797_6458.lsmat"
+        }
+    },
+    "1686607091283798:6459": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283798_6459.lsmat"
+        }
+    },
+    "1686607091283800:6460": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283800_6460.lsmat"
+        }
+    },
+    "1686607091283801:6461": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283801_6461.lsmat"
+        }
+    },
+    "1686607091283802:6462": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283802_6462.lsmat"
+        }
+    },
+    "1686607091283804:6463": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283804_6463.lsmat"
+        }
+    },
+    "1686607091283805:6464": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283805_6464.lsmat"
+        }
+    },
+    "1686607091283807:6465": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283807_6465.lsmat"
+        }
+    },
+    "1686607091283808:6466": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283808_6466.oprfb"
+        }
+    },
+    "1686607091283810:6467": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283810_6467.gif"
+        }
+    },
+    "1686607091283811:6468": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283811_6468.lsmat"
+        }
+    },
+    "1686607091283813:6469": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283813_6469.oprfb"
+        }
+    },
+    "1686607091283815:6471": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283815_6471.png"
+        }
+    },
+    "1686607091283819:6473": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283819_6473.png"
+        }
+    },
+    "1686607091283822:6475": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283822_6475.jpg"
+        }
+    },
+    "1686607091283828:6479": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283828_6479.lsmat"
+        }
+    },
+    "1686607091283831:6481": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283831_6481.lsmat"
+        }
+    },
+    "1686607091283834:6483": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283834_6483.png"
+        }
+    },
+    "1686607091283837:6485": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283837_6485.png"
+        }
+    },
+    "1686607091283843:6489": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283843_6489.lsmat"
+        }
+    },
+    "1686607091283846:6491": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283846_6491.lsmat"
+        }
+    },
+    "1686607091283849:6493": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283849_6493.jpg"
+        }
+    },
+    "1686607091283852:6495": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283852_6495.png"
+        }
+    },
+    "1686607091283860:6500": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283860_6500.lsmat"
+        }
+    },
+    "1686607091283863:6502": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283863_6502.lsmat"
+        }
+    },
+    "1686607091283867:6504": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283867_6504.png"
+        }
+    },
+    "1686607091283871:6507": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283871_6507.lsmat"
+        }
+    },
+    "1686607091283875:6509": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283875_6509.lsmat"
+        }
+    },
+    "1686607091283877:6511": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283877_6511.png"
+        }
+    },
+    "1686607091283881:6513": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283881_6513.png"
+        }
+    },
+    "1686607091283888:6517": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283888_6517.lsmat"
+        }
+    },
+    "1686607091283891:6519": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283891_6519.lsmat"
+        }
+    },
+    "1686607091283895:6522": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283895_6522.jpg"
+        }
+    },
+    "1686607091283898:6524": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283898_6524.lsmat"
+        }
+    },
+    "1686607091283899:6525": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283899_6525.lsmat"
+        }
+    },
+    "1686607091283901:6526": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283901_6526.lsmat"
+        }
+    },
+    "1686607091283902:6527": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283902_6527.lsmat"
+        }
+    },
+    "1686607091283905:6528": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283905_6528.lsmat"
+        }
+    },
+    "1686607091283907:6529": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283907_6529.lsmat"
+        }
+    },
+    "1686607091283909:6530": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283909_6530.lsmat"
+        }
+    },
+    "1686607091283910:6531": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283910_6531.lsmat"
+        }
+    },
+    "1686607091283912:6532": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283912_6532.lsmat"
+        }
+    },
+    "1686607091283913:6533": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283913_6533.lsmat"
+        }
+    },
+    "1686607091283915:6534": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283915_6534.lsmat"
+        }
+    },
+    "1686607091283916:6535": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283916_6535.lsmat"
+        }
+    },
+    "1686607091283918:6536": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283918_6536.lsmat"
+        }
+    },
+    "1686607091283919:6537": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283919_6537.lsmat"
+        }
+    },
+    "1686607091283921:6538": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283921_6538.lsmat"
+        }
+    },
+    "1686607091283922:6539": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283922_6539.lsmat"
+        }
+    },
+    "1686607091283924:6540": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283924_6540.lsmat"
+        }
+    },
+    "1686607091283925:6541": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283925_6541.lsmat"
+        }
+    },
+    "1686607091283927:6542": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283927_6542.lsmat"
+        }
+    },
+    "1686607091283928:6543": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283928_6543.lsmat"
+        }
+    },
+    "1686607091283930:6544": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283930_6544.lsmat"
+        }
+    },
+    "1686607091283931:6545": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283931_6545.lsmat"
+        }
+    },
+    "1686607091283933:6546": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283933_6546.lsmat"
+        }
+    },
+    "1686607091283934:6547": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283934_6547.lsmat"
+        }
+    },
+    "1686607091283936:6548": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283936_6548.lsmat"
+        }
+    },
+    "1686607091283939:6550": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283939_6550.jpg"
+        }
+    },
+    "1686607091283969:6569": {
+        "IFileManager": {
+            "path": "Files/File_1686607091283969_6569.hdr"
+        }
+    },
+    "1686607091284081:6686": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/echopark.hdr",
+                "hash": "0cf0e87a54f33218fcf92a12d7f0ede2"
+            }
+        }
+    },
+    "1686607091284167:6773": {
+        "IResourceController": {
+            "name": "echopark",
+            "type": 9,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1686607091283969:6569",
+            "publicId": "1686607091284081:6686",
+            "expected_hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
+            "resources": [
+                "1686607091283756:6413",
+                "1686607091283756:6414"
+            ]
+        }
+    },
+    "1686607091284049:6604": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures"
+            }
+        }
+    },
+    "1686607091284169:6774": {
+        "IResourceController": {
+            "name": "Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1686607091284049:6604",
+            "resources": [
+                "1686607091283743:6340",
+                "1686607091283743:6341",
+                "1686607091283745:6356",
+                "1686607091284167:6773",
+                "1686607091283758:6416",
+                "1686607091283758:6417",
+                "1686607091283758:6418",
+                "1686607091283758:6419",
+                "1686607091283758:6424"
+            ]
+        }
+    },
+    "1686607091284049:6606": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts"
+            }
+        }
+    },
+    "1686607091284172:6775": {
+        "IResourceController": {
+            "name": "Scripts",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1686607091284049:6606",
+            "resources": [
+                "1686607091283743:6342",
+                "1686607091283744:6344",
+                "1686607091283744:6343",
+                "1686607091283745:6354",
+                "1686607091283745:6355",
+                "1686607091283755:6412",
+                "1686607091283759:6426"
+            ]
+        }
+    },
+    "1686607091284051:6612": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials"
+            }
+        }
+    },
+    "1686607091284177:6779": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1686607091284051:6612",
+            "resources": [
+                "1686607091283745:6353",
+                "1686607091284174:6776",
+                "1686607091284176:6777",
+                "1686607091284177:6778"
+            ]
+        }
+    },
+    "1686607091284052:6614": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween"
+            }
+        }
+    },
+    "1686607091284185:6782": {
+        "IResourceController": {
+            "name": "Tween",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1686607091284052:6614",
+            "resources": [
+                "1686607091283744:6345",
+                "1686607091284185:6781",
+                "1686607091283744:6347"
+            ]
+        }
+    },
+    "1686607091284052:6616": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/TweenTypes"
+            }
+        }
+    },
+    "1686607091284185:6781": {
+        "IResourceController": {
+            "name": "TweenTypes",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1686607091284052:6616",
+            "resources": [
+                "1686607091283744:6346",
+                "1686607091283744:6348",
+                "1686607091283744:6349",
+                "1686607091283744:6350",
+                "1686607091283745:6351",
+                "1686607091283745:6352",
+                "1686607091284185:6780"
+            ]
+        }
+    },
+    "1686607091284055:6624": {
+        "IResourceController": {
+            "public": {
+                "path": "Path Template Resources"
+            }
+        }
+    },
+    "1686607091284220:6808": {
+        "IResourceController": {
+            "name": "Path Template Resources",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1686607091284055:6624",
+            "resources": [
+                "1686607091284190:6783",
+                "1686607091284220:6807"
+            ]
+        }
+    },
+    "1686607091284055:6625": {
+        "IResourceController": {
+            "public": {
+                "path": "Path Template Resources/Textures"
+            }
+        }
+    },
+    "1686607091284190:6783": {
+        "IResourceController": {
+            "name": "Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1686607091284055:6625",
+            "resources": [
+                "1686607091283745:6357",
+                "1686607091283745:6358",
+                "1686607091283746:6367",
+                "1686607091283746:6368",
+                "1686607091283747:6376",
+                "1686607091283747:6377",
+                "1686607091283749:6388",
+                "1686607091283751:6395",
+                "1686607091283751:6396",
+                "1686607091283754:6408",
+                "1686607091283755:6410"
+            ]
+        }
+    },
+    "1686607091284058:6628": {
+        "IResourceController": {
+            "public": {
+                "path": "Path Template Resources/Models"
+            }
+        }
+    },
+    "1686607091284220:6807": {
+        "IResourceController": {
+            "name": "Models",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1686607091284058:6628",
+            "resources": [
+                "1686607091284195:6787",
+                "1686607091284203:6791",
+                "1686607091284209:6795",
+                "1686607091284212:6799",
+                "1686607091284217:6803",
+                "1686607091284220:6806"
+            ]
+        }
+    },
+    "1686607091284058:6629": {
+        "IResourceController": {
+            "public": {
+                "path": "Path Template Resources/Models/fox"
+            }
+        }
+    },
+    "1686607091284195:6787": {
+        "IResourceController": {
+            "name": "fox",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1686607091284058:6629",
+            "resources": [
+                "1686607091284192:6784",
+                "1686607091284193:6785",
+                "1686607091284195:6786"
+            ]
+        }
+    },
+    "1686607091284059:6630": {
+        "IResourceController": {
+            "public": {
+                "path": "Path Template Resources/Models/fox/Meshes"
+            }
+        }
+    },
+    "1686607091284192:6784": {
+        "IResourceController": {
+            "name": "Meshes",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1686607091284059:6630",
+            "resources": [
+                "1686607091283745:6359",
+                "1686607091283745:6360"
+            ]
+        }
+    },
+    "1686607091284060:6633": {
+        "IResourceController": {
+            "public": {
+                "path": "Path Template Resources/Models/fox/Animations"
+            }
+        }
+    },
+    "1686607091284193:6785": {
+        "IResourceController": {
+            "name": "Animations",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1686607091284060:6633",
+            "resources": [
+                "1686607091283746:6361",
+                "1686607091283746:6362",
+                "1686607091283746:6363",
+                "1686607091283746:6364"
+            ]
+        }
+    },
+    "1686607091284060:6634": {
+        "IResourceController": {
+            "public": {
+                "path": "Path Template Resources/Models/fox/Materials"
+            }
+        }
+    },
+    "1686607091284195:6786": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1686607091284060:6634",
+            "resources": [
+                "1686607091283746:6365",
+                "1686607091283746:6366"
+            ]
+        }
+    },
+    "1686607091284062:6639": {
+        "IResourceController": {
+            "public": {
+                "path": "Path Template Resources/Models/bear"
+            }
+        }
+    },
+    "1686607091284203:6791": {
+        "IResourceController": {
+            "name": "bear",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1686607091284062:6639",
+            "resources": [
+                "1686607091284196:6788",
+                "1686607091284198:6789",
+                "1686607091284203:6790"
+            ]
+        }
+    },
+    "1686607091284063:6640": {
+        "IResourceController": {
+            "public": {
+                "path": "Path Template Resources/Models/bear/Meshes"
+            }
+        }
+    },
+    "1686607091284196:6788": {
+        "IResourceController": {
+            "name": "Meshes",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1686607091284063:6640",
+            "resources": [
+                "1686607091283746:6369",
+                "1686607091283747:6370"
+            ]
+        }
+    },
+    "1686607091284064:6643": {
+        "IResourceController": {
+            "public": {
+                "path": "Path Template Resources/Models/bear/Animations"
+            }
+        }
+    },
+    "1686607091284198:6789": {
+        "IResourceController": {
+            "name": "Animations",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1686607091284064:6643",
+            "resources": [
+                "1686607091283747:6371",
+                "1686607091283747:6372",
+                "1686607091283747:6373"
+            ]
+        }
+    },
+    "1686607091284064:6644": {
+        "IResourceController": {
+            "public": {
+                "path": "Path Template Resources/Models/bear/Materials"
+            }
+        }
+    },
+    "1686607091284203:6790": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1686607091284064:6644",
+            "resources": [
+                "1686607091283747:6374",
+                "1686607091283747:6375"
+            ]
+        }
+    },
+    "1686607091284065:6649": {
+        "IResourceController": {
+            "public": {
+                "path": "Path Template Resources/Models/cat"
+            }
+        }
+    },
+    "1686607091284209:6795": {
+        "IResourceController": {
+            "name": "cat",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1686607091284065:6649",
+            "resources": [
+                "1686607091284204:6792",
+                "1686607091284206:6793",
+                "1686607091284209:6794"
+            ]
+        }
+    },
+    "1686607091284066:6650": {
+        "IResourceController": {
+            "public": {
+                "path": "Path Template Resources/Models/cat/Meshes"
+            }
+        }
+    },
+    "1686607091284204:6792": {
+        "IResourceController": {
+            "name": "Meshes",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1686607091284066:6650",
+            "resources": [
+                "1686607091283747:6378",
+                "1686607091283748:6379",
+                "1686607091283748:6380"
+            ]
+        }
+    },
+    "1686607091284067:6654": {
+        "IResourceController": {
+            "public": {
+                "path": "Path Template Resources/Models/cat/Animations"
+            }
+        }
+    },
+    "1686607091284206:6793": {
+        "IResourceController": {
+            "name": "Animations",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1686607091284067:6654",
+            "resources": [
+                "1686607091283748:6381",
+                "1686607091283748:6382",
+                "1686607091283748:6383",
+                "1686607091283748:6384",
+                "1686607091283748:6385"
+            ]
+        }
+    },
+    "1686607091284067:6655": {
+        "IResourceController": {
+            "public": {
+                "path": "Path Template Resources/Models/cat/Materials"
+            }
+        }
+    },
+    "1686607091284209:6794": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1686607091284067:6655",
+            "resources": [
+                "1686607091283748:6386",
+                "1686607091283749:6387"
+            ]
+        }
+    },
+    "1686607091284069:6659": {
+        "IResourceController": {
+            "public": {
+                "path": "Path Template Resources/Models/dog"
+            }
+        }
+    },
+    "1686607091284212:6799": {
+        "IResourceController": {
+            "name": "dog",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1686607091284069:6659",
+            "resources": [
+                "1686607091284210:6796",
+                "1686607091284211:6797",
+                "1686607091284212:6798"
+            ]
+        }
+    },
+    "1686607091284069:6660": {
+        "IResourceController": {
+            "public": {
+                "path": "Path Template Resources/Models/dog/Meshes"
+            }
+        }
+    },
+    "1686607091284210:6796": {
+        "IResourceController": {
+            "name": "Meshes",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1686607091284069:6660",
+            "resources": [
+                "1686607091283750:6389"
+            ]
+        }
+    },
+    "1686607091284070:6662": {
+        "IResourceController": {
+            "public": {
+                "path": "Path Template Resources/Models/dog/Animations"
+            }
+        }
+    },
+    "1686607091284211:6797": {
+        "IResourceController": {
+            "name": "Animations",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1686607091284070:6662",
+            "resources": [
+                "1686607091283750:6390",
+                "1686607091283750:6391",
+                "1686607091283750:6392"
+            ]
+        }
+    },
+    "1686607091284070:6663": {
+        "IResourceController": {
+            "public": {
+                "path": "Path Template Resources/Models/dog/Materials"
+            }
+        }
+    },
+    "1686607091284212:6798": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1686607091284070:6663",
+            "resources": [
+                "1686607091283751:6393",
+                "1686607091283751:6394"
+            ]
+        }
+    },
+    "1686607091284073:6668": {
+        "IResourceController": {
+            "public": {
+                "path": "Path Template Resources/Models/owl"
+            }
+        }
+    },
+    "1686607091284217:6803": {
+        "IResourceController": {
+            "name": "owl",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1686607091284073:6668",
+            "resources": [
+                "1686607091284214:6800",
+                "1686607091284216:6801",
+                "1686607091284217:6802"
+            ]
+        }
+    },
+    "1686607091284073:6669": {
+        "IResourceController": {
+            "public": {
+                "path": "Path Template Resources/Models/owl/Meshes"
+            }
+        }
+    },
+    "1686607091284214:6800": {
+        "IResourceController": {
+            "name": "Meshes",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1686607091284073:6669",
+            "resources": [
+                "1686607091283752:6397",
+                "1686607091283752:6398"
+            ]
+        }
+    },
+    "1686607091284074:6672": {
+        "IResourceController": {
+            "public": {
+                "path": "Path Template Resources/Models/owl/Animations"
+            }
+        }
+    },
+    "1686607091284216:6801": {
+        "IResourceController": {
+            "name": "Animations",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1686607091284074:6672",
+            "resources": [
+                "1686607091283753:6399",
+                "1686607091283753:6400",
+                "1686607091283753:6401",
+                "1686607091283754:6402",
+                "1686607091283754:6403",
+                "1686607091283754:6404"
+            ]
+        }
+    },
+    "1686607091284074:6673": {
+        "IResourceController": {
+            "public": {
+                "path": "Path Template Resources/Models/owl/Materials"
+            }
+        }
+    },
+    "1686607091284217:6802": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1686607091284074:6673",
+            "resources": [
+                "1686607091283754:6405",
+                "1686607091283754:6406"
+            ]
+        }
+    },
+    "1686607091284076:6676": {
+        "IResourceController": {
+            "public": {
+                "path": "Path Template Resources/Models/Asteroid"
+            }
+        }
+    },
+    "1686607091284220:6806": {
+        "IResourceController": {
+            "name": "Asteroid",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1686607091284076:6676",
+            "resources": [
+                "1686607091284219:6804",
+                "1686607091284220:6805"
+            ]
+        }
+    },
+    "1686607091284076:6677": {
+        "IResourceController": {
+            "public": {
+                "path": "Path Template Resources/Models/Asteroid/Meshes"
+            }
+        }
+    },
+    "1686607091284219:6804": {
+        "IResourceController": {
+            "name": "Meshes",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1686607091284076:6677",
+            "resources": [
+                "1686607091283754:6407"
+            ]
+        }
+    },
+    "1686607091284078:6681": {
+        "IResourceController": {
+            "public": {
+                "path": "Path Template Resources/Models/Asteroid/Materials"
+            }
+        }
+    },
+    "1686607091284220:6805": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1686607091284078:6681",
+            "resources": [
+                "1686607091283754:6409"
+            ]
+        }
+    },
+    "1686607091284079:6683": {
+        "IResourceController": {
+            "public": {
+                "path": "Tween/TweenTypes/Legacy",
+                "hash": "1b3c33a31e2012e2fb122c85002e1df4"
+            }
+        }
+    },
+    "1686607091284185:6780": {
+        "IResourceController": {
+            "name": "Legacy",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1686607091284079:6683",
+            "resources": [
+                "1686607091283755:6411"
+            ]
+        }
+    },
+    "1686607091284081:6687": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes"
+            }
+        }
+    },
+    "1686607091284221:6809": {
+        "IResourceController": {
+            "name": "Meshes",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1686607091284081:6687",
+            "resources": [
+                "1686607091283756:6415"
+            ]
+        }
+    },
+    "1686607091284082:6691": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Depth"
+            }
+        }
+    },
+    "1686607091284174:6776": {
+        "IResourceController": {
+            "name": "Depth",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1686607091284082:6691",
+            "resources": [
+                "1686607091283758:6420",
+                "1686607091283759:6427"
+            ]
+        }
+    },
+    "1686607091284083:6693": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Color Correction"
+            }
+        }
+    },
+    "1686607091284176:6777": {
+        "IResourceController": {
+            "name": "Color Correction",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1686607091284083:6693",
+            "resources": [
+                "1686607091283758:6421",
+                "1686607091283758:6422",
+                "1686607091283758:6423"
+            ]
+        }
+    },
+    "1686607091284084:6698": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Underwater"
+            }
+        }
+    },
+    "1686607091284177:6778": {
+        "IResourceController": {
+            "name": "Underwater",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1686607091284084:6698",
+            "resources": [
+                "1686607091283758:6425",
+                "1686607091283759:6428"
+            ]
+        }
+    },
+    "1686607091284086:6704": {
+        "IResourceController": {
+            "public": {
+                "path": "Particles"
+            }
+        }
+    },
+    "1686607091284226:6810": {
+        "IResourceController": {
+            "name": "Particles",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1686607091284086:6704",
+            "resources": [
+                "1686607091283759:6430",
+                "1686607091283759:6431",
+                "1686607091283759:6434"
+            ]
+        }
+    },
+    "1686607091284227:6811": {
+        "IResourceController": {
+            "name": "Project Resources Root",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "resources": [
+                "1686607091284169:6774",
+                "1686607091284172:6775",
+                "1686607091284177:6779",
+                "1686607091284185:6782",
+                "1686607091284220:6808",
+                "1686607091284221:6809",
+                "1686607091283759:6429",
+                "1686607091284226:6810",
+                "1686607091283759:6432",
+                "1686607091283759:6433",
+                "1686607091283760:6435"
+            ]
+        }
+    }
+}

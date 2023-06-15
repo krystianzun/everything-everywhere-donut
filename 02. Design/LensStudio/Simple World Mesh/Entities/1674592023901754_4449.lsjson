@@ -1,0 +1,22 @@
+{
+    "1674592023901663:4402": {
+        "IResourceController": {
+            "public": {
+                "path": "Example Resources/Depth VFX Collision Example/VFX"
+            }
+        }
+    },
+    "1674592023901754:4449": {
+        "IResourceController": {
+            "name": "VFX",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1674592023901663:4402",
+            "resources": [
+                "1674592023901492:4236"
+            ]
+        }
+    }
+}

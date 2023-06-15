@@ -1,0 +1,24 @@
+{
+    "1674592023901653:4377": {
+        "IResourceController": {
+            "public": {
+                "path": "Example Resources/Tap To Spawn/Meshes"
+            }
+        }
+    },
+    "1674592023901785:4453": {
+        "IResourceController": {
+            "name": "Meshes",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1674592023901653:4377",
+            "resources": [
+                "1674592023901489:4219",
+                "1674592023901490:4220",
+                "1674592023901490:4221"
+            ]
+        }
+    }
+}

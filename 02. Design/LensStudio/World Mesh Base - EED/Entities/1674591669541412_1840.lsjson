@@ -1,0 +1,116 @@
+{
+    "1637619987553859:93125": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "547968",
+                "compressedSize": "220769",
+                "extension": "mesh",
+                "originalRAM": "547968",
+                "originalSize": "220769",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1674591669541489:1925"
+        }
+    },
+    "1674591669541412:1840": {
+        "IResourceController": {
+            "name": "Forest 01",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1637619987553859:93125",
+            "fileId": "1674591669541488:1924",
+            "publicId": "1674591669541581:2027",
+            "expected_hash": "df668d660bc39ab26a5689738cd63cc7",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "hasSkinBones": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1637619987553859:93125",
+            "name": "Files/File_1674591669541488_1924.mesh",
+            "flags": 1
+        }
+    },
+    "1674591669541488:1924": {
+        "IFileManager": {
+            "path": "Files/File_1674591669541488_1924.mesh"
+        }
+    },
+    "1674591669541489:1925": {
+        "IFileManager": {
+            "path": "Files/File_1674591669541489_1925.mesh"
+        }
+    },
+    "1674591669541581:2027": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/Forest/Forest 01.mesh",
+                "hash": "df668d660bc39ab26a5689738cd63cc7"
+            }
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "1674592023901487:4207": {
+        "IResourceController": {
+            "name": "depth_to_normal_mat",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1638229922915174:106470",
+            "fileId": "1674592023901524:4274",
+            "originalId": "1674592023901526:4275",
+            "publicId": "1674592023901646:4360",
+            "expected_hash": "c7e888b86bc4930c7ef837238e0721a7",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1638229922915174:106470",
+            "name": "Files/File_1674592023901524_4274",
+            "flags": 1
+        }
+    },
+    "1674592023901524:4274": {
+        "IFileManager": {
+            "path": "Files/File_1674592023901524_4274"
+        }
+    },
+    "1674592023901526:4275": {
+        "IFileManager": {
+            "path": "Files/File_1674592023901526_4275.lsmat"
+        }
+    },
+    "1674592023901646:4360": {
+        "IResourceController": {
+            "public": {
+                "path": "Example Resources/Depth VFX Collision Example/Materials/depth_to_normal_mat.lsmat",
+                "hash": "7f697920a213f88ddc683a10f69a4ade"
+            }
+        }
+    }
+}

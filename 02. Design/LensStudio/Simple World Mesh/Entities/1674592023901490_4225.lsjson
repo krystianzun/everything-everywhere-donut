@@ -1,0 +1,42 @@
+{
+    "1674592023901490:4225": {
+        "IResourceController": {
+            "name": "world_mesh_visualization",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1638229924750372:107035",
+            "fileId": "1674592023901564:4305",
+            "originalId": "1674592023901565:4306",
+            "publicId": "1674592023901656:4385",
+            "expected_hash": "628a5030d14a1b299c3f24d640e072b5",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1638229924750372:107035",
+            "name": "Files/File_1674592023901564_4305",
+            "flags": 1
+        }
+    },
+    "1674592023901564:4305": {
+        "IFileManager": {
+            "path": "Files/File_1674592023901564_4305"
+        }
+    },
+    "1674592023901565:4306": {
+        "IFileManager": {
+            "path": "Files/File_1674592023901565_4306.lsmat"
+        }
+    },
+    "1674592023901656:4385": {
+        "IResourceController": {
+            "public": {
+                "path": "Example Resources/Tap To Spawn/Materials/world_mesh_visualization.lsmat",
+                "hash": "0ab071542ce3fd175d19783e2303371f"
+            }
+        }
+    }
+}

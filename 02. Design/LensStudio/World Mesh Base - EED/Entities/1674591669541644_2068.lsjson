@@ -1,0 +1,22 @@
+{
+    "1674591669541567:1986": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Star"
+            }
+        }
+    },
+    "1674591669541644:2068": {
+        "IResourceController": {
+            "name": "Star",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1674591669541567:1986",
+            "resources": [
+                "1674591669541409:1815"
+            ]
+        }
+    }
+}

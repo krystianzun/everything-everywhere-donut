@@ -1,0 +1,33 @@
+{
+    "1674592023901488:4210": {
+        "IResourceController": {
+            "name": "ScreenSpaceNormals",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1638229923599595:106674",
+            "fileId": "1674592023901533:4280",
+            "publicId": "1674592023901648:4364",
+            "expected_hash": "6654415cba471f795f2f5ee4a4984665"
+        },
+        "IResourceManager": {
+            "uid": "1638229923599595:106674",
+            "name": "Files/File_1674592023901533_4280.js",
+            "flags": 1
+        }
+    },
+    "1674592023901533:4280": {
+        "IFileManager": {
+            "path": "Files/File_1674592023901533_4280.js"
+        }
+    },
+    "1674592023901648:4364": {
+        "IResourceController": {
+            "public": {
+                "path": "Example Resources/Depth VFX Collision Example/Script/ScreenSpaceNormals.js",
+                "hash": "6654415cba471f795f2f5ee4a4984665"
+            }
+        }
+    }
+}

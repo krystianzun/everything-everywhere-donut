@@ -1,0 +1,23 @@
+{
+    "1674591669541569:1992": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/WorldMesh Scripts"
+            }
+        }
+    },
+    "1674591669541649:2071": {
+        "IResourceController": {
+            "name": "WorldMesh Scripts",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1674591669541569:1992",
+            "resources": [
+                "1674591669541409:1818",
+                "1674591669541410:1819"
+            ]
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "1674592023901645:4356": {
+        "IResourceController": {
+            "public": {
+                "path": "Example Resources"
+            }
+        }
+    },
+    "1674592023901809:4463": {
+        "IResourceController": {
+            "name": "Example Resources",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1674592023901645:4356",
+            "resources": [
+                "1674592023901755:4450",
+                "1674592023901792:4456",
+                "1674592023901809:4462"
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "1674591669541583:2034": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Cloud"
+            }
+        }
+    },
+    "1674591669541752:2086": {
+        "IResourceController": {
+            "name": "Cloud",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1674591669541583:2034",
+            "resources": [
+                "1674591669541413:1843"
+            ]
+        }
+    }
+}

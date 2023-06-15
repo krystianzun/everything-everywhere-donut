@@ -1,0 +1,80 @@
+{
+    "1637619985687145:92629": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "3072",
+                        "uncompressed_hash": "716f70039db16af4de40a62110104de8"
+                    },
+                    "v": "1674591669541521:1952"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "4194304",
+                "compressedSize": "145057",
+                "extension": "jpg",
+                "originalRAM": "4194304",
+                "originalSize": "145057",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "3",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1674591669541439:1882"
+        }
+    },
+    "1674591669541409:1814": {
+        "IResourceController": {
+            "name": "Forest",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1637619985687145:92629",
+            "fileId": "1674591669541437:1880",
+            "originalId": "1674591669541438:1881",
+            "publicId": "1674591669541567:1985",
+            "expected_hash": "716f70039db16af4de40a62110104de8",
+            "additional": {
+                "originHash": "716f70039db16af4de40a62110104de8",
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1637619985687145:92629",
+            "name": "Files/File_1674591669541437_1880.jpg",
+            "flags": 1
+        }
+    },
+    "1674591669541437:1880": {
+        "IFileManager": {
+            "path": "Files/File_1674591669541437_1880.jpg"
+        }
+    },
+    "1674591669541438:1881": {
+        "IFileManager": {
+            "path": "Files/File_1674591669541438_1881.jpg"
+        }
+    },
+    "1674591669541439:1882": {
+        "IFileManager": {
+            "path": "Files/File_1674591669541439_1882.jpg"
+        }
+    },
+    "1674591669541521:1952": {
+        "IFileManager": {
+            "path": "Files/File_1674591669541521_1952.jpg"
+        }
+    },
+    "1674591669541567:1985": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Forest/Forest.jpg",
+                "hash": "716f70039db16af4de40a62110104de8"
+            }
+        }
+    }
+}

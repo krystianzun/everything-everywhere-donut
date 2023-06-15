@@ -1,0 +1,22 @@
+{
+    "1674592023901666:4409": {
+        "IResourceController": {
+            "public": {
+                "path": "Example Resources/World Mesh VFX Spawn Example/VFX"
+            }
+        }
+    },
+    "1674592023901806:4460": {
+        "IResourceController": {
+            "name": "VFX",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1674592023901666:4409",
+            "resources": [
+                "1674592023901493:4246"
+            ]
+        }
+    }
+}

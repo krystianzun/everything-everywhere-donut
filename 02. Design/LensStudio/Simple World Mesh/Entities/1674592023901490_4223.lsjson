@@ -1,0 +1,42 @@
+{
+    "1674592023901490:4223": {
+        "IResourceController": {
+            "name": "lenses",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1638229924298665:106976",
+            "fileId": "1674592023901558:4301",
+            "originalId": "1674592023901560:4302",
+            "publicId": "1674592023901656:4383",
+            "expected_hash": "92cae71510b903b3f05e347c0261b5ef",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1638229924298665:106976",
+            "name": "Files/File_1674592023901558_4301",
+            "flags": 1
+        }
+    },
+    "1674592023901558:4301": {
+        "IFileManager": {
+            "path": "Files/File_1674592023901558_4301"
+        }
+    },
+    "1674592023901560:4302": {
+        "IFileManager": {
+            "path": "Files/File_1674592023901560_4302.lsmat"
+        }
+    },
+    "1674592023901656:4383": {
+        "IResourceController": {
+            "public": {
+                "path": "Example Resources/Tap To Spawn/Materials/lenses.lsmat",
+                "hash": "5ef881eb5c181fb9e739c0a74d250f8e"
+            }
+        }
+    }
+}

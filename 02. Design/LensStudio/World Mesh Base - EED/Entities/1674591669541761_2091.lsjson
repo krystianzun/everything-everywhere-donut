@@ -1,0 +1,22 @@
+{
+    "1674591669541587:2047": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Forest"
+            }
+        }
+    },
+    "1674591669541761:2091": {
+        "IResourceController": {
+            "name": "Forest",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1674591669541587:2047",
+            "resources": [
+                "1674591669541414:1851"
+            ]
+        }
+    }
+}

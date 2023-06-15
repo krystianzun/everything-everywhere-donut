@@ -1,0 +1,42 @@
+{
+    "1674592023901494:4252": {
+        "IResourceController": {
+            "name": "depth_normal",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1638297848757354:55395",
+            "fileId": "1674592023901624:4347",
+            "originalId": "1674592023901626:4348",
+            "publicId": "1674592023901668:4413",
+            "expected_hash": "2a482ea16c8922f1c345e2804cfee74e",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1638297848757354:55395",
+            "name": "Files/File_1674592023901624_4347",
+            "flags": 1
+        }
+    },
+    "1674592023901624:4347": {
+        "IFileManager": {
+            "path": "Files/File_1674592023901624_4347"
+        }
+    },
+    "1674592023901626:4348": {
+        "IFileManager": {
+            "path": "Files/File_1674592023901626_4348.lsmat"
+        }
+    },
+    "1674592023901668:4413": {
+        "IResourceController": {
+            "public": {
+                "path": "Example Resources/World Mesh VFX Spawn Example/Materials/depth_normal.lsmat",
+                "hash": "a7da374815ece02c6b15c5e1e0d97e2b"
+            }
+        }
+    }
+}

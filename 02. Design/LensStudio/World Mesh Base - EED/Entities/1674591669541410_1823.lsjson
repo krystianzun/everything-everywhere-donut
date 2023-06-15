@@ -1,0 +1,33 @@
+{
+    "1674591669541410:1823": {
+        "IResourceController": {
+            "name": "CloneMaterialToObjects",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1637619986202316:92771",
+            "fileId": "1674591669541454:1895",
+            "publicId": "1674591669541571:1999",
+            "expected_hash": "ecbc86d36c03c777771f831290eeaef1"
+        },
+        "IResourceManager": {
+            "uid": "1637619986202316:92771",
+            "name": "Files/File_1674591669541454_1895.js",
+            "flags": 1
+        }
+    },
+    "1674591669541454:1895": {
+        "IFileManager": {
+            "path": "Files/File_1674591669541454_1895.js"
+        }
+    },
+    "1674591669541571:1999": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/MaterialInstanceSpawner/CloneMaterialToObjects.js",
+                "hash": "ecbc86d36c03c777771f831290eeaef1"
+            }
+        }
+    }
+}

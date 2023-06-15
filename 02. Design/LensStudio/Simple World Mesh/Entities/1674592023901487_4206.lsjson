@@ -1,0 +1,80 @@
+{
+    "1638229920562727:105817": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "91d6599cb571260f673bf51b7e3afc9f"
+                    },
+                    "v": "1674592023901584:4320"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "524288",
+                "compressedSize": "81475",
+                "extension": "png",
+                "originalRAM": "4194304",
+                "originalSize": "102275",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1674592023901523:4273"
+        }
+    },
+    "1674592023901487:4206": {
+        "IResourceController": {
+            "name": "statue_normal",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1638229920562727:105817",
+            "fileId": "1674592023901521:4271",
+            "originalId": "1674592023901522:4272",
+            "publicId": "1674592023901644:4355",
+            "expected_hash": "18466b1cb8048a6374966ada1a4561fd",
+            "additional": {
+                "originHash": "91d6599cb571260f673bf51b7e3afc9f",
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1638229920562727:105817",
+            "name": "Files/File25.jpg",
+            "flags": 1
+        }
+    },
+    "1674592023901521:4271": {
+        "IFileManager": {
+            "path": "Files/File_1674592023901521_4271.pvr"
+        }
+    },
+    "1674592023901522:4272": {
+        "IFileManager": {
+            "path": "Files/File_1674592023901522_4272.png"
+        }
+    },
+    "1674592023901523:4273": {
+        "IFileManager": {
+            "path": "Files/File_1674592023901523_4273.png"
+        }
+    },
+    "1674592023901584:4320": {
+        "IFileManager": {
+            "path": "Files/File_1674592023901584_4320.pvr"
+        }
+    },
+    "1674592023901644:4355": {
+        "IResourceController": {
+            "public": {
+                "path": "Example Resources/Tap To Spawn/Textures/statue_normal.png",
+                "hash": "91d6599cb571260f673bf51b7e3afc9f"
+            }
+        }
+    }
+}

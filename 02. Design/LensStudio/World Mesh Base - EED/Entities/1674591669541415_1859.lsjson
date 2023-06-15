@@ -1,0 +1,33 @@
+{
+    "1674591669541415:1859": {
+        "IResourceController": {
+            "name": "Read Me",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1637622522822781:1175196",
+            "fileId": "1674591669541543:1968",
+            "publicId": "1674591669541589:2054",
+            "expected_hash": "b138c9911eab659ed01386a5899fd765"
+        },
+        "IResourceManager": {
+            "uid": "1637622522822781:1175196",
+            "name": "Files/File_1674591669541543_1968.js",
+            "flags": 1
+        }
+    },
+    "1674591669541543:1968": {
+        "IFileManager": {
+            "path": "Files/File_1674591669541543_1968.js"
+        }
+    },
+    "1674591669541589:2054": {
+        "IResourceController": {
+            "public": {
+                "path": "Read Me.js",
+                "hash": "b138c9911eab659ed01386a5899fd765"
+            }
+        }
+    }
+}

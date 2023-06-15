@@ -1,0 +1,116 @@
+{
+    "1637619986742471:92942": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "84000",
+                "compressedSize": "33345",
+                "extension": "mesh",
+                "originalRAM": "84000",
+                "originalSize": "33345",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1674591669541470:1909"
+        }
+    },
+    "1674591669541411:1832": {
+        "IResourceController": {
+            "name": "Cloud",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1637619986742471:92942",
+            "fileId": "1674591669541469:1908",
+            "publicId": "1674591669541576:2014",
+            "expected_hash": "6700d695d86ad360d8f7225b90e91f74",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "hasSkinBones": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1637619986742471:92942",
+            "name": "Files/File_1674591669541469_1908.mesh",
+            "flags": 1
+        }
+    },
+    "1674591669541469:1908": {
+        "IFileManager": {
+            "path": "Files/File_1674591669541469_1908.mesh"
+        }
+    },
+    "1674591669541470:1909": {
+        "IFileManager": {
+            "path": "Files/File_1674591669541470_1909.mesh"
+        }
+    },
+    "1674591669541576:2014": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/Cloud/Cloud.mesh",
+                "hash": "6700d695d86ad360d8f7225b90e91f74"
+            }
+        }
+    }
+}

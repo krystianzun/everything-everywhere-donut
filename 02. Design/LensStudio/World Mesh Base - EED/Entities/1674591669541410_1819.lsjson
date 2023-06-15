@@ -1,0 +1,33 @@
+{
+    "1674591669541410:1819": {
+        "IResourceController": {
+            "name": "RayCasting",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1637619986091766:92716",
+            "fileId": "1674591669541449:1891",
+            "publicId": "1674591669541570:1994",
+            "expected_hash": "9ed64877904248d92c0c9c7e4cddf603"
+        },
+        "IResourceManager": {
+            "uid": "1637619986091766:92716",
+            "name": "Files/File_1674591669541449_1891.js",
+            "flags": 1
+        }
+    },
+    "1674591669541449:1891": {
+        "IFileManager": {
+            "path": "Files/File_1674591669541449_1891.js"
+        }
+    },
+    "1674591669541570:1994": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/WorldMesh Scripts/RayCasting.js",
+                "hash": "9ed64877904248d92c0c9c7e4cddf603"
+            }
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "1674592023901652:4374": {
+        "IResourceController": {
+            "public": {
+                "path": "Example Resources/Tap To Spawn/Textures"
+            }
+        }
+    },
+    "1674592023901763:4452": {
+        "IResourceController": {
+            "name": "Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1674592023901652:4374",
+            "resources": [
+                "1674592023901489:4217",
+                "1674592023901489:4218",
+                "1674592023901487:4204",
+                "1674592023901487:4205",
+                "1674592023901487:4206"
+            ]
+        }
+    }
+}

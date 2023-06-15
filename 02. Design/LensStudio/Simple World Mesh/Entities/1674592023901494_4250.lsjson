@@ -1,0 +1,24 @@
+{
+    "1674592023901494:4250": {
+        "IResourceController": {
+            "name": "Managing",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": true,
+            "uid": "1638297847791592:55355",
+            "fileId": "1674592023901620:4344",
+            "expected_hash": "2634657a91f4792d31f6d606b02ebe73"
+        },
+        "IResourceManager": {
+            "uid": "1638297847791592:55355",
+            "name": "Files/File_1674592023901620_4344.js",
+            "flags": 1
+        }
+    },
+    "1674592023901620:4344": {
+        "IFileManager": {
+            "path": "Files/File_1674592023901620_4344.js"
+        }
+    }
+}

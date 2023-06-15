@@ -1,0 +1,80 @@
+{
+    "1637619985763360:92648": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "54f2879f8647a4dacde7564093eb4dfd"
+                    },
+                    "v": "1674591669541520:1951"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "7192",
+                "compressedSize": "1158",
+                "extension": "png",
+                "originalRAM": "56608",
+                "originalSize": "1237",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1674591669541442:1885"
+        }
+    },
+    "1674591669541409:1815": {
+        "IResourceController": {
+            "name": "Star",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1637619985763360:92648",
+            "fileId": "1674591669541440:1883",
+            "originalId": "1674591669541441:1884",
+            "publicId": "1674591669541568:1987",
+            "expected_hash": "3741e2e4e99f6ac9fccd6e17063255eb",
+            "additional": {
+                "originHash": "54f2879f8647a4dacde7564093eb4dfd",
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1637619985763360:92648",
+            "name": "Files/File23.jpg",
+            "flags": 1
+        }
+    },
+    "1674591669541440:1883": {
+        "IFileManager": {
+            "path": "Files/File_1674591669541440_1883.pvr"
+        }
+    },
+    "1674591669541441:1884": {
+        "IFileManager": {
+            "path": "Files/File_1674591669541441_1884.png"
+        }
+    },
+    "1674591669541442:1885": {
+        "IFileManager": {
+            "path": "Files/File_1674591669541442_1885.png"
+        }
+    },
+    "1674591669541520:1951": {
+        "IFileManager": {
+            "path": "Files/File_1674591669541520_1951.pvr"
+        }
+    },
+    "1674591669541568:1987": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Star/Star.png",
+                "hash": "54f2879f8647a4dacde7564093eb4dfd"
+            }
+        }
+    }
+}

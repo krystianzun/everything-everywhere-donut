@@ -1,0 +1,67 @@
+{
+    "1638229923810711:106793": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "1048576",
+                "compressedSize": "52506",
+                "extension": "png",
+                "originalRAM": "1048576",
+                "originalSize": "52506",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1674592023901545:4290"
+        }
+    },
+    "1674592023901489:4217": {
+        "IResourceController": {
+            "name": "statue_base",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1638229923810711:106793",
+            "fileId": "1674592023901543:4288",
+            "originalId": "1674592023901544:4289",
+            "publicId": "1674592023901652:4375",
+            "expected_hash": "b06a430e9831dfd249ea73079a6161eb",
+            "additional": {
+                "originHash": "b06a430e9831dfd249ea73079a6161eb",
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1638229923810711:106793",
+            "name": "Files/File69.jpg",
+            "flags": 1
+        }
+    },
+    "1674592023901543:4288": {
+        "IFileManager": {
+            "path": "Files/File_1674592023901543_4288.png"
+        }
+    },
+    "1674592023901544:4289": {
+        "IFileManager": {
+            "path": "Files/File_1674592023901544_4289.png"
+        }
+    },
+    "1674592023901545:4290": {
+        "IFileManager": {
+            "path": "Files/File_1674592023901545_4290.png"
+        }
+    },
+    "1674592023901652:4375": {
+        "IResourceController": {
+            "public": {
+                "path": "Example Resources/Tap To Spawn/Textures/statue_base.png",
+                "hash": "b06a430e9831dfd249ea73079a6161eb"
+            }
+        }
+    }
+}

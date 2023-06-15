@@ -1,0 +1,42 @@
+{
+    "1674591669541413:1843": {
+        "IResourceController": {
+            "name": "Cloud Instanced Object",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1637619987776493:93189",
+            "fileId": "1674591669541495:1930",
+            "originalId": "1674591669541496:1931",
+            "publicId": "1674591669541583:2035",
+            "expected_hash": "23f778746ac5d27c2c2430bed1f8b574",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1637619987776493:93189",
+            "name": "Files/File_1674591669541495_1930",
+            "flags": 1
+        }
+    },
+    "1674591669541495:1930": {
+        "IFileManager": {
+            "path": "Files/File_1674591669541495_1930"
+        }
+    },
+    "1674591669541496:1931": {
+        "IFileManager": {
+            "path": "Files/File_1674591669541496_1931.lsmat"
+        }
+    },
+    "1674591669541583:2035": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Cloud/Cloud Instanced Object.lsmat",
+                "hash": "83a766c318597cac1488037b66e64f73"
+            }
+        }
+    }
+}

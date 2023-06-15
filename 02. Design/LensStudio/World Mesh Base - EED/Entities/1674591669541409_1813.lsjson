@@ -1,0 +1,80 @@
+{
+    "1637619985500515:92610": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "3072",
+                        "uncompressed_hash": "57f55722532104968013f5f850939235"
+                    },
+                    "v": "1674591669541519:1950"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "1048576",
+                "compressedSize": "28043",
+                "extension": "jpg",
+                "originalRAM": "1048576",
+                "originalSize": "28043",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "3",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1674591669541436:1879"
+        }
+    },
+    "1674591669541409:1813": {
+        "IResourceController": {
+            "name": "Boat 02",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1637619985500515:92610",
+            "fileId": "1674591669541434:1877",
+            "originalId": "1674591669541435:1878",
+            "publicId": "1674591669541566:1983",
+            "expected_hash": "57f55722532104968013f5f850939235",
+            "additional": {
+                "originHash": "57f55722532104968013f5f850939235",
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1637619985500515:92610",
+            "name": "Files/File_1674591669541434_1877.jpg",
+            "flags": 1
+        }
+    },
+    "1674591669541434:1877": {
+        "IFileManager": {
+            "path": "Files/File_1674591669541434_1877.jpg"
+        }
+    },
+    "1674591669541435:1878": {
+        "IFileManager": {
+            "path": "Files/File_1674591669541435_1878.jpg"
+        }
+    },
+    "1674591669541436:1879": {
+        "IFileManager": {
+            "path": "Files/File_1674591669541436_1879.jpg"
+        }
+    },
+    "1674591669541519:1950": {
+        "IFileManager": {
+            "path": "Files/File_1674591669541519_1950.jpg"
+        }
+    },
+    "1674591669541566:1983": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Boat/Boat 02.jpg",
+                "hash": "57f55722532104968013f5f850939235"
+            }
+        }
+    }
+}

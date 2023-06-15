@@ -1,0 +1,42 @@
+{
+    "1674591669541414:1850": {
+        "IResourceController": {
+            "name": "Water Instanced Object [Custom PBR]",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1637619989009167:93463",
+            "fileId": "1674591669541512:1944",
+            "originalId": "1674591669541513:1945",
+            "publicId": "1674591669541586:2046",
+            "expected_hash": "5a2ef064f3ce1304dae678f516f97c77",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1637619989009167:93463",
+            "name": "Files/File_1674591669541512_1944",
+            "flags": 1
+        }
+    },
+    "1674591669541512:1944": {
+        "IFileManager": {
+            "path": "Files/File_1674591669541512_1944"
+        }
+    },
+    "1674591669541513:1945": {
+        "IFileManager": {
+            "path": "Files/File_1674591669541513_1945.lsmat"
+        }
+    },
+    "1674591669541586:2046": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Boat/Water Instanced Object [Custom PBR].lsmat",
+                "hash": "7a3e31c30a16827cc1dc21deffe951ad"
+            }
+        }
+    }
+}

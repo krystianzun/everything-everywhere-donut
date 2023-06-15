@@ -1,0 +1,23 @@
+{
+    "1674591669541584:2038": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Planets"
+            }
+        }
+    },
+    "1674591669541756:2088": {
+        "IResourceController": {
+            "name": "Planets",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1674591669541584:2038",
+            "resources": [
+                "1674591669541413:1845",
+                "1674591669541413:1846"
+            ]
+        }
+    }
+}

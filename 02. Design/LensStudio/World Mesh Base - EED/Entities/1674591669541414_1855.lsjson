@@ -1,0 +1,79 @@
+{
+    "1637620600348713:348691": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "232aa27d52a0800c5b80bb5c3e193d2f"
+                    },
+                    "v": "1674591669541535:1962"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "524288",
+                "compressedSize": "73242",
+                "extension": "png",
+                "originalRAM": "4194304",
+                "originalSize": "50800",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1674591669541534:1961"
+        }
+    },
+    "1674591669541414:1855": {
+        "IResourceController": {
+            "name": "Plane",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1637620600348713:348691",
+            "fileId": "1674591669541530:1959",
+            "originalId": "1674591669541533:1960",
+            "publicId": "1674591669541568:1989",
+            "expected_hash": "0f63191875b75c2445525ab843fe9aeb",
+            "additional": {
+                "originHash": "232aa27d52a0800c5b80bb5c3e193d2f"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1637620600348713:348691",
+            "name": "Files/File113.jpg",
+            "flags": 1
+        }
+    },
+    "1674591669541530:1959": {
+        "IFileManager": {
+            "path": "Files/File_1674591669541530_1959.pvr"
+        }
+    },
+    "1674591669541533:1960": {
+        "IFileManager": {
+            "path": "Files/File_1674591669541533_1960.png"
+        }
+    },
+    "1674591669541534:1961": {
+        "IFileManager": {
+            "path": "Files/File_1674591669541534_1961.png"
+        }
+    },
+    "1674591669541535:1962": {
+        "IFileManager": {
+            "path": "Files/File_1674591669541535_1962.pvr"
+        }
+    },
+    "1674591669541568:1989": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Plane/Plane.png",
+                "hash": "232aa27d52a0800c5b80bb5c3e193d2f"
+            }
+        }
+    }
+}

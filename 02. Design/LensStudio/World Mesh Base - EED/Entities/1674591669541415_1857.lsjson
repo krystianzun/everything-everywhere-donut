@@ -1,0 +1,42 @@
+{
+    "1674591669541415:1857": {
+        "IResourceController": {
+            "name": "Instanced Object Material Example [DUPLICATE_ME]",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1637621503177778:679697",
+            "fileId": "1674591669541539:1965",
+            "originalId": "1674591669541540:1966",
+            "publicId": "1674591669541588:2053",
+            "expected_hash": "6f27090f424eeb42686217cdcde83c17",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1637621503177778:679697",
+            "name": "Files/File_1674591669541539_1965",
+            "flags": 1
+        }
+    },
+    "1674591669541539:1965": {
+        "IFileManager": {
+            "path": "Files/File_1674591669541539_1965"
+        }
+    },
+    "1674591669541540:1966": {
+        "IFileManager": {
+            "path": "Files/File_1674591669541540_1966.lsmat"
+        }
+    },
+    "1674591669541588:2053": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Instanced Object Material Example [DUPLICATE_ME].lsmat",
+                "hash": "d3713a63d1339b3415b429603aff07be"
+            }
+        }
+    }
+}

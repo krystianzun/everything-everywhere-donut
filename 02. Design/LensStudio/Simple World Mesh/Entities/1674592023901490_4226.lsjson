@@ -1,0 +1,39 @@
+{
+    "1674592023901490:4226": {
+        "IResourceController": {
+            "name": "Statue",
+            "type": 12,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1638229924944576:107083",
+            "fileId": "1674592023901566:4307",
+            "originalId": "1674592023901582:4319",
+            "publicId": "1674592023901657:4387",
+            "expected_hash": "8e5437a58165e7fcdf32520328855262"
+        },
+        "IResourceManager": {
+            "uid": "1638229924944576:107083",
+            "name": "sceneObject_0",
+            "flags": 0
+        }
+    },
+    "1674592023901566:4307": {
+        "IFileManager": {
+            "path": "Files/File_1674592023901566_4307.oprfb"
+        }
+    },
+    "1674592023901582:4319": {
+        "IFileManager": {
+            "path": "Files/File_1674592023901582_4319.oprfb"
+        }
+    },
+    "1674592023901657:4387": {
+        "IResourceController": {
+            "public": {
+                "path": "Example Resources/Tap To Spawn/Prefab/Statue.oprfb",
+                "hash": "631d75c9316ad9bcea379f622e17846e"
+            }
+        }
+    }
+}

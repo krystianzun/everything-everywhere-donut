@@ -1,0 +1,22 @@
+{
+    "1674591669541568:1988": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Plane"
+            }
+        }
+    },
+    "1674591669541645:2069": {
+        "IResourceController": {
+            "name": "Plane",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1674591669541568:1988",
+            "resources": [
+                "1674591669541414:1855"
+            ]
+        }
+    }
+}

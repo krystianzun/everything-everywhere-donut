@@ -1,0 +1,22 @@
+{
+    "1674592023901657:4386": {
+        "IResourceController": {
+            "public": {
+                "path": "Example Resources/Tap To Spawn/Prefab"
+            }
+        }
+    },
+    "1674592023901791:4455": {
+        "IResourceController": {
+            "name": "Prefab",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1674592023901657:4386",
+            "resources": [
+                "1674592023901490:4226"
+            ]
+        }
+    }
+}

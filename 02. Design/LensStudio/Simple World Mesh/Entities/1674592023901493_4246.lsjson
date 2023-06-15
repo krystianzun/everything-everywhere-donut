@@ -1,0 +1,49 @@
+{
+    "1674592023901493:4246": {
+        "IResourceController": {
+            "name": "world_mesh_spawn  [EDIT_ME]",
+            "type": 23,
+            "subtype": 0,
+            "dependency": 2,
+            "hidden": false,
+            "uid": "1638297847456785:55013",
+            "fileId": "1674592023901608:4336",
+            "originalId": "1674592023901609:4337",
+            "publicId": "1674592023901667:4410",
+            "expected_hash": "04c277b4a5dfc0cb599ec0d99e544241",
+            "resources": [
+                "1674592023901806:4459"
+            ],
+            "additional": {
+                "GraphFilepathKey": "Files/File122/",
+                "_exteraFile_": [
+                    "Files/File122/vfx.vfxgraph"
+                ],
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1638297847456785:55013",
+            "name": "Files/File_1674592023901608_4336",
+            "flags": 1
+        }
+    },
+    "1674592023901608:4336": {
+        "IFileManager": {
+            "path": "Files/File_1674592023901608_4336"
+        }
+    },
+    "1674592023901609:4337": {
+        "IFileManager": {
+            "path": "Files/File_1674592023901609_4337.lsvfx"
+        }
+    },
+    "1674592023901667:4410": {
+        "IResourceController": {
+            "public": {
+                "path": "Example Resources/World Mesh VFX Spawn Example/VFX/world_mesh_spawn  [EDIT_ME].lsvfx",
+                "hash": "45447d835677ece78fd544f5bf956cb0"
+            }
+        }
+    }
+}

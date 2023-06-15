@@ -1,0 +1,80 @@
+{
+    "1637619985138062:92572": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "3072",
+                        "uncompressed_hash": "c22638acf8b5c1a71aa1d536f2f90673"
+                    },
+                    "v": "1674591669541517:1948"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "4194304",
+                "compressedSize": "107030",
+                "extension": "jpg",
+                "originalRAM": "4194304",
+                "originalSize": "107030",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "3",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1674591669541429:1873"
+        }
+    },
+    "1674591669541408:1811": {
+        "IResourceController": {
+            "name": "Desert",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1637619985138062:92572",
+            "fileId": "1674591669541427:1871",
+            "originalId": "1674591669541428:1872",
+            "publicId": "1674591669541565:1980",
+            "expected_hash": "c22638acf8b5c1a71aa1d536f2f90673",
+            "additional": {
+                "originHash": "c22638acf8b5c1a71aa1d536f2f90673",
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1637619985138062:92572",
+            "name": "Files/File_1674591669541427_1871.jpg",
+            "flags": 1
+        }
+    },
+    "1674591669541427:1871": {
+        "IFileManager": {
+            "path": "Files/File_1674591669541427_1871.jpg"
+        }
+    },
+    "1674591669541428:1872": {
+        "IFileManager": {
+            "path": "Files/File_1674591669541428_1872.jpg"
+        }
+    },
+    "1674591669541429:1873": {
+        "IFileManager": {
+            "path": "Files/File_1674591669541429_1873.jpg"
+        }
+    },
+    "1674591669541517:1948": {
+        "IFileManager": {
+            "path": "Files/File_1674591669541517_1948.jpg"
+        }
+    },
+    "1674591669541565:1980": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Desert/Desert.jpg",
+                "hash": "c22638acf8b5c1a71aa1d536f2f90673"
+            }
+        }
+    }
+}

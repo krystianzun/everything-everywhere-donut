@@ -1,0 +1,25 @@
+{
+    "1674592023901655:4381": {
+        "IResourceController": {
+            "public": {
+                "path": "Example Resources/Tap To Spawn/Materials"
+            }
+        }
+    },
+    "1674592023901790:4454": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1674592023901655:4381",
+            "resources": [
+                "1674592023901490:4222",
+                "1674592023901490:4223",
+                "1674592023901490:4224",
+                "1674592023901490:4225"
+            ]
+        }
+    }
+}

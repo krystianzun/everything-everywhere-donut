@@ -1,0 +1,42 @@
+{
+    "1674592023901488:4208": {
+        "IResourceController": {
+            "name": "bilateral_blur_mat",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1638229923117802:106560",
+            "fileId": "1674592023901527:4276",
+            "originalId": "1674592023901529:4277",
+            "publicId": "1674592023901647:4361",
+            "expected_hash": "be868deb9de2932af2ebbceb22b233d0",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1638229923117802:106560",
+            "name": "Files/File_1674592023901527_4276",
+            "flags": 1
+        }
+    },
+    "1674592023901527:4276": {
+        "IFileManager": {
+            "path": "Files/File_1674592023901527_4276"
+        }
+    },
+    "1674592023901529:4277": {
+        "IFileManager": {
+            "path": "Files/File_1674592023901529_4277.lsmat"
+        }
+    },
+    "1674592023901647:4361": {
+        "IResourceController": {
+            "public": {
+                "path": "Example Resources/Depth VFX Collision Example/Materials/bilateral_blur_mat.lsmat",
+                "hash": "dfa7d6ed978f5bf5a8c75942b9c8771a"
+            }
+        }
+    }
+}

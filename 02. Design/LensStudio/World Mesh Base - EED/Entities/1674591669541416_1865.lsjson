@@ -1,0 +1,33 @@
+{
+    "1674591669541416:1865": {
+        "IResourceController": {
+            "name": "TweenValue",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1637796410461423:708583",
+            "fileId": "1674591669541549:1974",
+            "publicId": "1674591669541591:2062",
+            "expected_hash": "5c5dd53e4d2a21b44eba55fb18d06e31"
+        },
+        "IResourceManager": {
+            "uid": "1637796410461423:708583",
+            "name": "Files/File_1674591669541549_1974.js",
+            "flags": 1
+        }
+    },
+    "1674591669541549:1974": {
+        "IFileManager": {
+            "path": "Files/File_1674591669541549_1974.js"
+        }
+    },
+    "1674591669541591:2062": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Tween/TweenTypes/TweenValue.js",
+                "hash": "5c5dd53e4d2a21b44eba55fb18d06e31"
+            }
+        }
+    }
+}

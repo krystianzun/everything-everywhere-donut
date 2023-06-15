@@ -1,0 +1,22 @@
+{
+    "1674591669541576:2013": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/Cloud"
+            }
+        }
+    },
+    "1674591669541686:2078": {
+        "IResourceController": {
+            "name": "Cloud",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1674591669541576:2013",
+            "resources": [
+                "1674591669541411:1832"
+            ]
+        }
+    }
+}

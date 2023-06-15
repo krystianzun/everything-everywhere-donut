@@ -1,0 +1,25 @@
+{
+    "1674592023901665:4406": {
+        "IResourceController": {
+            "public": {
+                "path": "Example Resources/World Mesh VFX Spawn Example/Textures"
+            }
+        }
+    },
+    "1674592023901800:4458": {
+        "IResourceController": {
+            "name": "Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1674592023901665:4406",
+            "resources": [
+                "1674592023901493:4242",
+                "1674592023901493:4243",
+                "1674592023901493:4244",
+                "1674592023901493:4245"
+            ]
+        }
+    }
+}

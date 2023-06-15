@@ -1,0 +1,40 @@
+{
+    "1674591669541409:1816": {
+        "IResourceController": {
+            "name": "Look Around Hint",
+            "type": 1,
+            "subtype": 5,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1637619985868929:92666",
+            "fileId": "1674591669541443:1886",
+            "originalId": "1674591669541445:1887",
+            "publicId": "1674591669541565:1978",
+            "expected_hash": "dc60233dd101b9490eab3b158159f56d"
+        },
+        "IResourceManager": {
+            "uid": "1637619985868929:92666",
+            "name": "Files/File_1674591669541443_1886",
+            "flags": 1
+        }
+    },
+    "1674591669541443:1886": {
+        "IFileManager": {
+            "path": "Files/File_1674591669541443_1886"
+        }
+    },
+    "1674591669541445:1887": {
+        "IFileManager": {
+            "path": "Files/File_1674591669541445_1887"
+        }
+    },
+    "1674591669541565:1978": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Hints/Look Around Hint",
+                "hash": "dc60233dd101b9490eab3b158159f56d",
+                "complexResourceHash": "0921677a640000c0f1c12643f29cb6ec"
+            }
+        }
+    }
+}

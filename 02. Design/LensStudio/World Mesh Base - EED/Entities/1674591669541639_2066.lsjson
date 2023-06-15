@@ -1,0 +1,23 @@
+{
+    "1674591669541566:1981": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Boat"
+            }
+        }
+    },
+    "1674591669541639:2066": {
+        "IResourceController": {
+            "name": "Boat",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1674591669541566:1981",
+            "resources": [
+                "1674591669541409:1812",
+                "1674591669541409:1813"
+            ]
+        }
+    }
+}

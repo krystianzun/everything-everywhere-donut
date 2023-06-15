@@ -1,0 +1,43 @@
+{
+    "1674591669541409:1817": {
+        "IResourceController": {
+            "name": "Placeholder Texture",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1637619986016975:92685",
+            "fileId": "1674591669541446:1888",
+            "originalId": "1674591669541447:1889",
+            "publicId": "1674591669541569:1990",
+            "expected_hash": "c17e85db3ce71f1d16c98934d26aa7fd",
+            "additional": {
+                "originHash": "c17e85db3ce71f1d16c98934d26aa7fd",
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1637619986016975:92685",
+            "name": "Files/File28.jpg",
+            "flags": 1
+        }
+    },
+    "1674591669541446:1888": {
+        "IFileManager": {
+            "path": "Files/File_1674591669541446_1888.png"
+        }
+    },
+    "1674591669541447:1889": {
+        "IFileManager": {
+            "path": "Files/File_1674591669541447_1889.png"
+        }
+    },
+    "1674591669541569:1990": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Placeholder Texture.png",
+                "hash": "c17e85db3ce71f1d16c98934d26aa7fd"
+            }
+        }
+    }
+}

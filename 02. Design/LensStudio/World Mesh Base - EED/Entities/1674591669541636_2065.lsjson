@@ -1,0 +1,22 @@
+{
+    "1674591669541565:1979": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Desert"
+            }
+        }
+    },
+    "1674591669541636:2065": {
+        "IResourceController": {
+            "name": "Desert",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1674591669541565:1979",
+            "resources": [
+                "1674591669541408:1811"
+            ]
+        }
+    }
+}

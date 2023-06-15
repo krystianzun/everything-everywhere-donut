@@ -1,0 +1,24 @@
+{
+    "1674591669541586:2043": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Boat"
+            }
+        }
+    },
+    "1674591669541760:2090": {
+        "IResourceController": {
+            "name": "Boat",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1674591669541586:2043",
+            "resources": [
+                "1674591669541414:1848",
+                "1674591669541414:1849",
+                "1674591669541414:1850"
+            ]
+        }
+    }
+}

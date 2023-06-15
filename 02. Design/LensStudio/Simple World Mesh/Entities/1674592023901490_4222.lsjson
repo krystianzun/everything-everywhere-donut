@@ -1,0 +1,42 @@
+{
+    "1674592023901490:4222": {
+        "IResourceController": {
+            "name": "statue",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1638229924069039:106952",
+            "fileId": "1674592023901556:4299",
+            "originalId": "1674592023901557:4300",
+            "publicId": "1674592023901655:4382",
+            "expected_hash": "7a7377d6aee9e4c113c12f5be00798d5",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1638229924069039:106952",
+            "name": "Files/File_1674592023901556_4299",
+            "flags": 1
+        }
+    },
+    "1674592023901556:4299": {
+        "IFileManager": {
+            "path": "Files/File_1674592023901556_4299"
+        }
+    },
+    "1674592023901557:4300": {
+        "IFileManager": {
+            "path": "Files/File_1674592023901557_4300.lsmat"
+        }
+    },
+    "1674592023901655:4382": {
+        "IResourceController": {
+            "public": {
+                "path": "Example Resources/Tap To Spawn/Materials/statue.lsmat",
+                "hash": "37ca17a6f51d9d724f141404efc045f2"
+            }
+        }
+    }
+}

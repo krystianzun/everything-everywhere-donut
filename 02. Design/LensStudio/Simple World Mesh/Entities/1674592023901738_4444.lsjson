@@ -1,0 +1,23 @@
+{
+    "1674592023901646:4358": {
+        "IResourceController": {
+            "public": {
+                "path": "Example Resources/Depth VFX Collision Example/Textures"
+            }
+        }
+    },
+    "1674592023901738:4444": {
+        "IResourceController": {
+            "name": "Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1674592023901646:4358",
+            "resources": [
+                "1674592023901487:4203",
+                "1674592023901494:4254"
+            ]
+        }
+    }
+}

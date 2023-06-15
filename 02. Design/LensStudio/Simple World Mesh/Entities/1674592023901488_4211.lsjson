@@ -1,0 +1,33 @@
+{
+    "1674592023901488:4211": {
+        "IResourceController": {
+            "name": "DragFromCamera",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1638229923626272:106702",
+            "fileId": "1674592023901534:4281",
+            "publicId": "1674592023901648:4365",
+            "expected_hash": "8d3f18027c394f350557df676676b1f6"
+        },
+        "IResourceManager": {
+            "uid": "1638229923626272:106702",
+            "name": "Files/File_1674592023901534_4281.js",
+            "flags": 1
+        }
+    },
+    "1674592023901534:4281": {
+        "IFileManager": {
+            "path": "Files/File_1674592023901534_4281.js"
+        }
+    },
+    "1674592023901648:4365": {
+        "IResourceController": {
+            "public": {
+                "path": "Example Resources/Depth VFX Collision Example/Script/DragFromCamera.js",
+                "hash": "8d3f18027c394f350557df676676b1f6"
+            }
+        }
+    }
+}

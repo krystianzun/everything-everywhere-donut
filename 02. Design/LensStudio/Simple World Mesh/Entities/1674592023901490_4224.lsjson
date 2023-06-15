@@ -1,0 +1,42 @@
+{
+    "1674592023901490:4224": {
+        "IResourceController": {
+            "name": "frame",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1638229924499238:107000",
+            "fileId": "1674592023901561:4303",
+            "originalId": "1674592023901562:4304",
+            "publicId": "1674592023901656:4384",
+            "expected_hash": "92cae71510b903b3f05e347c0261b5ef",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1638229924499238:107000",
+            "name": "Files/File_1674592023901561_4303",
+            "flags": 1
+        }
+    },
+    "1674592023901561:4303": {
+        "IFileManager": {
+            "path": "Files/File_1674592023901561_4303"
+        }
+    },
+    "1674592023901562:4304": {
+        "IFileManager": {
+            "path": "Files/File_1674592023901562_4304.lsmat"
+        }
+    },
+    "1674592023901656:4384": {
+        "IResourceController": {
+            "public": {
+                "path": "Example Resources/Tap To Spawn/Materials/frame.lsmat",
+                "hash": "058923b0288cbf5086e698feb73fae88"
+            }
+        }
+    }
+}

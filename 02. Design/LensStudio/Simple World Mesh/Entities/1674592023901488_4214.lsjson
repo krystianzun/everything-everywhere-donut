@@ -1,0 +1,33 @@
+{
+    "1674592023901488:4214": {
+        "IResourceController": {
+            "name": "TapToSpawn",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1638229923721014:106749",
+            "fileId": "1674592023901539:4285",
+            "publicId": "1674592023901650:4371",
+            "expected_hash": "11ec47ab08add82fdb384c4cf7043583"
+        },
+        "IResourceManager": {
+            "uid": "1638229923721014:106749",
+            "name": "Files/File_1674592023901539_4285.js",
+            "flags": 1
+        }
+    },
+    "1674592023901539:4285": {
+        "IFileManager": {
+            "path": "Files/File_1674592023901539_4285.js"
+        }
+    },
+    "1674592023901650:4371": {
+        "IResourceController": {
+            "public": {
+                "path": "Example Resources/Tap To Spawn/Scripts/TapToSpawn.js",
+                "hash": "11ec47ab08add82fdb384c4cf7043583"
+            }
+        }
+    }
+}

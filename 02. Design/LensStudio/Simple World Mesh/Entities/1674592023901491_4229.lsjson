@@ -1,0 +1,33 @@
+{
+    "1674592023901491:4229": {
+        "IResourceController": {
+            "name": "TouchHelper",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1638229925163615:107318",
+            "fileId": "1674592023901570:4310",
+            "publicId": "1674592023901659:4391",
+            "expected_hash": "0a5b122c2473398588283e9cc137bd55"
+        },
+        "IResourceManager": {
+            "uid": "1638229925163615:107318",
+            "name": "Files/File_1674592023901570_4310.js",
+            "flags": 1
+        }
+    },
+    "1674592023901570:4310": {
+        "IFileManager": {
+            "path": "Files/File_1674592023901570_4310.js"
+        }
+    },
+    "1674592023901659:4391": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/TouchHelper.js",
+                "hash": "0a5b122c2473398588283e9cc137bd55"
+            }
+        }
+    }
+}

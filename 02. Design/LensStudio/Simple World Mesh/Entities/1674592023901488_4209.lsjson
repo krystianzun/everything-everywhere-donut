@@ -1,0 +1,42 @@
+{
+    "1674592023901488:4209": {
+        "IResourceController": {
+            "name": "cloud",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1638229923349353:106650",
+            "fileId": "1674592023901530:4278",
+            "originalId": "1674592023901531:4279",
+            "publicId": "1674592023901647:4362",
+            "expected_hash": "e4b3aba1acacb1a1d7d20d25f8acca44",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1638229923349353:106650",
+            "name": "Files/File_1674592023901530_4278",
+            "flags": 1
+        }
+    },
+    "1674592023901530:4278": {
+        "IFileManager": {
+            "path": "Files/File_1674592023901530_4278"
+        }
+    },
+    "1674592023901531:4279": {
+        "IFileManager": {
+            "path": "Files/File_1674592023901531_4279.lsmat"
+        }
+    },
+    "1674592023901647:4362": {
+        "IResourceController": {
+            "public": {
+                "path": "Example Resources/Depth VFX Collision Example/Materials/cloud.lsmat",
+                "hash": "37afa404ad75a13f55f27c667dcbc617"
+            }
+        }
+    }
+}

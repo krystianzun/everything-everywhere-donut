@@ -1,0 +1,45 @@
+{
+    "1674592023901492:4236": {
+        "IResourceController": {
+            "name": "depth_collision [EDIT_ME]",
+            "type": 23,
+            "subtype": 0,
+            "dependency": 2,
+            "hidden": false,
+            "uid": "1638230888881681:761591",
+            "fileId": "1674592023901586:4322",
+            "originalId": "1674592023901587:4323",
+            "publicId": "1674592023901663:4401",
+            "expected_hash": "25b9af0d9433b6d203615437c998679a",
+            "resources": [
+                "1674592023901754:4448"
+            ],
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1638230888881681:761591",
+            "name": "Files/File_1674592023901586_4322",
+            "flags": 1
+        }
+    },
+    "1674592023901586:4322": {
+        "IFileManager": {
+            "path": "Files/File_1674592023901586_4322"
+        }
+    },
+    "1674592023901587:4323": {
+        "IFileManager": {
+            "path": "Files/File_1674592023901587_4323.lsvfx"
+        }
+    },
+    "1674592023901663:4401": {
+        "IResourceController": {
+            "public": {
+                "path": "Example Resources/Depth VFX Collision Example/VFX/depth_collision [EDIT_ME].lsvfx",
+                "hash": "c3c647f4da21f9ebb02ee9eaa81ee440"
+            }
+        }
+    }
+}

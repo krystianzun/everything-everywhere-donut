@@ -1,0 +1,42 @@
+{
+    "1674591669541414:1851": {
+        "IResourceController": {
+            "name": "Forest Instanced Object [Simple PBR Texture]",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1637619989197510:93478",
+            "fileId": "1674591669541514:1946",
+            "originalId": "1674591669541515:1947",
+            "publicId": "1674591669541587:2048",
+            "expected_hash": "124d50904d0720a3024c34a9ee80eca6",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1637619989197510:93478",
+            "name": "Files/File_1674591669541514_1946",
+            "flags": 1
+        }
+    },
+    "1674591669541514:1946": {
+        "IFileManager": {
+            "path": "Files/File_1674591669541514_1946"
+        }
+    },
+    "1674591669541515:1947": {
+        "IFileManager": {
+            "path": "Files/File_1674591669541515_1947.lsmat"
+        }
+    },
+    "1674591669541587:2048": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Forest/Forest Instanced Object [Simple PBR Texture].lsmat",
+                "hash": "b1dade5deead7dde328acfcfa56e5699"
+            }
+        }
+    }
+}

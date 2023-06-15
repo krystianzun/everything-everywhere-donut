@@ -1,0 +1,23 @@
+{
+    "1674591669541582:2030": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/Plane"
+            }
+        }
+    },
+    "1674591669541751:2084": {
+        "IResourceController": {
+            "name": "Plane",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1674591669541582:2030",
+            "resources": [
+                "1674591669541414:1853",
+                "1674591669541414:1854"
+            ]
+        }
+    }
+}

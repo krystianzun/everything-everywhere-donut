@@ -1,0 +1,42 @@
+{
+    "1674591669541415:1856": {
+        "IResourceController": {
+            "name": "Plane Instanced Object [Simple PBR Texture]",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1637620757291099:420012",
+            "fileId": "1674591669541537:1963",
+            "originalId": "1674591669541538:1964",
+            "publicId": "1674591669541588:2050",
+            "expected_hash": "42017905fb9773ce8c0a1c7ab51c9470",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1637620757291099:420012",
+            "name": "Files/File_1674591669541537_1963",
+            "flags": 1
+        }
+    },
+    "1674591669541537:1963": {
+        "IFileManager": {
+            "path": "Files/File_1674591669541537_1963"
+        }
+    },
+    "1674591669541538:1964": {
+        "IFileManager": {
+            "path": "Files/File_1674591669541538_1964.lsmat"
+        }
+    },
+    "1674591669541588:2050": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Plane/Plane Instanced Object [Simple PBR Texture].lsmat",
+                "hash": "9d958577bc11d7d6a69fe82b1ce8aa02"
+            }
+        }
+    }
+}

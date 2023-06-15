@@ -1,0 +1,42 @@
+{
+    "1674591669541413:1847": {
+        "IResourceController": {
+            "name": "Star Instanced Object",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1637619988495427:93418",
+            "fileId": "1674591669541505:1938",
+            "originalId": "1674591669541506:1939",
+            "publicId": "1674591669541585:2042",
+            "expected_hash": "5689b3166794215e883fce28c81617e5",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1637619988495427:93418",
+            "name": "Files/File_1674591669541505_1938",
+            "flags": 1
+        }
+    },
+    "1674591669541505:1938": {
+        "IFileManager": {
+            "path": "Files/File_1674591669541505_1938"
+        }
+    },
+    "1674591669541506:1939": {
+        "IFileManager": {
+            "path": "Files/File_1674591669541506_1939.lsmat"
+        }
+    },
+    "1674591669541585:2042": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Stars/Star Instanced Object.lsmat",
+                "hash": "69a1a90c8ac0724bc186186fd6aea130"
+            }
+        }
+    }
+}

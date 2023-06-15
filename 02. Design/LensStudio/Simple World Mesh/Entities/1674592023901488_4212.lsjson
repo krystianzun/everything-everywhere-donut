@@ -1,0 +1,33 @@
+{
+    "1674592023901488:4212": {
+        "IResourceController": {
+            "name": "SetPositionIfEditor",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1638229923653157:106714",
+            "fileId": "1674592023901535:4282",
+            "publicId": "1674592023901648:4366",
+            "expected_hash": "4fce04e6dc6538ca5f3662f1232ee569"
+        },
+        "IResourceManager": {
+            "uid": "1638229923653157:106714",
+            "name": "Files/File_1674592023901535_4282.js",
+            "flags": 1
+        }
+    },
+    "1674592023901535:4282": {
+        "IFileManager": {
+            "path": "Files/File_1674592023901535_4282.js"
+        }
+    },
+    "1674592023901648:4366": {
+        "IResourceController": {
+            "public": {
+                "path": "Example Resources/Depth VFX Collision Example/Script/SetPositionIfEditor.js",
+                "hash": "4fce04e6dc6538ca5f3662f1232ee569"
+            }
+        }
+    }
+}

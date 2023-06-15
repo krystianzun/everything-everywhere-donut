@@ -1,0 +1,25 @@
+{
+    "1674591669541574:2008": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/Desert"
+            }
+        }
+    },
+    "1674591669541681:2077": {
+        "IResourceController": {
+            "name": "Desert",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1674591669541574:2008",
+            "resources": [
+                "1674591669541411:1828",
+                "1674591669541411:1829",
+                "1674591669541411:1830",
+                "1674591669541411:1831"
+            ]
+        }
+    }
+}

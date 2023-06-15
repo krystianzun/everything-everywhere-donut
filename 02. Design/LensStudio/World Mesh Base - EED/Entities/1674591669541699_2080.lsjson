@@ -1,0 +1,23 @@
+{
+    "1674591669541577:2017": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/Boats"
+            }
+        }
+    },
+    "1674591669541699:2080": {
+        "IResourceController": {
+            "name": "Boats",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1674591669541577:2017",
+            "resources": [
+                "1674591669541412:1834",
+                "1674591669541412:1835"
+            ]
+        }
+    }
+}

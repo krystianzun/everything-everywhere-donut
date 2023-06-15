@@ -1,0 +1,22 @@
+{
+    "1674591669541585:2041": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Stars"
+            }
+        }
+    },
+    "1674591669541757:2089": {
+        "IResourceController": {
+            "name": "Stars",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1674591669541585:2041",
+            "resources": [
+                "1674591669541413:1847"
+            ]
+        }
+    }
+}

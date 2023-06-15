@@ -1,0 +1,22 @@
+{
+    "1674591669541588:2051": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/World Mesh"
+            }
+        }
+    },
+    "1674591669541763:2093": {
+        "IResourceController": {
+            "name": "World Mesh",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1674591669541588:2051",
+            "resources": [
+                "1674591669541414:1852"
+            ]
+        }
+    }
+}

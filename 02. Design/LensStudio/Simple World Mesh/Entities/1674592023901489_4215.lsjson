@@ -1,0 +1,33 @@
+{
+    "1674592023901489:4215": {
+        "IResourceController": {
+            "name": "SetRandomColorFromArray",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1638229923754804:106761",
+            "fileId": "1674592023901540:4286",
+            "publicId": "1674592023901651:4372",
+            "expected_hash": "2fd4beb364d6ce5a6d1953da470a1fae"
+        },
+        "IResourceManager": {
+            "uid": "1638229923754804:106761",
+            "name": "Files/File_1674592023901540_4286.js",
+            "flags": 1
+        }
+    },
+    "1674592023901540:4286": {
+        "IFileManager": {
+            "path": "Files/File_1674592023901540_4286.js"
+        }
+    },
+    "1674592023901651:4372": {
+        "IResourceController": {
+            "public": {
+                "path": "Example Resources/Tap To Spawn/Scripts/SetRandomColorFromArray.js",
+                "hash": "2fd4beb364d6ce5a6d1953da470a1fae"
+            }
+        }
+    }
+}

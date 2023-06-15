@@ -1,0 +1,42 @@
+{
+    "1674591669541414:1852": {
+        "IResourceController": {
+            "name": "Occluder",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1637620341004936:264461",
+            "fileId": "1674591669541522:1953",
+            "originalId": "1674591669541524:1954",
+            "publicId": "1674591669541588:2052",
+            "expected_hash": "e5800debb9b392865d59b013512f4b56",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1637620341004936:264461",
+            "name": "Files/File_1674591669541522_1953",
+            "flags": 1
+        }
+    },
+    "1674591669541522:1953": {
+        "IFileManager": {
+            "path": "Files/File_1674591669541522_1953"
+        }
+    },
+    "1674591669541524:1954": {
+        "IFileManager": {
+            "path": "Files/File_1674591669541524_1954.lsmat"
+        }
+    },
+    "1674591669541588:2052": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/World Mesh/Occluder.lsmat",
+                "hash": "d238ab2e1265f706c6b1dc8400579d51"
+            }
+        }
+    }
+}

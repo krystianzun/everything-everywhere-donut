@@ -1,0 +1,33 @@
+{
+    "1674592023901489:4216": {
+        "IResourceController": {
+            "name": "CloneMaterial",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1638229923771638:106777",
+            "fileId": "1674592023901541:4287",
+            "publicId": "1674592023901651:4373",
+            "expected_hash": "92fec0752fc90d7aa39507999985519e"
+        },
+        "IResourceManager": {
+            "uid": "1638229923771638:106777",
+            "name": "Files/File_1674592023901541_4287.js",
+            "flags": 1
+        }
+    },
+    "1674592023901541:4287": {
+        "IFileManager": {
+            "path": "Files/File_1674592023901541_4287.js"
+        }
+    },
+    "1674592023901651:4373": {
+        "IResourceController": {
+            "public": {
+                "path": "Example Resources/Tap To Spawn/Scripts/CloneMaterial.js",
+                "hash": "92fec0752fc90d7aa39507999985519e"
+            }
+        }
+    }
+}

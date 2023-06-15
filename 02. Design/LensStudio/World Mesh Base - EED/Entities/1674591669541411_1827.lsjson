@@ -1,0 +1,33 @@
+{
+    "1674591669541411:1827": {
+        "IResourceController": {
+            "name": "ShowHint",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1637619986324468:92837",
+            "fileId": "1674591669541458:1899",
+            "publicId": "1674591669541573:2005",
+            "expected_hash": "e27b74fcd72ccb07f62eddebb4346d22"
+        },
+        "IResourceManager": {
+            "uid": "1637619986324468:92837",
+            "name": "Files/File_1674591669541458_1899.js",
+            "flags": 1
+        }
+    },
+    "1674591669541458:1899": {
+        "IFileManager": {
+            "path": "Files/File_1674591669541458_1899.js"
+        }
+    },
+    "1674591669541573:2005": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/ShowHint.js",
+                "hash": "e27b74fcd72ccb07f62eddebb4346d22"
+            }
+        }
+    }
+}

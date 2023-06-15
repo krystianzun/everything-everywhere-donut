@@ -1,0 +1,24 @@
+{
+    "1674592023901647:4363": {
+        "IResourceController": {
+            "public": {
+                "path": "Example Resources/Depth VFX Collision Example/Script"
+            }
+        }
+    },
+    "1674592023901743:4446": {
+        "IResourceController": {
+            "name": "Script",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1674592023901647:4363",
+            "resources": [
+                "1674592023901488:4210",
+                "1674592023901488:4211",
+                "1674592023901488:4212"
+            ]
+        }
+    }
+}

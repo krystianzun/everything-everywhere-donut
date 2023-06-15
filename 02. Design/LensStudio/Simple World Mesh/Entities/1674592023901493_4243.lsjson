@@ -1,0 +1,43 @@
+{
+    "1674592023901493:4243": {
+        "IResourceController": {
+            "name": "night",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1638297847400787:54975",
+            "fileId": "1674592023901600:4332",
+            "originalId": "1674592023901602:4333",
+            "publicId": "1674592023901666:4407",
+            "expected_hash": "df2263cffd75f799d46a9ace1b4b03e5",
+            "additional": {
+                "originHash": "df2263cffd75f799d46a9ace1b4b03e5",
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1638297847400787:54975",
+            "name": "Files/File118.jpg",
+            "flags": 1
+        }
+    },
+    "1674592023901600:4332": {
+        "IFileManager": {
+            "path": "Files/File_1674592023901600_4332.png"
+        }
+    },
+    "1674592023901602:4333": {
+        "IFileManager": {
+            "path": "Files/File_1674592023901602_4333.png"
+        }
+    },
+    "1674592023901666:4407": {
+        "IResourceController": {
+            "public": {
+                "path": "Example Resources/World Mesh VFX Spawn Example/Textures/night.png",
+                "hash": "df2263cffd75f799d46a9ace1b4b03e5"
+            }
+        }
+    }
+}

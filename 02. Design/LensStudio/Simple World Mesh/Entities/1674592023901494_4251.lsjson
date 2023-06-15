@@ -1,0 +1,42 @@
+{
+    "1674592023901494:4251": {
+        "IResourceController": {
+            "name": "night_cc",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1638297847810439:55371",
+            "fileId": "1674592023901622:4345",
+            "originalId": "1674592023901623:4346",
+            "publicId": "1674592023901668:4412",
+            "expected_hash": "4b282239cbf22ca7309f20383b6b32af",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1638297847810439:55371",
+            "name": "Files/File_1674592023901622_4345",
+            "flags": 1
+        }
+    },
+    "1674592023901622:4345": {
+        "IFileManager": {
+            "path": "Files/File_1674592023901622_4345"
+        }
+    },
+    "1674592023901623:4346": {
+        "IFileManager": {
+            "path": "Files/File_1674592023901623_4346.lsmat"
+        }
+    },
+    "1674592023901668:4412": {
+        "IResourceController": {
+            "public": {
+                "path": "Example Resources/World Mesh VFX Spawn Example/Materials/night_cc.lsmat",
+                "hash": "b48fd34e534bc72f828d095b21db3409"
+            }
+        }
+    }
+}

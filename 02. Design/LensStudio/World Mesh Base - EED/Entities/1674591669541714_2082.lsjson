@@ -1,0 +1,22 @@
+{
+    "1674591669541579:2023": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/Stars"
+            }
+        }
+    },
+    "1674591669541714:2082": {
+        "IResourceController": {
+            "name": "Stars",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1674591669541579:2023",
+            "resources": [
+                "1674591669541412:1838"
+            ]
+        }
+    }
+}

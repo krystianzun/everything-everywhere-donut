@@ -1,0 +1,33 @@
+{
+    "1674592023901493:4241": {
+        "IResourceController": {
+            "name": "DepthStencil",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1638297847366430:54949",
+            "fileId": "1674592023901598:4331",
+            "publicId": "1674592023901665:4405",
+            "expected_hash": "dde8b6c6bd27583ce5cbf668e7774194"
+        },
+        "IResourceManager": {
+            "uid": "1638297847366430:54949",
+            "name": "Files/File_1674592023901598_4331.js",
+            "flags": 1
+        }
+    },
+    "1674592023901598:4331": {
+        "IFileManager": {
+            "path": "Files/File_1674592023901598_4331.js"
+        }
+    },
+    "1674592023901665:4405": {
+        "IResourceController": {
+            "public": {
+                "path": "Example Resources/World Mesh VFX Spawn Example/Scripts/DepthStencil.js",
+                "hash": "dde8b6c6bd27583ce5cbf668e7774194"
+            }
+        }
+    }
+}

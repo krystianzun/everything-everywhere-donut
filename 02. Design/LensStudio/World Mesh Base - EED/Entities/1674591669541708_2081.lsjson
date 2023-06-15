@@ -1,0 +1,23 @@
+{
+    "1674591669541578:2020": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/Planets"
+            }
+        }
+    },
+    "1674591669541708:2081": {
+        "IResourceController": {
+            "name": "Planets",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1674591669541578:2020",
+            "resources": [
+                "1674591669541412:1836",
+                "1674591669541412:1837"
+            ]
+        }
+    }
+}

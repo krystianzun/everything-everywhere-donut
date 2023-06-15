@@ -1,0 +1,43 @@
+{
+    "1674592023901489:4218": {
+        "IResourceController": {
+            "name": "white",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1638229923871655:106826",
+            "fileId": "1674592023901546:4291",
+            "originalId": "1674592023901547:4292",
+            "publicId": "1674592023901652:4376",
+            "expected_hash": "8588ed5a54012f08bde8e6e7913bd90d",
+            "additional": {
+                "originHash": "8588ed5a54012f08bde8e6e7913bd90d",
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1638229923871655:106826",
+            "name": "Files/File72.jpg",
+            "flags": 1
+        }
+    },
+    "1674592023901546:4291": {
+        "IFileManager": {
+            "path": "Files/File_1674592023901546_4291.png"
+        }
+    },
+    "1674592023901547:4292": {
+        "IFileManager": {
+            "path": "Files/File_1674592023901547_4292.png"
+        }
+    },
+    "1674592023901652:4376": {
+        "IResourceController": {
+            "public": {
+                "path": "Example Resources/Tap To Spawn/Textures/white.png",
+                "hash": "8588ed5a54012f08bde8e6e7913bd90d"
+            }
+        }
+    }
+}

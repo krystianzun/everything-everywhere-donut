@@ -1,0 +1,42 @@
+{
+    "1674591669541413:1846": {
+        "IResourceController": {
+            "name": "Planet Instanced Object 2",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1637619988307107:93403",
+            "fileId": "1674591669541502:1936",
+            "originalId": "1674591669541504:1937",
+            "publicId": "1674591669541585:2040",
+            "expected_hash": "516a401c3f04efc1239b8be0cb3f6097",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1637619988307107:93403",
+            "name": "Files/File_1674591669541502_1936",
+            "flags": 1
+        }
+    },
+    "1674591669541502:1936": {
+        "IFileManager": {
+            "path": "Files/File_1674591669541502_1936"
+        }
+    },
+    "1674591669541504:1937": {
+        "IFileManager": {
+            "path": "Files/File_1674591669541504_1937.lsmat"
+        }
+    },
+    "1674591669541585:2040": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Planets/Planet Instanced Object 2.lsmat",
+                "hash": "e17416e83b2d6c3cbf1a1fbb3bad300a"
+            }
+        }
+    }
+}

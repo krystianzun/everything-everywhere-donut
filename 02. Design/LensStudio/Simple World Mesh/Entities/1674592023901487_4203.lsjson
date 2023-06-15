@@ -1,0 +1,80 @@
+{
+    "1638229920070226:105703": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "82164bccad53db2dd551e0a4c89991dc"
+                    },
+                    "v": "1674592023901579:4317"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "524288",
+                "compressedSize": "1990",
+                "extension": "png",
+                "originalRAM": "4194304",
+                "originalSize": "1156",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1674592023901513:4264"
+        }
+    },
+    "1674592023901487:4203": {
+        "IResourceController": {
+            "name": "cloud_base",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1638229920070226:105703",
+            "fileId": "1674592023901510:4262",
+            "originalId": "1674592023901512:4263",
+            "publicId": "1674592023901642:4352",
+            "expected_hash": "81f28d0cc86f902615cacfa4adb8c079",
+            "additional": {
+                "originHash": "82164bccad53db2dd551e0a4c89991dc",
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1638229920070226:105703",
+            "name": "Files/File13.jpg",
+            "flags": 1
+        }
+    },
+    "1674592023901510:4262": {
+        "IFileManager": {
+            "path": "Files/File_1674592023901510_4262.pvr"
+        }
+    },
+    "1674592023901512:4263": {
+        "IFileManager": {
+            "path": "Files/File_1674592023901512_4263.png"
+        }
+    },
+    "1674592023901513:4264": {
+        "IFileManager": {
+            "path": "Files/File_1674592023901513_4264.png"
+        }
+    },
+    "1674592023901579:4317": {
+        "IFileManager": {
+            "path": "Files/File_1674592023901579_4317.pvr"
+        }
+    },
+    "1674592023901642:4352": {
+        "IResourceController": {
+            "public": {
+                "path": "Example Resources/Depth VFX Collision Example/Textures/cloud_base.png",
+                "hash": "82164bccad53db2dd551e0a4c89991dc"
+            }
+        }
+    }
+}

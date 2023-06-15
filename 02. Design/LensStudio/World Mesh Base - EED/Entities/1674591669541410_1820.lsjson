@@ -1,0 +1,33 @@
+{
+    "1674591669541410:1820": {
+        "IResourceController": {
+            "name": "InstanceSpawner",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1637619986110547:92732",
+            "fileId": "1674591669541450:1892",
+            "publicId": "1674591669541570:1996",
+            "expected_hash": "5d764da833b962405195f9498a28798e"
+        },
+        "IResourceManager": {
+            "uid": "1637619986110547:92732",
+            "name": "Files/File_1674591669541450_1892.js",
+            "flags": 1
+        }
+    },
+    "1674591669541450:1892": {
+        "IFileManager": {
+            "path": "Files/File_1674591669541450_1892.js"
+        }
+    },
+    "1674591669541570:1996": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/MaterialInstanceSpawner/InstanceSpawner.js",
+                "hash": "5d764da833b962405195f9498a28798e"
+            }
+        }
+    }
+}

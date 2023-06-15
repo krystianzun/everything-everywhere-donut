@@ -1,0 +1,26 @@
+{
+    "1674592023901650:4369": {
+        "IResourceController": {
+            "public": {
+                "path": "Example Resources/Tap To Spawn"
+            }
+        }
+    },
+    "1674592023901792:4456": {
+        "IResourceController": {
+            "name": "Tap To Spawn",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1674592023901650:4369",
+            "resources": [
+                "1674592023901757:4451",
+                "1674592023901763:4452",
+                "1674592023901785:4453",
+                "1674592023901790:4454",
+                "1674592023901791:4455"
+            ]
+        }
+    }
+}

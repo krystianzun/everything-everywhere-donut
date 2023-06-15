@@ -1,0 +1,23 @@
+{
+    "1674591669541590:2059": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Tween/TweenTypes/Legacy",
+                "hash": "5e2f70d751a3db56714b3b072f595e7b"
+            }
+        }
+    },
+    "1674591669541657:2073": {
+        "IResourceController": {
+            "name": "Legacy",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1674591669541590:2059",
+            "resources": [
+                "1674591669541416:1863"
+            ]
+        }
+    }
+}

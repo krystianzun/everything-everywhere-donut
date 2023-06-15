@@ -1,0 +1,20 @@
+{
+    "1674592023901493:4242": {
+        "IResourceController": {
+            "name": "normal_target",
+            "type": 1,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1638297847377453:54961",
+            "additional": {
+                "RenderTargetRole": "2"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1638297847377453:54961",
+            "name": "Render Target",
+            "flags": 0
+        }
+    }
+}

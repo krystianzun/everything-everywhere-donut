@@ -1,0 +1,43 @@
+{
+    "1674592023901493:4244": {
+        "IResourceController": {
+            "name": "color_ramp",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1638297847431254:54987",
+            "fileId": "1674592023901604:4334",
+            "originalId": "1674592023901606:4335",
+            "publicId": "1674592023901666:4408",
+            "expected_hash": "9c037bb85078aff0f6b5973756921494",
+            "additional": {
+                "originHash": "9c037bb85078aff0f6b5973756921494",
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1638297847431254:54987",
+            "name": "Files/File120.jpg",
+            "flags": 1
+        }
+    },
+    "1674592023901604:4334": {
+        "IFileManager": {
+            "path": "Files/File_1674592023901604_4334.png"
+        }
+    },
+    "1674592023901606:4335": {
+        "IFileManager": {
+            "path": "Files/File_1674592023901606_4335.png"
+        }
+    },
+    "1674592023901666:4408": {
+        "IResourceController": {
+            "public": {
+                "path": "Example Resources/World Mesh VFX Spawn Example/Textures/color_ramp.png",
+                "hash": "9c037bb85078aff0f6b5973756921494"
+            }
+        }
+    }
+}

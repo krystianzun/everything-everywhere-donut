@@ -1,0 +1,42 @@
+{
+    "1674591669541414:1848": {
+        "IResourceController": {
+            "name": "Boat Instanced Object [Simple PBR Texture]",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1637619988654305:93433",
+            "fileId": "1674591669541507:1940",
+            "originalId": "1674591669541508:1941",
+            "publicId": "1674591669541586:2044",
+            "expected_hash": "124d50904d0720a3024c34a9ee80eca6",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1637619988654305:93433",
+            "name": "Files/File_1674591669541507_1940",
+            "flags": 1
+        }
+    },
+    "1674591669541507:1940": {
+        "IFileManager": {
+            "path": "Files/File_1674591669541507_1940"
+        }
+    },
+    "1674591669541508:1941": {
+        "IFileManager": {
+            "path": "Files/File_1674591669541508_1941.lsmat"
+        }
+    },
+    "1674591669541586:2044": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Boat/Boat Instanced Object [Simple PBR Texture].lsmat",
+                "hash": "3e7611434d9beef88d7b52aeba902ea4"
+            }
+        }
+    }
+}

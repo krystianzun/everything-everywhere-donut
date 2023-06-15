@@ -1,0 +1,42 @@
+{
+    "1674591669541413:1844": {
+        "IResourceController": {
+            "name": "Desert Instanced Object [Simple PBR Texture]",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1637619987966796:93373",
+            "fileId": "1674591669541498:1932",
+            "originalId": "1674591669541499:1933",
+            "publicId": "1674591669541584:2037",
+            "expected_hash": "124d50904d0720a3024c34a9ee80eca6",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1637619987966796:93373",
+            "name": "Files/File_1674591669541498_1932",
+            "flags": 1
+        }
+    },
+    "1674591669541498:1932": {
+        "IFileManager": {
+            "path": "Files/File_1674591669541498_1932"
+        }
+    },
+    "1674591669541499:1933": {
+        "IFileManager": {
+            "path": "Files/File_1674591669541499_1933.lsmat"
+        }
+    },
+    "1674591669541584:2037": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Desert/Desert Instanced Object [Simple PBR Texture].lsmat",
+                "hash": "38aa043cf01421b3132f7ea7ba1ab62a"
+            }
+        }
+    }
+}
